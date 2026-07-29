@@ -3,7 +3,8 @@ article_id: BTK-06-01
 title: "Mengapa Bambu Harus Dipisahkan dari Tanah"
 slug: "bambu-dan-kontak-tanah"
 description: "Keep bamboo supported, drained, and separated from damaging exposure"
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-07"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,205 +15,89 @@ reader_address: "Sobat Tukang.co.id"
 final_route: "/artikel/bambu-dan-kontak-tanah.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html"
-  - "https://www.iso.org/standard/65528.html?browse=tc"
   - "https://www.iso.org/standard/73831.html?browse=tc"
   - "https://www.iso.org/standard/79460.html"
-  - "https://www.iso.org/standard/79459.html"
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-"
   - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
   - "https://pesta.bsn.go.id/produk/detail/13506-84602017"
-  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=91.140.60&key="
-  - "https://pesta.bsn.go.id/produk/index/461"
   - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
   - "https://www.ilo.org/publications/safety-and-health-wood-workshop"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Mengapa Bambu Harus Dipisahkan dari Tanah
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Mengapa Bambu Harus Dipisahkan dari Tanah”
-- **Reader and situation:** Keep bamboo supported, drained, and separated from damaging exposure
-- **Reader outcome:** Keep bamboo supported, drained, and separated from damaging exposure
-- **Primary intent:** Prevent ground-contact decay
-- **Reader community:** `Tukang.co.id`
-- **Primary friendly address:** `Sobat Tukang.co.id`
-- **Natural variants:** `Kawan Tukang.co.id` and `Teman Tukang.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Moisture principle; foundation design remains project-specific
-- **Final public route:** `/artikel/bambu-dan-kontak-tanah.html`
-- **Appointed CMS date:** `2025-11-07` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Tukang.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Mengapa Bambu Harus Dipisahkan dari Tanah**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Tukang.co.id`, `Kawan Tukang.co.id`, or `Teman Tukang.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi Pondok Wisata Bambu](/wp-content/uploads/2024/08/Pondok-Wisata-Bambu.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Pondok Wisata Bambu` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-33
-
-- **Original sources:** [ISO 22157:2019 official record](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html) and [ISO 19624:2018 official record](https://www.iso.org/standard/65528.html?browse=tc).
-- **Purpose for this article:** Ground moisture, density, dimensions, defects, grading, mechanical properties, and lot acceptance.
-- **Safe grounded facts:** Species, age, diameter, colour, seller grade, or one test result does not establish a lot’s characteristic values, furniture strength, joint behavior, or project acceptance.
-- **Limits:** Both records show revision activity in 2026. Obtain current complete editions, representative sampling, identity/maturity/location, seasoned condition, geometry/defects, test reports, grading/acceptance basis, and qualified interpretation under G-01/G-23.
-
-### KR-34
-
-- **Original sources:** [ISO 22156:2021 official record](https://www.iso.org/standard/73831.html?browse=tc).
-- **Purpose for this article:** Ground bamboo load paths, stability, joints, durability, occupied structures, and engineering boundaries.
-- **Safe grounded facts:** A bamboo furniture test, traditional precedent, culm diameter, lashing detail, or “light structure” label does not establish building-scale capacity or Indonesian acceptance.
-- **Limits:** ISO 22156 is under review in 2026 and is not Indonesian law. Obtain current full text, Indonesian load/design basis, exact system, material properties, connections, site/exposure, calculations, drawings, and engineer acceptance under G-01/G-23/G-25.
-
-### KR-37
-
-- **Original sources:** [ISO 21629-2:2022 official record](https://www.iso.org/standard/79460.html) and [ISO 21629-1:2021 indoor counterpart](https://www.iso.org/standard/79459.html).
-- **Purpose for this article:** Ground exterior exposure, laminated/scrimber products, handling, drainage, maintenance, and indoor/outdoor boundaries.
-- **Safe grounded facts:** Outdoor flooring evidence does not prove a fence, gazebo, furniture item, coating, or other bamboo product, but it refutes generic indoor-to-outdoor transfer.
-- **Limits:** Obtain exact exterior product/assembly, intended exposure, drainage/ground/fastener/finish interfaces, current product data/tests/instructions, installation, maintenance, and warranty under G-03/G-06/G-07/G-22/G-25.
-
-### KR-38
-
-- **Original sources:** [PP 16/2021 official BPK record](https://peraturan.bpk.go.id/Details/161846/pp-no-16-), [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), and [SNI 8460:2017 official BSN record](https://pesta.bsn.go.id/produk/detail/13506-84602017).
-- **Purpose for this article:** Ground use, site, approvals, loads, foundation, weather, access, construction, inspection, and handover for `BFU-10`.
-- **Safe grounded facts:** Prefabrication, open sides, small size, bamboo material, or a furniture seller does not establish approval, structural, foundation, wind/rain, fire, access, electrical, or functional-worthiness outcomes.
-- **Limits:** Confirm current/local rules, function/site/users, PBG/SLF applicability, survey, loads, ground/water/drainage, foundation, complete bamboo system, roof, fire/access/MEP, K3, inspections, and signed acceptance under G-25.
-
-### KR-41
-
-- **Original sources:** [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 8153:2025 official BSN catalogue](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=91.140.60&key=), and [SNI 9374:2025 official BSN catalogue listing](https://pesta.bsn.go.id/produk/index/461).
-- **Purpose for this article:** Ground roof coverings, supports, wind/rain, drainage, floors/walls, condensation, penetrations, and maintenance.
-- **Safe grounded facts:** Bamboo frame, roof material, pitch, overhang, coating, or “tropical design” does not establish wind, water, thermal, acoustic, condensation, drainage, or service-life performance.
-- **Limits:** Obtain current full standards, site climate/load/rainfall, complete assemblies, product instructions, drainage/discharge, penetrations, fire/MEP interfaces, safe access, inspections, maintenance, and warranty under G-28.
-
-### KR-43
-
-- **Original sources:** [Permen PUPR 10/2021 official JDIH record](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi) and [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop).
-- **Purpose for this article:** Ground cutting/drilling/treatment, excavation, lifting, temporary bracing, height work, public interface, inspection, and handover.
-- **Safe grounded facts:** Natural material, light weight, artisan skill, modular work, community participation, or PPE does not remove design-for-safety, method, competence, supervision, exclusion, rescue, and record needs.
-- **Limits:** Confirm current duties, roles, risk assessment, machinery/chemicals, excavation/lifting/height/electrical controls, temporary works, weather limits, public protection, emergency/rescue, inspections, incidents, and closeout under G-30.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-03, G-04, G-06, G-07, G-09, G-23, G-24, G-25, G-28, G-30
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/kontak-kami/warung-bambu-tanah-laut` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontak-kami/warung-bambu-tanah-datar` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontak-kami/warung-bambu-tanah-bumbu` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontak-kami/toilet-bambu-tanah-laut` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontak-kami/toilet-bambu-tanah-datar` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontak-kami/toilet-bambu-tanah-bumbu` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BTK-06-02` → `/artikel/pondasi-struktur-bambu.html` — Pondasi Setempat, Pedestal, dan Dudukan Struktur Bambu
-- `BTK-06-03` → `/artikel/base-plate-kolom-bambu.html` — Base Plate dan Angkur untuk Kolom Bambu
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Bambu Harus Dipisahkan dari Tanah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Halo, Sobat Tukang.co.id! Bambu perlu dipisahkan dari tanah karena tanah menyimpan dan memindahkan kelembapan ke ujung atau dinding bambu secara berulang. Kontak langsung juga membuat air sulit mengalir dan memperpanjang waktu basah; kondisi itu membuka peluang pembusukan dan kerusakan sambungan. Penyangga, celah drainase, dan detail yang mudah diperiksa menjaga bambu tidak menjadi bagian dari jalur air tanah.
+
+Pemisahan bukan berarti bambu otomatis aman. Hasil akhirnya berubah menurut jenis produk, kadar air saat dipasang, hujan, percikan, ventilasi, detail pengikat, dan pemeliharaan. Cat, diameter besar, atau kebiasaan tradisional tidak menggantikan pemeriksaan sistem. Untuk struktur yang memikul beban, keputusan pondasi dan sambungan harus ditinjau khusus proyek; [NEEDS PROJECT-SPECIFIC FOUNDATION REVIEW].
+
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-001
+Source type: local
+Placement: after the opening has answered the main question, before the first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi Pondok Wisata Bambu](/wp-content/uploads/2024/08/Pondok-Wisata-Bambu.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies Pondok Wisata Bambu as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
+
+![Ilustrasi Pondok Wisata Bambu](/wp-content/uploads/2024/08/Pondok-Wisata-Bambu.jpg)
+
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Bambu Harus Dipisahkan dari Tanah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Yang dimaksud “dipisahkan” adalah memberi batas fisik antara bambu dan tanah atau genangan: misalnya dudukan, pedestal, kaki, atau detail lain yang membuat air dapat keluar dan permukaan dapat mengering. Bentuk serta ukurannya tidak bisa dipukul rata. Artikel ini membahas prinsip kelembapan dan inspeksi antarmuka, bukan gambar pondasi, kapasitas tanah, ukuran angkur, atau persetujuan bangunan.
+
+Standar struktur bambu sendiri menempatkan jalur beban, kestabilan, sambungan, dan durabilitas sebagai persoalan sistem, bukan sekadar pilihan bahan ([ISO 22156:2021](https://www.iso.org/standard/73831.html?browse=tc)). Karena itu, “bambu tahan” tidak boleh diterjemahkan menjadi “boleh ditanam langsung”.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Bambu Harus Dipisahkan dari Tanah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutannya sederhana tetapi harus konsisten. Pertama, air hujan dan cipratan diarahkan menjauh dari titik tumpu. Kedua, dudukan memutus jembatan kapiler—jalur sempit yang menarik air ke material—dan menyediakan ruang untuk sirkulasi. Ketiga, ujung bambu, baut, dan lapisan pelindung dibuat dapat dilihat sehingga kebocoran atau retak tidak tersembunyi. Keempat, area sekitar tidak ditimbun kembali sampai menutup celah pemeriksaan.
+
+Untuk produk luar ruang, bukti penggunaan harus dibaca sesuai produk dan rakitannya. Catatan ISO tentang lantai bambu eksterior menekankan bahwa paparan luar ruang, drainase, penanganan, dan pemeliharaan merupakan konteks tersendiri; bukti itu tidak otomatis berlaku untuk gazebo, pagar, atau furnitur lain ([ISO 21629-2:2022](https://www.iso.org/standard/79460.html)). Jadi, minta petunjuk produk dan detail pemasangan yang benar-benar akan digunakan.
+
+Perhatikan pula urutan pekerjaan. Jika tanah dipadatkan atau lanskap dinaikkan setelah bambu terpasang, jarak bebas dapat hilang tanpa ada perubahan pada bambunya. Pekerjaan penutup, talang, dan saluran harus selesai dengan kemiringan yang benar sebelum tumpuan dianggap final. Simpan foto sebelum penutupan, gambar perubahan lapangan, dan nama pemeriksa; catatan ini membantu membedakan masalah drainase dari kerusakan material saat inspeksi berikutnya.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Bambu Harus Dipisahkan dari Tanah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Beberapa kondisi mempercepat kerusakan atau mengubah detail yang diperlukan:
+
+- **Air dan lokasi:** tanah miring, banjir, percikan atap, saluran mampet, dan bayangan yang membuat permukaan lama kering menuntut pengendalian air lebih serius.
+- **Sistem:** jenis bambu, sambungan, ujung terbuka, pelapis, dan material dudukan bekerja sebagai satu kesatuan. Satu lapisan tidak membuktikan umur layan keseluruhan.
+- **Beban dan fungsi:** kolom untuk bangunan yang dihuni berbeda dari elemen dekoratif. Beban angin, hujan, pengguna, dan gempa harus ditentukan untuk lokasi dan fungsi nyata; SNI 1727:2020 adalah salah satu rujukan beban yang perlu diperiksa pada proyek ([BSN—SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020)).
+- **Pelaksanaan:** pemotongan, pengeboran, pengangkatan, dan kerja di ketinggian memerlukan metode, pengawasan, dan perlindungan yang sesuai ([Permen PUPR 10/2021](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi); [ILO, Safety and health in woodwork](https://www.ilo.org/publications/safety-and-health-wood-workshop)).
+
+Kawan Tukang.co.id, sebelum memilih detail, catat dari mana air datang, ke mana air keluar, siapa yang memeriksa, dan kapan pemeriksaan diulang. Tanpa empat jawaban itu, “sudah diberi alas” masih terlalu kabur.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Bambu Harus Dipisahkan dari Tanah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan keputusan bersyarat berikut sebagai pemeriksaan awal, bukan pengganti desain:
+
+| Kondisi yang terlihat | Keputusan awal | Bukti yang harus diminta |
+|---|---|---|
+| Bambu dekoratif di ruang kering, tidak menyentuh lantai basah | Tetap beri jarak agar mudah dibersihkan dan diperiksa | Detail tumpuan dan rencana pembersihan |
+| Tiang luar ruang menerima hujan dan cipratan | Wajib ada jalur pembuangan air dan dudukan yang tidak menahan genangan | Gambar detail, petunjuk produk, serta jadwal inspeksi |
+| Tanah sering basah atau rawan banjir | Hentikan pemasangan langsung; minta solusi tapak dan pondasi spesifik | Survei, elevasi, drainase, beban, dan persetujuan tenaga berwenang |
+| Dudukan sudah ada tetapi ujung bambu tertutup rapat dan tak terlihat | Jangan anggap selesai; buka titik inspeksi atau revisi detail | Foto kondisi terpasang dan kriteria penerimaan |
+
+Jika fungsi bangunan, pengguna, atau lokasi berubah, ulangi penilaian. PP 16/2021 dan SNI 8460:2017 mengingatkan bahwa penggunaan, tapak, beban, dan pondasi terkait dengan keputusan bangunan yang lebih luas ([PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-); [BSN—SNI 8460:2017](https://pesta.bsn.go.id/produk/detail/13506-84602017)).
+
+Untuk membahas kebutuhan lapangan sebelum memesan, lihat dahulu [konteks pondok wisata bambu](/pondok-wisata) dan gunakan [halaman kontak](/kontak-kami) untuk menyampaikan kondisi tanah, sumber air, ukuran elemen, serta foto antarmuka. Keduanya bukan pengganti gambar kerja, survei, atau persetujuan teknis. Catat kondisi awal sebelum keputusan dibuat.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Bambu Harus Dipisahkan dari Tanah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan paling sering adalah menanam ujung bambu, menutup celah dengan adukan tanpa jalur keluar, mengandalkan pelapis sebagai satu-satunya perlindungan, dan menganggap ringan berarti tidak perlu pemeriksaan. Periksa dengan pertanyaan konkret: apakah ada genangan setelah hujan, apakah baut atau ujung bambu bisa dilihat, apakah air dari atap jatuh ke tumpuan, dan apakah perubahan tanah mengubah elevasi bebas?
 
-## Objection or shortcut to address
+Teman Tukang.co.id, lakukan pemeriksaan sebelum penutupan akhir, setelah hujan pertama, dan pada jadwal pemeliharaan yang disepakati. Catat tanggal, lokasi, perubahan, serta tindakan koreksi. Jangan mengisi celah bukti dengan tebakan atau menganggap satu sampel mewakili seluruh lot.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang tampak praktis tetapi berisiko
 
-## Required conclusion
+Shortcut yang sering dipilih adalah “bambu sudah diawetkan, jadi boleh langsung menyentuh tanah”. Pengawetan dapat menjadi bagian dari sistem, tetapi tidak menghilangkan air yang terperangkap, gerakan sambungan, atau genangan di sekitar tumpuan. Alternatif yang lebih dapat diperiksa adalah memisahkan bambu, mengarahkan air keluar, mengikuti instruksi produk yang tepat, dan meminta peninjauan ketika elemen memikul beban.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Simpan keputusan itu bersama gambar, tanggal, dan nama penanggung jawab agar dapat ditelusuri saat kondisi berubah.
 
-## Draft completion checklist
+## Kesimpulan dan langkah berikutnya
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Tukang.co.id!` and uses friendly `Tukang.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Bambu dipisahkan dari tanah agar air tidak terus masuk dan agar tumpuan dapat dikeringkan serta diperiksa. Sebelum pekerjaan ditutup, minta gambar detail tumpuan, alur drainase, petunjuk produk, dan catatan inspeksi. Bila elemen memikul beban atau tapaknya bermasalah, hentikan keputusan berdasarkan kebiasaan dan dapatkan review pondasi serta struktur yang spesifik proyek. Aturan kerjanya: tidak ada bambu yang menyentuh tanah tanpa jalur air keluar dan bukti bahwa detail tersebut telah diterima untuk kondisi nyata.

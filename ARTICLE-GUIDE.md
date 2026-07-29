@@ -5,6 +5,7 @@ Status: repository-local instruction for expanding one prebuilt article outline 
 Public route contract: `/artikel/[slug].html`
 Source route evidence: sitemap XML, 29595 routes discovered during packet generation
 Reader community name: `Tukang.co.id`
+Lean route evidence checked 2026-07-29: the repository homepage and `sitemap-complete.xml` confirm the root and non-geographic navbar/product routes `/`, `/furnitur`, `/furnitur/anyaman`, `/furnitur/bale`, `/furnitur/besek`, `/furnitur/kursi`, `/furnitur/lampu-hias`, `/furnitur/lemari`, `/furnitur/meja`, `/furnitur/minibar`, `/furnitur/rak`, `/furnitur/rak-tv`, `/furnitur/tempat-tidur`, `/furnitur/tirai`, `/dekoratif`, `/amfiteater`, `/arena-olahraga`, `/asrama`, `/balai-desa`, `/galeri-seni`, `/gardu-pandang`, `/gazebo`, `/gedung-pertemuan`, `/gedung-serbaguna`, `/gubuk`, `/hotel`, `/jembatan`, `/kafe`, `/kandang-burung`, `/kandang-ternak`, `/kios-souvenir`, `/masjid-mushola`, `/museum`, `/pagar`, `/paviliun`, `/perpustakaan`, `/pondok-wisata`, `/resor-villa`, `/restoran`, `/rumah`, `/rumah-kupu-kupu`, `/rumah-pohon`, `/sanggar-seni`, `/taman-bermain`, `/tempat-penampungan-darurat`, `/toilet-umum`, `/warung`, `/berita`, `/tentang-kami`, and `/kontak-kami`; prefer the relevant parent/product destination over city-template URLs, and never invent a route.
 
 ## Exact prompt to give the lower-capability model
 

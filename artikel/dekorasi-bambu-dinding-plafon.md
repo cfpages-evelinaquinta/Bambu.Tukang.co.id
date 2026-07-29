@@ -3,7 +3,8 @@ article_id: BTK-12-04
 title: "Dekorasi Bambu untuk Dinding dan Plafon"
 slug: "dekorasi-bambu-dinding-plafon"
 description: "Specify usable bamboo furniture and decorative elements"
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-04-06"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,257 +15,93 @@ reader_address: "Teman Tukang.co.id"
 final_route: "/artikel/dekorasi-bambu-dinding-plafon.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0"
   - "https://www.iso.org/standard/76864.html"
   - "https://www.ilo.org/publications/safety-and-health-wood-workshop"
   - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html"
-  - "https://www.iso.org/standard/65528.html?browse=tc"
-  - "https://www.iso.org/standard/73831.html?browse=tc"
-  - "https://www.iso.org/standard/83076.html"
   - "https://www.iso.org/standard/82086.html"
-  - "https://www.iso.org/standard/79460.html"
   - "https://www.iso.org/standard/79459.html"
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-"
-  - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
-  - "https://pesta.bsn.go.id/produk/detail/13506-84602017"
-  - "https://www.iso.org/standard/73866.html"
-  - "https://www.iso.org/standard/73590.html"
-  - "https://www.iso.org/standard/66310.html"
-  - "https://www.iso.org/standard/13773.html"
-  - "https://www.iso.org/standard/13774.html"
-  - "https://www.iso.org/standard/76831.html"
-  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/03/56/35608.html?browse=tc"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Dekorasi Bambu untuk Dinding dan Plafon
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Dekorasi Bambu untuk Dinding dan Plafon”
-- **Reader and situation:** Specify usable bamboo furniture and decorative elements
-- **Reader outcome:** Specify usable bamboo furniture and decorative elements
-- **Primary intent:** Plan decorative assemblies
-- **Reader community:** `Tukang.co.id`
-- **Primary friendly address:** `Teman Tukang.co.id`
-- **Natural variants:** `Sobat Tukang.co.id` and `Kawan Tukang.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Nonstructural scope; fire/attachment evidence still required
-- **Final public route:** `/artikel/dekorasi-bambu-dinding-plafon.html`
-- **Appointed CMS date:** `2026-04-06` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Tukang.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Dekorasi Bambu untuk Dinding dan Plafon**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Tukang.co.id`, `Sobat Tukang.co.id`, or `Kawan Tukang.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+- Image ID: LOCAL-001
+- Source type: local
+- Placement: after the opening answer, before the first H2
 - **Exact Markdown to insert:** `![Ilustrasi Pondok Wisata Bambu](/wp-content/uploads/2024/08/Pondok-Wisata-Bambu.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Pondok Wisata Bambu` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+- Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- Selection basis: filename/source metadata identifies Pondok Wisata Bambu; no pixels were inspected.
+- Hard boundary: do not infer visual details, ownership, location, people, brands, condition, performance, or outcome.
+- Substitution rule: do not replace; if unavailable use [NEEDS IMAGE REVIEW: LOCAL-001].
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Teman Tukang.co.id!
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Dekorasi bambu untuk dinding dan plafon layak dipilih bila diperlakukan sebagai lapisan nonstruktural yang punya sistem pemasangan jelas—bukan sebagai pengganti rangka bangunan. Panel, bilah, anyaman, atau kisi bambu harus cocok dengan ruang, substrat, kelembapan, dan cara perawatan. Tampilan “alami” saja tidak membuktikan kuat, awet, tahan api, atau aman terpasang.
 
-### KR-01
+Jawaban cepatnya: tentukan dulu fungsi dan lokasi, pilih produk dengan konstruksi serta instruksi yang dapat diverifikasi, lalu rancang rangka bantu, sambungan, dan akses inspeksinya. Bukti tentang kadar air, dimensi, cacat, dan sifat mekanis bambu dapat membantu menilai bahan, tetapi tidak otomatis membuktikan kinerja panel yang sudah dipasang. Rekaman ISO 22157 menempatkan pengujian bambu pada identitas, kondisi, geometri, dan metode tertentu; minta edisi lengkap dan laporan yang benar-benar sesuai produk sebelum membuat klaim. ([ISO 22157](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html))
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bambu.tukang.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A defensible article distinguishes material, processed product, tested specimen, installed assembly, company offer, and legal/compliance claim.
-- **Limits:** Recheck the repository and live commercial evidence before any claim about stock, capacity, certification, warranty, price, or completed work.
+![Ilustrasi Pondok Wisata Bambu](/wp-content/uploads/2024/08/Pondok-Wisata-Bambu.jpg)
 
-### KR-29
-
-- **Original sources:** [ISO/TC 136 current furniture catalogue](https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0), [ISO 7170:2021](https://www.iso.org/standard/76864.html), and [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop).
-- **Purpose for this article:** Support joints, hinges/slides/extensions, mechanisms, built-ins, anchoring, delivery, installation, relocation, adjustment, and handover.
-- **Safe grounded facts:** Hardware/product identity, declared load/use, mounting material/thickness, fastener/edge distances, alignment, travel/clearance, stops/locks, wall/floor substrate, services, access, inspection, and instructions form the evidence chain.
-- **Limits:** Obtain exact hardware/furniture instructions and reports, site/substrate survey, approved drawings/method, competent installer, safe-work plan, tests, and handover under G-20.
-
-### KR-33
-
-- **Original sources:** [ISO 22157:2019 official record](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html) and [ISO 19624:2018 official record](https://www.iso.org/standard/65528.html?browse=tc).
-- **Purpose for this article:** Ground moisture, density, dimensions, defects, grading, mechanical properties, and lot acceptance.
-- **Safe grounded facts:** Species, age, diameter, colour, seller grade, or one test result does not establish a lot’s characteristic values, furniture strength, joint behavior, or project acceptance.
-- **Limits:** Both records show revision activity in 2026. Obtain current complete editions, representative sampling, identity/maturity/location, seasoned condition, geometry/defects, test reports, grading/acceptance basis, and qualified interpretation under G-01/G-23.
-
-### KR-34
-
-- **Original sources:** [ISO 22156:2021 official record](https://www.iso.org/standard/73831.html?browse=tc).
-- **Purpose for this article:** Ground bamboo load paths, stability, joints, durability, occupied structures, and engineering boundaries.
-- **Safe grounded facts:** A bamboo furniture test, traditional precedent, culm diameter, lashing detail, or “light structure” label does not establish building-scale capacity or Indonesian acceptance.
-- **Limits:** ISO 22156 is under review in 2026 and is not Indonesian law. Obtain current full text, Indonesian load/design basis, exact system, material properties, connections, site/exposure, calculations, drawings, and engineer acceptance under G-01/G-23/G-25.
-
-### KR-36
-
-- **Original sources:** [ISO 7567:2024 official record](https://www.iso.org/standard/83076.html) and [ISO 6128:2023](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Bound engineered bamboo, glulam, panel, furniture-stock, and structural-product claims.
-- **Safe grounded facts:** Similar appearance or the word “laminated” does not establish common scope, bond/exposure class, structural role, test evidence, or substitution acceptability.
-- **Limits:** Obtain exact product family, construction, adhesive, intended use/exposure, full standard, test reports, production control, design/acceptance basis, and change control under G-01/G-04/G-07/G-23/G-25.
-
-### KR-37
-
-- **Original sources:** [ISO 21629-2:2022 official record](https://www.iso.org/standard/79460.html) and [ISO 21629-1:2021 indoor counterpart](https://www.iso.org/standard/79459.html).
-- **Purpose for this article:** Ground exterior exposure, laminated/scrimber products, handling, drainage, maintenance, and indoor/outdoor boundaries.
-- **Safe grounded facts:** Outdoor flooring evidence does not prove a fence, gazebo, furniture item, coating, or other bamboo product, but it refutes generic indoor-to-outdoor transfer.
-- **Limits:** Obtain exact exterior product/assembly, intended exposure, drainage/ground/fastener/finish interfaces, current product data/tests/instructions, installation, maintenance, and warranty under G-03/G-06/G-07/G-22/G-25.
-
-### KR-38
-
-- **Original sources:** [PP 16/2021 official BPK record](https://peraturan.bpk.go.id/Details/161846/pp-no-16-), [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), and [SNI 8460:2017 official BSN record](https://pesta.bsn.go.id/produk/detail/13506-84602017).
-- **Purpose for this article:** Ground use, site, approvals, loads, foundation, weather, access, construction, inspection, and handover for `BFU-10`.
-- **Safe grounded facts:** Prefabrication, open sides, small size, bamboo material, or a furniture seller does not establish approval, structural, foundation, wind/rain, fire, access, electrical, or functional-worthiness outcomes.
-- **Limits:** Confirm current/local rules, function/site/users, PBG/SLF applicability, survey, loads, ground/water/drainage, foundation, complete bamboo system, roof, fire/access/MEP, K3, inspections, and signed acceptance under G-25.
-
-### KR-25
-
-- **Original sources:** [ISO 7173:2023 — chairs/stools](https://www.iso.org/standard/73866.html), [ISO 7170:2021 — storage units](https://www.iso.org/standard/76864.html), [ISO 19682:2023 — tables/desks](https://www.iso.org/standard/73590.html), and [ISO 19833:2018 — adult beds](https://www.iso.org/standard/66310.html).
-- **Purpose for this article:** Ground product taxonomy, strength/durability/stability, configuration, procurement, QC, diagnosis, and safety articles.
-- **Safe grounded facts:** Product family, intended user/use, complete assembled specimen, configuration, materials, joints/hardware, dimensions, loading/cycles, conditioning, failure/result, edition, and acceptance document determine applicability.
-- **Limits:** Public abstracts do not supply test values or prove a product passes. ISO 7173:2023 is already marked for revision. Resolve current full methods, exact specimen-to-offer equivalence, laboratory scope, results, and Indonesian/project acceptance under G-16.
-
-### KR-26
-
-- **Original sources:** [ISO 7174-1:1988 — upright chairs/stools](https://www.iso.org/standard/13773.html), [ISO 7174-2:1992 — reclining/rocking chairs](https://www.iso.org/standard/13774.html), and [ISO 7170:2021 — storage units](https://www.iso.org/standard/76864.html).
-- **Purpose for this article:** Support stability, anchoring, moving parts, loading, misuse, children, installation, inspection, and urgent-hazard articles.
-- **Safe grounded facts:** Open drawers/doors, extension, load location, adjustable/reclined state, floor level, wall/substrate/anchor, user behavior, damage, missing components, and installation change stability.
-- **Limits:** Do not publish a universal anchor, safe load, test force, or pass claim. Obtain the complete applicable method/requirement, product instructions/report, site/substrate survey, installation design, and competent review under G-17.
-
-### KR-27
-
-- **Original sources:** [ISO 24496:2021 — office-chair dimension methods](https://www.iso.org/standard/76831.html) and [ISO 21015:2007 — office work-chair stability/strength/durability](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/03/56/35608.html?browse=tc).
-- **Purpose for this article:** Bound anthropometry, dimensions, posture/task fit, adjustability, accessibility, and office-chair claims.
-- **Safe grounded facts:** User population, task, duration, posture changes, adjustability, reach, transfer, circulation, clothing/equipment, trial fit, and maintenance all affect usability.
-- **Limits:** No universal “ergonomic” dimension, accessibility compliance, medical benefit, or fit claim without current Indonesian requirements, user/task evidence, applicable product standard, trial, and ergonomics/accessibility review under G-18.
-
-### KR-28
-
-- **Original sources:** [ISO 7173:2023](https://www.iso.org/standard/73866.html), [ISO 7170:2021](https://www.iso.org/standard/76864.html), [ISO 19682:2023](https://www.iso.org/standard/73590.html), and [ISO 24496:2021](https://www.iso.org/standard/76831.html).
-- **Purpose for this article:** Support workplace, hospitality, healthcare, education, food-service, retail, worship, and public-use furniture briefs.
-- **Safe grounded facts:** Users, traffic/duty, activities, cleaning agents/frequency, spills, mobility, accessibility, supervision, evacuation/fire, utilities, privacy/security, replacement, and facility policy must be documented.
-- **Limits:** Resolve current Indonesian sector/building rules, owner infection-control/cleaning policy, exact products/finishes, tests, risk assessment, and relevant professional review under G-19.
-
-### KR-35
-
-- **Original sources:** [ISO 6128:2023 official record](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Ground laminated furniture stock, construction, requirements/tests, handling, storage, packaging, and marking.
-- **Safe grounded facts:** An ISO 6128 scope match does not prove a specific product complies, and indoor furniture material evidence cannot be transferred to outdoor, structural, food-contact, or electrical use.
-- **Limits:** Obtain the current full standard, product construction/adhesive/finish, intended indoor use, reports, production equivalence, handling/storage history, and acceptance evidence under G-01/G-04/G-07/G-23.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22, G-23, G-24, G-25, G-26, G-27; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/warung-bambu.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-wonosobo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BTK-12-02` → `/artikel/sambungan-furnitur-bambu.html` — Sambungan Furnitur Bambu dan Risiko Longgar
-- `BTK-12-03` → `/artikel/finishing-bambu-interior.html` — Finishing Bambu untuk Interior
-- `BTK-12-05` → `/artikel/aksesori-lampu-bambu.html` — Lampu dan Aksesori Bambu: Panas serta Kelistrikan
-- `BTK-12-06` → `/artikel/menilai-kualitas-produk-bambu.html` — Cara Menilai Kualitas Produk Bambu Buatan Tangan
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Dekorasi Bambu untuk Dinding dan Plafon”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+*Ilustrasi umum dari aset lokal bambu.tukang.co.id; bukan dokumentasi proyek tertentu.*
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Dekorasi Bambu untuk Dinding dan Plafon”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Yang dibahas di sini ialah kulit dekoratif di permukaan dinding atau di bawah plafon: bilah, panel berlapis, anyaman, kisi, atau elemen furnitur ringan yang menjadi aksen. Beban utamanya adalah berat sendiri dan beban penggunaan ringan yang memang dinyatakan oleh pembuat. Dinding, balok, kuda-kuda, dan fondasi tetap bekerja sebagai struktur terpisah.
+
+Batas ini penting karena kata “bambu” mencakup bahan mentah, bambu olahan, papan berlaminasi, sampai komponen struktural. ISO 6128 membahas stok furnitur berlaminasi, tetapi kesesuaian ruang lingkupnya tidak membuktikan satu produk tertentu lolos uji atau boleh dipakai di luar penggunaan yang dinyatakan. ([ISO 6128](https://www.iso.org/standard/82086.html)) Jangan memindahkan bukti bahan interior ke area luar, dekat sumber panas, atau sistem struktural tanpa data tambahan.
+
+Sebelum menggambar pola, tulis empat hal: bidang mana yang dilapisi, siapa yang memakai ruang, apa yang harus tetap dapat diakses, dan kondisi basah/panas yang mungkin terjadi. Jika elemen menahan orang, barang berat, atau bagian bangunan, hentikan klasifikasi dekoratif dan minta penilaian profesional.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Dekorasi Bambu untuk Dinding dan Plafon”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari survei bidang. Ukur kerataan, cari pipa atau kabel, kenali apakah substratnya beton, bata, papan, atau rangka metal, dan tentukan jalur ventilasi. Rangka bantu yang rata memberi bidang sekrup yang konsisten serta ruang untuk merapikan sambungan. Sisakan celah tepi dan panel yang memungkinkan pemuaian serta pembongkaran terbatas; ukuran pastinya mengikuti produk dan instruksi pemasangannya, bukan tebakan universal.
+
+Susun urutan kerja: persetujuan pola, pemeriksaan bahan, pembuatan rangka, pemasangan pengikat, pemasangan modul bambu, lalu inspeksi dan serah-terima. Setiap pengikat harus punya pasangan yang jelas antara jenis sekrup, material dasar, tebal komponen, jarak tepi, dan akses alat. ISO 7170 menekankan bahwa identitas produk, konfigurasi lengkap, pemasangan, dan kondisi penggunaan menentukan relevansi penilaian penyimpanan; prinsip dokumentasi itu berguna untuk panel dekoratif juga. ([ISO 7170](https://www.iso.org/standard/76864.html))
+
+Di plafon, rencanakan bagaimana panel ditahan saat dipasang dan apa yang terjadi bila satu titik lepas. Jangan menggantung aksesori, lampu, atau perangkat mekanis pada bilah dekoratif kecuali detail penyangganya telah dirancang untuk beban tersebut. Buat daftar titik inspeksi sehingga panel dapat dibuka tanpa merusak seluruh bidang.
+
+Pekerjaan pemotongan dan pengeboran menghasilkan debu. Terapkan ventilasi, perlindungan mata dan pernapasan yang sesuai, housekeeping, serta prosedur alat yang aman; panduan keselamatan bengkel kayu ILO relevan sebagai dasar praktik kerja, bukan sebagai sertifikat bahwa proyek tertentu aman. ([ILO, Safety and health in wood workshops](https://www.ilo.org/publications/safety-and-health-wood-workshop))
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Dekorasi Bambu untuk Dinding dan Plafon”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Bahan dan mutu lot.** Diameter, umur, warna, atau label penjual bukan pengganti pemeriksaan. Catat identitas lot, kondisi kering, ukuran, retak, lubang, dan kelurusan. Satu sampel tidak mewakili seluruh kiriman; simpan foto penerimaan, lembar produk, dan kriteria penolakan.
+
+**Lingkungan.** Dinding yang menerima rembesan, plafon dekat kamar mandi, atau ruang dengan perubahan kelembapan memerlukan detail ventilasi, drainase kondensat, dan perawatan yang berbeda dari ruang kering. Produk indoor tidak otomatis cocok untuk teras. Untuk area luar, bukti lantai luar pun tidak membuktikan kesesuaian pagar atau plafon; minta data paparan dan perawatan produk yang tepat. ([ISO 21629-1](https://www.iso.org/standard/79459.html))
+
+**Substrat dan utilitas.** Dinding rapuh, lapisan keramik, atau rangka tipis dapat mengubah pilihan pengikat. Peta utilitas harus disetujui sebelum pengeboran. Jika tidak dapat memastikan lokasi kabel/pipa, jangan mengebor berdasarkan perkiraan.
+
+**Penggunaan dan akses.** Di area publik, perhatikan benturan, pembersihan, evakuasi, dan akses untuk inspeksi. Sediakan tepi yang tidak tajam dan modul pengganti yang identik. Untuk plafon, pastikan panel tidak menutup detektor, sprinkler, ventilasi, atau pintu inspeksi.
+
+**Api dan listrik.** Bambu dekoratif tetap bahan mudah terbakar; jarak dari lampu, kabel, kompor, dan sumber panas harus mengikuti rancangan serta persyaratan setempat. [NEEDS FIRE REVIEW: buktikan klasifikasi api, detail jarak, dan kompatibilitas dengan instalasi listrik sebelum pemasangan.] Jangan menyatakan “tahan api” hanya karena memakai pelapis tertentu.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Dekorasi Bambu untuk Dinding dan Plafon”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan matriks sederhana berikut sebagai penyaring awal, bukan persetujuan akhir.
+
+| Situasi | Pilihan awal | Bukti sebelum pesan |
+|---|---|---|
+| Dinding ruang kering, aksen visual | Panel atau bilah pada rangka bantu | Lembar produk, ukuran modul, metode pengikat, akses bongkar |
+| Plafon dengan banyak utilitas | Modul kecil yang dapat dilepas | Gambar koordinasi utilitas, detail penahan, urutan inspeksi |
+| Area lembap atau semi-luar | Produk dengan penggunaan dan perawatan yang dinyatakan | Data paparan, ventilasi, sambungan, drainase, jadwal perawatan |
+| Dekat lampu atau sumber panas | Tunda pemilihan sampai koordinasi api-listrik selesai | Jarak rancangan, spesifikasi perangkat, review kompeten |
+
+Misalnya, pemilik meminta pola rapat untuk menyamarkan dinding bergelombang. Solusi yang dapat dipertanggungjawabkan adalah meratakan dengan rangka bantu dan menyisakan panel akses, bukan memaksa bilah mengikuti gelombang. Jika substrat ternyata papan tipis, ubah detail pengikat setelah survei; jangan menyalin detail beton.
+
+Teman Tukang.co.id, minta tiga lembar pada rapat keputusan: denah modul, detail potongan sambungan, dan daftar produk beserta batas penggunaannya. Ketiganya memudahkan perubahan tanpa mengandalkan ingatan tukang.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Dekorasi Bambu untuk Dinding dan Plafon”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama ialah menganggap semua bambu memiliki perilaku sama. Periksa konstruksi (utuh, belah, atau berlaminasi), perekat, lapisan akhir, dan kondisi penyimpanan. Kesalahan kedua ialah menempelkan panel langsung ke dinding lembap. Cari sumber air dan sediakan rongga atau solusi lain yang disetujui sebelum menutupinya.
 
-## Objection or shortcut to address
+Kesalahan ketiga ialah memakai paku atau sekrup yang tersedia tanpa mengecek tepi dan retak. Lakukan pemasangan percobaan pada bahan yang sama, lalu dokumentasikan torsi, kerataan, dan kerusakan. Kesalahan keempat ialah mengunci seluruh plafon sehingga utilitas tak bisa diperiksa. Tandai panel akses sejak gambar awal.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Shortcut yang sering dipilih adalah membeli panel yang “sudah finishing” lalu memasangnya di mana saja. Finishing tidak menjawab kecocokan substrat, paparan, api, atau beban. Alternatif yang lebih aman: cocokkan lembar data dan instruksi dengan lokasi nyata, lakukan mock-up kecil, minta persetujuan pemilik, dan catat perubahan material.
 
-## Required conclusion
+## Kesimpulan dan langkah berikutnya
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Dekorasi bambu untuk dinding dan plafon paling masuk akal sebagai sistem nonstruktural yang modular, dapat diinspeksi, dan dipilih sesuai lingkungan. Keputusan berubah bila produk diminta menahan beban, dipasang di area luar/lembap, berada dekat panas, atau menutup utilitas.
 
-## Draft completion checklist
+Kawan Tukang.co.id, sebelum membeli, kirimkan foto survei bidang, ukuran, peta utilitas, fungsi ruang, dan lembar produk kepada pemasang atau penanggung jawab teknis. Minta detail pengikat, rencana akses, serta penilaian api-listrik tertulis. [NEEDS PROFESSIONAL REVIEW: persetujuan akhir pemasangan, keselamatan kebakaran, dan kecukupan substrat belum dapat ditetapkan dari artikel ini.] Aturan operasionalnya sederhana: bila bukti produk atau kondisi bidang belum cocok, tahan pekerjaan dan revisi detail—jangan menutup risiko dengan motif yang menarik.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Tukang.co.id!` and uses friendly `Tukang.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Untuk menyiapkan percakapan kebutuhan produk, Anda dapat melihat konteks [warung](/warung) dan koleksi [dekoratif](/dekoratif). Anggap keduanya sebagai rujukan konteks, bukan bukti bahwa stok, harga, atau spesifikasi proyek Anda sudah tersedia.

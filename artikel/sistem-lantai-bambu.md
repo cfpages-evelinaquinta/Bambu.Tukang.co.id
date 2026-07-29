@@ -1,9 +1,10 @@
 ---
 article_id: BTK-07-03
+writing_contract_version: "native-id-v2"
 title: "Lantai Bambu untuk Bangunan dan Ruang Publik"
 slug: "sistem-lantai-bambu"
 description: "Detail weather-resistant bamboo assemblies"
-status: outline
+status: draft
 publication_date: "2025-12-08"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,53 +18,23 @@ sources:
   - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html"
   - "https://www.iso.org/standard/65528.html?browse=tc"
   - "https://www.iso.org/standard/73831.html?browse=tc"
-  - "https://www.iso.org/standard/83076.html"
-  - "https://www.iso.org/standard/82086.html"
   - "https://www.iso.org/standard/79460.html"
   - "https://www.iso.org/standard/79459.html"
+  - "https://www.iso.org/standard/83076.html"
+  - "https://www.iso.org/standard/82086.html"
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-"
   - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
   - "https://pesta.bsn.go.id/produk/detail/13506-84602017"
-  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=91.140.60&key="
-  - "https://pesta.bsn.go.id/produk/index/461"
-  - "https://peraturan.bpk.go.id/Details/104477/permen-"
-  - "https://pesta.bsn.go.id/produk/detail/12857-sni0225-22020"
-  - "https://pesta.bsn.go.id/produk/detail/7635-sniiec62305-22009"
-  - "https://pesta.bsn.go.id/produk/index/219"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Lantai Bambu untuk Bangunan dan Ruang Publik
 
-## Assignment lock
+Halo, Kawan Tukang.co.id! Lantai bambu dapat dipakai pada bangunan atau ruang publik, tetapi keputusan yang aman bukan berdasarkan kata “bambu” atau tampilan bilahnya. Yang harus dinilai adalah satu rakitan lengkap: bahan, tumpuan, sambungan, celah drainase, lapisan akhir, beban pengguna, dan cara perawatannya. Lantai untuk teras beratap tidak otomatis cocok untuk selasar terbuka atau area yang menerima hujan langsung.
 
-- **Writer task:** Expand this file into one complete article answering: “Lantai Bambu untuk Bangunan dan Ruang Publik”
-- **Reader and situation:** Detail weather-resistant bamboo assemblies
-- **Reader outcome:** Detail weather-resistant bamboo assemblies
-- **Primary intent:** Evaluate floor assemblies
-- **Reader community:** `Tukang.co.id`
-- **Primary friendly address:** `Kawan Tukang.co.id`
-- **Natural variants:** `Sobat Tukang.co.id` and `Teman Tukang.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Load, slip, wear, and finish need evidence
-- **Final public route:** `/artikel/sistem-lantai-bambu.html`
-- **Appointed CMS date:** `2025-12-08` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: pilih sistem lantai hanya setelah kelas paparan, beban, risiko licin, keausan, dan bukti finishing ditetapkan untuk lokasi tersebut. Rekaman standar ISO dapat membantu menentukan data material, pengujian, dan batas penggunaan, namun catatan status standar itu sendiri tidak membuktikan lantai tertentu lulus. ISO 22157 dan ISO 19624 membahas pengukuran serta pengujian bambu; hasilnya tetap perlu dikaitkan dengan lot, geometri, kadar air, cacat, dan desain rakitan ([ISO 22157:2019](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html), [ISO 19624:2018](https://www.iso.org/standard/65528.html?browse=tc)).
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Tukang.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Lantai Bambu untuk Bangunan dan Ruang Publik**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Tukang.co.id`, `Sobat Tukang.co.id`, or `Teman Tukang.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
+<!-- BEGIN MANAGED IMAGE PLAN
+## Rencana gambar
 
 - **Image ID:** `LOCAL-001`
 - **Source type:** `local`
@@ -73,166 +44,65 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Pondok Wisata Bambu` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Pondok Wisata Bambu](/wp-content/uploads/2024/08/Pondok-Wisata-Bambu.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-33
-
-- **Original sources:** [ISO 22157:2019 official record](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html) and [ISO 19624:2018 official record](https://www.iso.org/standard/65528.html?browse=tc).
-- **Purpose for this article:** Ground moisture, density, dimensions, defects, grading, mechanical properties, and lot acceptance.
-- **Safe grounded facts:** Species, age, diameter, colour, seller grade, or one test result does not establish a lot’s characteristic values, furniture strength, joint behavior, or project acceptance.
-- **Limits:** Both records show revision activity in 2026. Obtain current complete editions, representative sampling, identity/maturity/location, seasoned condition, geometry/defects, test reports, grading/acceptance basis, and qualified interpretation under G-01/G-23.
-
-### KR-34
-
-- **Original sources:** [ISO 22156:2021 official record](https://www.iso.org/standard/73831.html?browse=tc).
-- **Purpose for this article:** Ground bamboo load paths, stability, joints, durability, occupied structures, and engineering boundaries.
-- **Safe grounded facts:** A bamboo furniture test, traditional precedent, culm diameter, lashing detail, or “light structure” label does not establish building-scale capacity or Indonesian acceptance.
-- **Limits:** ISO 22156 is under review in 2026 and is not Indonesian law. Obtain current full text, Indonesian load/design basis, exact system, material properties, connections, site/exposure, calculations, drawings, and engineer acceptance under G-01/G-23/G-25.
-
-### KR-36
-
-- **Original sources:** [ISO 7567:2024 official record](https://www.iso.org/standard/83076.html) and [ISO 6128:2023](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Bound engineered bamboo, glulam, panel, furniture-stock, and structural-product claims.
-- **Safe grounded facts:** Similar appearance or the word “laminated” does not establish common scope, bond/exposure class, structural role, test evidence, or substitution acceptability.
-- **Limits:** Obtain exact product family, construction, adhesive, intended use/exposure, full standard, test reports, production control, design/acceptance basis, and change control under G-01/G-04/G-07/G-23/G-25.
-
-### KR-37
-
-- **Original sources:** [ISO 21629-2:2022 official record](https://www.iso.org/standard/79460.html) and [ISO 21629-1:2021 indoor counterpart](https://www.iso.org/standard/79459.html).
-- **Purpose for this article:** Ground exterior exposure, laminated/scrimber products, handling, drainage, maintenance, and indoor/outdoor boundaries.
-- **Safe grounded facts:** Outdoor flooring evidence does not prove a fence, gazebo, furniture item, coating, or other bamboo product, but it refutes generic indoor-to-outdoor transfer.
-- **Limits:** Obtain exact exterior product/assembly, intended exposure, drainage/ground/fastener/finish interfaces, current product data/tests/instructions, installation, maintenance, and warranty under G-03/G-06/G-07/G-22/G-25.
-
-### KR-38
-
-- **Original sources:** [PP 16/2021 official BPK record](https://peraturan.bpk.go.id/Details/161846/pp-no-16-), [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), and [SNI 8460:2017 official BSN record](https://pesta.bsn.go.id/produk/detail/13506-84602017).
-- **Purpose for this article:** Ground use, site, approvals, loads, foundation, weather, access, construction, inspection, and handover for `BFU-10`.
-- **Safe grounded facts:** Prefabrication, open sides, small size, bamboo material, or a furniture seller does not establish approval, structural, foundation, wind/rain, fire, access, electrical, or functional-worthiness outcomes.
-- **Limits:** Confirm current/local rules, function/site/users, PBG/SLF applicability, survey, loads, ground/water/drainage, foundation, complete bamboo system, roof, fire/access/MEP, K3, inspections, and signed acceptance under G-25.
-
-### KR-41
-
-- **Original sources:** [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 8153:2025 official BSN catalogue](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=91.140.60&key=), and [SNI 9374:2025 official BSN catalogue listing](https://pesta.bsn.go.id/produk/index/461).
-- **Purpose for this article:** Ground roof coverings, supports, wind/rain, drainage, floors/walls, condensation, penetrations, and maintenance.
-- **Safe grounded facts:** Bamboo frame, roof material, pitch, overhang, coating, or “tropical design” does not establish wind, water, thermal, acoustic, condensation, drainage, or service-life performance.
-- **Limits:** Obtain current full standards, site climate/load/rainfall, complete assemblies, product instructions, drainage/discharge, penetrations, fire/MEP interfaces, safe access, inspections, maintenance, and warranty under G-28.
-
-### KR-42
-
-- **Original sources:** [Permen PUPR 14/PRT/M/2017 official BPK record](https://peraturan.bpk.go.id/Details/104477/permen-), [SNI 0225-2:2020 PUIL design record](https://pesta.bsn.go.id/produk/detail/12857-sni0225-22020), and [SNI IEC 62305-2:2009 lightning-risk record](https://pesta.bsn.go.id/produk/detail/7635-sniiec62305-22009).
-- **Purpose for this article:** Ground inclusive access, lighting/power, shock/fire protection, earthing, lightning risk, installation, and verification.
-- **Safe grounded facts:** A ramp, wide opening, low-voltage product, metal roof, or nearby taller object does not establish accessible use, safe electrical installation, or acceptable lightning risk.
-- **Limits:** Confirm function/users/site, current applicability, route/levels/guards/controls, supply/earthing/equipment, lightning assessment, competent design/installation, inspection/testing, records, and maintenance under G-29.
-
-### KR-44
-
-- **Original sources:** [PP 16/2021 official BPK record](https://peraturan.bpk.go.id/Details/161846/pp-no-16-), [SNI 1739:2008 official BSN catalogue](https://pesta.bsn.go.id/produk/index/219), and [SNI 1740:2008 listed in the same BSN catalogue](https://pesta.bsn.go.id/produk/index/219).
-- **Purpose for this article:** Bound bamboo combustibility, surface tests, coatings/treatments, fire resistance, ignition, cooking, egress, separation, and post-fire claims.
-- **Safe grounded facts:** “Fire-retardant,” thick culm, plaster, open sides, sprinkler/extinguisher presence, or a surface-test result does not establish assembly resistance, safe egress, occupancy suitability, or post-fire reuse.
-- **Limits:** Obtain current law/full standards, function/occupancy, ignition/cooking/electrical exposure, exact treated material/assembly/reports, separation/egress/access/suppression strategy, maintenance, incident evidence, and fire/structural review under G-29.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-03, G-05, G-06, G-07, G-10, G-22, G-23, G-24, G-25, G-28, G-29
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/warung-bambu.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-wonosobo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BTK-07-01` → `/artikel/detail-atap-bangunan-bambu.html` — Detail Atap untuk Melindungi Struktur Bambu
-- `BTK-07-02` → `/artikel/sistem-dinding-bambu.html` — Dinding Bambu: Anyaman, Bilah, Panel, dan Hybrid
-- `BTK-07-04` → `/artikel/overhang-talang-bangunan-bambu.html` — Overhang, Talang, dan Pembuangan Air pada Bangunan Bambu
-- `BTK-07-05` → `/artikel/ventilasi-bangunan-bambu.html` — Ventilasi dan Pengendalian Kondensasi pada Bangunan Bambu
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Lantai Bambu untuk Bangunan dan Ruang Publik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+*Aset lokal proyek; bukan dokumentasi proyek tertentu.*
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Lantai Bambu untuk Bangunan dan Ruang Publik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Yang dibahas di sini adalah sistem lantai berbahan bambu untuk diinjak: bilah atau panel, rangka/tumpuan, pengikat, lapisan pelindung, dan detail tepi. “Bambu laminasi” (bilah yang direkatkan menjadi elemen) dan produk luar ruang tidak boleh diperlakukan sama hanya karena sama-sama berwarna atau bertuliskan laminated. Rekam standar ISO 7567 dan ISO 6128 menunjukkan bahwa keluarga produk, konstruksi, perekat, kelas paparan, dan fungsi perlu diidentifikasi sebelum klaim kinerja dibuat ([ISO 7567:2024](https://www.iso.org/standard/83076.html), [ISO 6128:2023](https://www.iso.org/standard/82086.html)).
+
+Batasnya penting. Artikel ini tidak menetapkan ukuran penampang, jarak balok, jenis perekat, tebal finishing, kapasitas orang, atau umur layanan. Semua itu bergantung pada produk dan lokasi. Untuk bangunan yang memerlukan persetujuan, penggunaan, dan pemeriksaan, PP 16/2021 serta dasar beban seperti SNI 1727:2020 perlu dibaca bersama gambar dan perhitungan proyek ([PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-), [SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 8460:2017](https://pesta.bsn.go.id/produk/detail/13506-84602017)).
+
+Jika lantai menjadi bagian dari warung atau ruang makan bambu, gunakan [contoh konteks warung bambu](/warung) untuk memetakan fungsi ruang sebelum meminta spesifikasi lantai. Untuk pembanding konteks daerah, [contoh warung bambu Wonosobo](/gazebo) dapat membantu memulai daftar pertanyaan lokasi; halaman tersebut bukan bukti kapasitas atau ketahanan sistem lantai Anda.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Lantai Bambu untuk Bangunan dan Ruang Publik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari jalur beban. Beban orang, furnitur, dan partisi diterima permukaan, diteruskan ke balok atau panel dasar, lalu ke tumpuan dan fondasi. Setiap mata rantai memerlukan data yang cocok; kekuatan satu kupon bambu tidak otomatis menjadi kapasitas lantai. Tanyakan siapa yang menetapkan beban rencana, bagaimana lendutan dan getaran dibatasi, serta bagaimana sambungan ditahan. ISO 22156 memberi konteks rekayasa struktur bambu, tetapi status atau keberadaannya bukan persetujuan otomatis menurut hukum Indonesia ([ISO 22156:2021](https://www.iso.org/standard/73831.html?browse=tc)).
+
+Berikutnya kendalikan air. Permukaan harus punya kemiringan dan celah yang memungkinkan air keluar, sementara ujung bilah, lubang sekrup, dan pertemuan dengan dinding tidak boleh menjadi perangkap lembap. Pada produk eksterior, panduan ISO 21629-2 menempatkan paparan, penanganan, drainase, dan pemeliharaan sebagai bagian dari penilaian; versi indoor ISO 21629-1 tidak dapat dipindahkan begitu saja ke teras terbuka ([ISO 21629-2:2022](https://www.iso.org/standard/79460.html), [ISO 21629-1:2021](https://www.iso.org/standard/79459.html)).
+
+Terakhir, tentukan permukaan pijak: tekstur, sambungan antarbilah, tepi nosing, dan lapisan akhir harus dipilih bersama pola pembersihan. Lapisan yang licin saat basah, mengelupas, atau sulit diperbaiki mengubah risiko pemakaian. Bukti untuk bagian ini harus berasal dari data produk, uji yang relevan, dan inspeksi rakitan; jangan menyamakan kilap permukaan dengan ketahanan aus.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Lantai Bambu untuk Bangunan dan Ruang Publik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, paparan. Ruang dalam yang kering, foyer dengan lalu lintas sepatu, balkon beratap, dan dek tanpa atap adalah empat kondisi berbeda. Catat sumber air, arah tampias, waktu pengeringan, kontak dengan tanah, serta akses untuk mencuci dan memeriksa bagian bawah. “Weather-resistant” hanya bermakna jika produk, sambungan, dan perawatannya didefinisikan untuk paparan tersebut.
+
+Kedua, pola penggunaan. Ruang publik dapat menerima antrean, troli, kursi beroda, pasir, dan tumpahan. Beban merata dan beban titik memberi respons berbeda; roda kecil dapat menekan sambungan secara lokal. Minta skenario beban dan kelas penggunaan tertulis, bukan sekadar label hunian atau ringan.
+
+Ketiga, mutu dan keseragaman lot. Diameter, umur, warna, atau grade penjual bukan pengganti identifikasi spesies, kadar air, cacat, dimensi, sampling, dan laporan uji. Bila dokumen hanya menunjukkan satu sampel, tandai bahwa karakteristik seluruh lot belum terbukti. [NEEDS TECHNICAL REVIEW: verifikasi beban, slip basah, ketahanan aus, detail sambungan, dan kompatibilitas finishing untuk rakitan serta lokasi proyek.]
+
+Keempat, antarmuka. Lantai bertemu tangga, ramp, ambang, talang, dinding, penutup lubang, dan peralatan mekanikal. Perbedaan tinggi kecil dapat menjadi bahaya tersandung; celah terlalu lebar dapat menjepit roda atau tongkat. Koordinasikan detail ini dengan fungsi dan pengguna, lalu tetapkan siapa yang memeriksa sebelum dibuka.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Lantai Bambu untuk Bangunan dan Ruang Publik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel berikut sebagai penyaring awal, bukan persetujuan akhir.
+
+| Kondisi yang diketahui | Keputusan sementara | Bukti yang masih wajib |
+|---|---|---|
+| Ruang dalam, lalu lintas rendah, produk dan metode pemasangan terdokumentasi | Dapat dilanjutkan ke desain detail | Data lot, beban, sambungan, slip, finishing, dan rencana perawatan |
+| Teras beratap dengan tampias sesekali | Jangan memakai spesifikasi indoor tanpa verifikasi | Kelas paparan, drainase, detail ujung, uji basah, instruksi pabrikan |
+| Selasar publik tanpa atap atau dekat kolam | Tahan pengadaan sampai risiko basah terjawab | Uji slip kondisi basah, aus, pembuangan air, inspeksi berkala, rencana penggantian |
+| Produk disebut struktural tetapi tidak ada laporan lengkap | Jangan mengonversi label menjadi kapasitas | Identitas produk, perhitungan, sambungan, kontrol produksi, penerimaan insinyur |
+
+Sobat Tukang.co.id, bila satu sel pada tabel belum punya dokumen, ubah keputusan menjadi “tunda dan verifikasi”, bukan “anggap aman”. Simpan foto detail (tanpa menganggapnya sebagai uji), lembar data, nomor lot, gambar kerja, dan catatan inspeksi dalam berkas serah terima.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Lantai Bambu untuk Bangunan dan Ruang Publik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memilih berdasarkan warna dan harga, lalu baru memikirkan air. Periksa dulu jalur drainase, elevasi, dan akses pembersihan. Kedua, menganggap lapisan coating membuat semua bambu tahan cuaca. Minta jenis substrat, persiapan permukaan, jumlah lapisan, batas paparan, interval pemeliharaan, dan prosedur perbaikan yang benar-benar ditujukan untuk produk itu.
 
-## Objection or shortcut to address
+Ketiga, memakai data lantai indoor untuk ruang luar. Cocokkan nama produk dan dokumen dengan paparan aktual; ISO 21629 membedakan konteks indoor dan outdoor sehingga transfer generik tidak dapat dibenarkan. Keempat, menguji potongan kecil lalu menyimpulkan lantai aman. Pastikan metode sampling, kondisi basah/kering, ukuran spesimen, dan cara menghubungkan hasil ke rakitan diterangkan dalam laporan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Sebelum dibuka untuk umum, lakukan pemeriksaan berlapis: permukaan tidak menimbulkan selip yang tidak terkendali, tidak ada tepi tajam atau beda tinggi berbahaya, pengikat tidak longgar, air tidak menggenang, dan jalur inspeksi tersedia. Jika temuan menyentuh kapasitas, akses, atau keselamatan, minta penilaian profesional yang berwenang.
 
-## Required conclusion
+## Jalan pintas yang tampak praktis
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Shortcut yang sering dipilih adalah memasang bilah bambu biasa di atas rangka yang sudah ada lalu mengoleskan pelapis serbaguna. Cara ini gagal bila rangka tidak memikul skenario beban baru, ujung bilah menyerap air, celah mengunci gerak, atau pelapis tidak dirancang untuk lalu lintas dan kondisi basah. Alternatif yang lebih dapat dipertanggungjawabkan adalah menetapkan fungsi dan paparan lebih dahulu, memilih keluarga produk yang dokumennya lengkap, merancang tumpuan serta drainase, lalu menguji dan menerima rakitan sesuai kondisi proyek.
 
-## Draft completion checklist
+## Kesimpulan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Tukang.co.id!` and uses friendly `Tukang.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Lantai bambu layak dipertimbangkan untuk bangunan dan ruang publik bila seluruh rakitannya—beban, tumpuan, sambungan, air, slip, aus, dan finishing—memiliki bukti yang sesuai dengan lokasi. Standar dan peraturan membantu menetapkan cara berpikir, tetapi tidak menggantikan data produk, gambar, perhitungan, inspeksi, dan penerimaan proyek.
+
+Langkah berikutnya: minta paket verifikasi yang memuat identitas lot, kelas paparan, skenario beban, detail sambungan dan tepi, hasil uji basah serta aus, spesifikasi finishing, jadwal perawatan, dan nama penanggung jawab pemeriksaan. Kawan Tukang.co.id, hentikan pengadaan atau pembukaan area jika salah satu bukti keselamatan utama belum ada. Aturan operasionalnya sederhana: tidak ada klaim “tahan cuaca” atau “aman untuk publik” tanpa bukti rakitan lengkap dan technical review yang diwajibkan.

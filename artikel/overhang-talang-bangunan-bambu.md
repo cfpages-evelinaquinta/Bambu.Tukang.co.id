@@ -3,7 +3,8 @@ article_id: BTK-07-04
 title: "Overhang, Talang, dan Pembuangan Air pada Bangunan Bambu"
 slug: "overhang-talang-bangunan-bambu"
 description: "Detail weather-resistant bamboo assemblies"
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-12-12"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,225 +15,86 @@ reader_address: "Sobat Tukang.co.id"
 final_route: "/artikel/overhang-talang-bangunan-bambu.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html"
-  - "https://www.iso.org/standard/65528.html?browse=tc"
-  - "https://www.iso.org/standard/73831.html?browse=tc"
-  - "https://www.iso.org/standard/83076.html"
-  - "https://www.iso.org/standard/82086.html"
   - "https://www.iso.org/standard/79460.html"
-  - "https://www.iso.org/standard/79459.html"
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-"
   - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
-  - "https://pesta.bsn.go.id/produk/detail/13506-84602017"
   - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=91.140.60&key="
   - "https://pesta.bsn.go.id/produk/index/461"
-  - "https://peraturan.bpk.go.id/Details/104477/permen-"
-  - "https://pesta.bsn.go.id/produk/detail/12857-sni0225-22020"
-  - "https://pesta.bsn.go.id/produk/detail/7635-sniiec62305-22009"
-  - "https://pesta.bsn.go.id/produk/index/219"
+  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-"
+  - "https://www.iso.org/standard/73831.html?browse=tc"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Overhang, Talang, dan Pembuangan Air pada Bangunan Bambu
 
-## Assignment lock
+Halo, Sobat Tukang.co.id! Air hujan tidak berhenti di bidang atap. Ia mencari tepi terpendek, menetes ke ujung bambu, memercik dari tanah, lalu tertahan di sambungan. Karena itu, overhang, talang, dan pembuangan harus dirancang sebagai satu jalur air yang utuh. Overhang menjauhkan hujan dari dinding; talang mengumpulkan limpasan; pipa atau saluran terbuka membawanya ke titik buang yang aman. Mengandalkan lapisan pelindung saja bukan jawaban untuk detail drainase.
 
-- **Writer task:** Expand this file into one complete article answering: “Overhang, Talang, dan Pembuangan Air pada Bangunan Bambu”
-- **Reader and situation:** Detail weather-resistant bamboo assemblies
-- **Reader outcome:** Detail weather-resistant bamboo assemblies
-- **Primary intent:** Control rainwater exposure
-- **Reader community:** `Tukang.co.id`
-- **Primary friendly address:** `Sobat Tukang.co.id`
-- **Natural variants:** `Kawan Tukang.co.id` and `Teman Tukang.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Drainage detail; no waterproofing guarantee
-- **Final public route:** `/artikel/overhang-talang-bangunan-bambu.html`
-- **Appointed CMS date:** `2025-12-12` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban praktisnya: tentukan arah dan volume limpasan dari atap, beri tepi atap yang cukup untuk melindungi dinding, pasang talang dengan kemiringan dan akses pembersihan, lalu pastikan air keluar jauh dari kaki kolom dan area yang dipakai. Ukuran, detail sambungan, dan titik buang tetap harus mengikuti geometri atap, hujan setempat, angin, tanah, fungsi bangunan, serta persetujuan tenaga berwenang. Standar atap dan drainase memberi kerangka pemeriksaan, bukan jaminan bahwa satu detail bambu otomatis tahan cuaca ([SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020); [SNI 8153:2025](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=91.140.60&key=)).
 
-## Opening instructions
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-001
+Source type: local
+Placement: after the opening has answered the main question, before the first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi Pondok Wisata Bambu](/wp-content/uploads/2024/08/Pondok-Wisata-Bambu.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies Pondok Wisata Bambu as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
+![Ilustrasi Pondok Wisata Bambu](/wp-content/uploads/2024/08/Pondok-Wisata-Bambu.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Tukang.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Overhang, Talang, dan Pembuangan Air pada Bangunan Bambu**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Tukang.co.id`, `Kawan Tukang.co.id`, or `Teman Tukang.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi Pondok Wisata Bambu](/wp-content/uploads/2024/08/Pondok-Wisata-Bambu.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Pondok Wisata Bambu` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-33
-
-- **Original sources:** [ISO 22157:2019 official record](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html) and [ISO 19624:2018 official record](https://www.iso.org/standard/65528.html?browse=tc).
-- **Purpose for this article:** Ground moisture, density, dimensions, defects, grading, mechanical properties, and lot acceptance.
-- **Safe grounded facts:** Species, age, diameter, colour, seller grade, or one test result does not establish a lot’s characteristic values, furniture strength, joint behavior, or project acceptance.
-- **Limits:** Both records show revision activity in 2026. Obtain current complete editions, representative sampling, identity/maturity/location, seasoned condition, geometry/defects, test reports, grading/acceptance basis, and qualified interpretation under G-01/G-23.
-
-### KR-34
-
-- **Original sources:** [ISO 22156:2021 official record](https://www.iso.org/standard/73831.html?browse=tc).
-- **Purpose for this article:** Ground bamboo load paths, stability, joints, durability, occupied structures, and engineering boundaries.
-- **Safe grounded facts:** A bamboo furniture test, traditional precedent, culm diameter, lashing detail, or “light structure” label does not establish building-scale capacity or Indonesian acceptance.
-- **Limits:** ISO 22156 is under review in 2026 and is not Indonesian law. Obtain current full text, Indonesian load/design basis, exact system, material properties, connections, site/exposure, calculations, drawings, and engineer acceptance under G-01/G-23/G-25.
-
-### KR-36
-
-- **Original sources:** [ISO 7567:2024 official record](https://www.iso.org/standard/83076.html) and [ISO 6128:2023](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Bound engineered bamboo, glulam, panel, furniture-stock, and structural-product claims.
-- **Safe grounded facts:** Similar appearance or the word “laminated” does not establish common scope, bond/exposure class, structural role, test evidence, or substitution acceptability.
-- **Limits:** Obtain exact product family, construction, adhesive, intended use/exposure, full standard, test reports, production control, design/acceptance basis, and change control under G-01/G-04/G-07/G-23/G-25.
-
-### KR-37
-
-- **Original sources:** [ISO 21629-2:2022 official record](https://www.iso.org/standard/79460.html) and [ISO 21629-1:2021 indoor counterpart](https://www.iso.org/standard/79459.html).
-- **Purpose for this article:** Ground exterior exposure, laminated/scrimber products, handling, drainage, maintenance, and indoor/outdoor boundaries.
-- **Safe grounded facts:** Outdoor flooring evidence does not prove a fence, gazebo, furniture item, coating, or other bamboo product, but it refutes generic indoor-to-outdoor transfer.
-- **Limits:** Obtain exact exterior product/assembly, intended exposure, drainage/ground/fastener/finish interfaces, current product data/tests/instructions, installation, maintenance, and warranty under G-03/G-06/G-07/G-22/G-25.
-
-### KR-38
-
-- **Original sources:** [PP 16/2021 official BPK record](https://peraturan.bpk.go.id/Details/161846/pp-no-16-), [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), and [SNI 8460:2017 official BSN record](https://pesta.bsn.go.id/produk/detail/13506-84602017).
-- **Purpose for this article:** Ground use, site, approvals, loads, foundation, weather, access, construction, inspection, and handover for `BFU-10`.
-- **Safe grounded facts:** Prefabrication, open sides, small size, bamboo material, or a furniture seller does not establish approval, structural, foundation, wind/rain, fire, access, electrical, or functional-worthiness outcomes.
-- **Limits:** Confirm current/local rules, function/site/users, PBG/SLF applicability, survey, loads, ground/water/drainage, foundation, complete bamboo system, roof, fire/access/MEP, K3, inspections, and signed acceptance under G-25.
-
-### KR-41
-
-- **Original sources:** [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 8153:2025 official BSN catalogue](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=91.140.60&key=), and [SNI 9374:2025 official BSN catalogue listing](https://pesta.bsn.go.id/produk/index/461).
-- **Purpose for this article:** Ground roof coverings, supports, wind/rain, drainage, floors/walls, condensation, penetrations, and maintenance.
-- **Safe grounded facts:** Bamboo frame, roof material, pitch, overhang, coating, or “tropical design” does not establish wind, water, thermal, acoustic, condensation, drainage, or service-life performance.
-- **Limits:** Obtain current full standards, site climate/load/rainfall, complete assemblies, product instructions, drainage/discharge, penetrations, fire/MEP interfaces, safe access, inspections, maintenance, and warranty under G-28.
-
-### KR-42
-
-- **Original sources:** [Permen PUPR 14/PRT/M/2017 official BPK record](https://peraturan.bpk.go.id/Details/104477/permen-), [SNI 0225-2:2020 PUIL design record](https://pesta.bsn.go.id/produk/detail/12857-sni0225-22020), and [SNI IEC 62305-2:2009 lightning-risk record](https://pesta.bsn.go.id/produk/detail/7635-sniiec62305-22009).
-- **Purpose for this article:** Ground inclusive access, lighting/power, shock/fire protection, earthing, lightning risk, installation, and verification.
-- **Safe grounded facts:** A ramp, wide opening, low-voltage product, metal roof, or nearby taller object does not establish accessible use, safe electrical installation, or acceptable lightning risk.
-- **Limits:** Confirm function/users/site, current applicability, route/levels/guards/controls, supply/earthing/equipment, lightning assessment, competent design/installation, inspection/testing, records, and maintenance under G-29.
-
-### KR-44
-
-- **Original sources:** [PP 16/2021 official BPK record](https://peraturan.bpk.go.id/Details/161846/pp-no-16-), [SNI 1739:2008 official BSN catalogue](https://pesta.bsn.go.id/produk/index/219), and [SNI 1740:2008 listed in the same BSN catalogue](https://pesta.bsn.go.id/produk/index/219).
-- **Purpose for this article:** Bound bamboo combustibility, surface tests, coatings/treatments, fire resistance, ignition, cooking, egress, separation, and post-fire claims.
-- **Safe grounded facts:** “Fire-retardant,” thick culm, plaster, open sides, sprinkler/extinguisher presence, or a surface-test result does not establish assembly resistance, safe egress, occupancy suitability, or post-fire reuse.
-- **Limits:** Obtain current law/full standards, function/occupancy, ignition/cooking/electrical exposure, exact treated material/assembly/reports, separation/egress/access/suppression strategy, maintenance, incident evidence, and fire/structural review under G-29.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-03, G-05, G-06, G-07, G-10, G-22, G-23, G-24, G-25, G-28, G-29
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/warung-bambu.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-wonosobo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BTK-07-02` → `/artikel/sistem-dinding-bambu.html` — Dinding Bambu: Anyaman, Bilah, Panel, dan Hybrid
-- `BTK-07-03` → `/artikel/sistem-lantai-bambu.html` — Lantai Bambu untuk Bangunan dan Ruang Publik
-- `BTK-07-05` → `/artikel/ventilasi-bangunan-bambu.html` — Ventilasi dan Pengendalian Kondensasi pada Bangunan Bambu
-- `BTK-07-06` → `/artikel/bukti-performa-envelope-bambu.html` — Klaim Tahan Api, Termal, dan Akustik Sistem Bambu
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Overhang, Talang, dan Pembuangan Air pada Bangunan Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ilustrasi umum dari aset lokal Tukang.co.id; bukan dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Overhang, Talang, dan Pembuangan Air pada Bangunan Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Overhang adalah bagian atap yang melewati garis dinding. Fungsinya mengurangi hujan langsung dan percikan pada dinding, bukan menutup seluruh bangunan dari air. Talang ialah saluran di tepi atap yang menerima limpasan; talang tidak berguna bila ujungnya menumpahkan air ke fondasi. Pembuangan mencakup pipa tegak, rantai air, saluran permukaan, sumur resapan, atau jaringan lain yang benar-benar dapat menerima debit.
+
+Artikel ini membahas detail jalur air pada bangunan bambu: hubungan atap–overhang–talang–pembuangan, akses inspeksi, serta titik rawan di sekitar kolom dan dinding. Ini bukan perhitungan ukuran talang untuk semua lokasi, bukan spesifikasi produk tertentu, dan bukan janji umur pakai atau waterproofing. Produk bambu untuk paparan luar perlu dinilai sebagai sistem lengkap—termasuk drainase, sambungan, tanah, pengikat, dan pemeliharaan—bukan dipindahkan begitu saja dari bukti penggunaan dalam ruang ([ISO 21629-2:2022](https://www.iso.org/standard/79460.html)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Overhang, Talang, dan Pembuangan Air pada Bangunan Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari bidang atap. Tandai setiap lembah, pertemuan bidang, dan tepi yang menerima air. Aliran dari lembah biasanya lebih terkonsentrasi daripada aliran di garis tepi biasa, sehingga titik kumpulnya memerlukan talang dan pembuangan yang jelas. Dari sana, gambarkan panah menuju outlet; jangan biarkan air berakhir di belakang anyaman atau di atas kepala kolom.
+
+Pasang overhang sebagai lapisan pertama. Tepi atap perlu memiliki detail tetes (drip edge) agar air lepas dari material atap tanpa membasahi balok tepi. Jaraknya harus diputuskan bersama tinggi dinding, arah angin, dan ruang bebas di sekitar bangunan. Overhang yang terlalu pendek membuat dinding sering basah; yang terlalu panjang dapat menambah momen, beban angin, atau mengganggu sirkulasi. Perubahan ini harus masuk gambar dan pemeriksaan struktur, bukan sekadar dipotong di lapangan.
+
+Talang kemudian menerima air secara kontinu. Dasarnya diberi kemiringan menuju outlet, sambungan dibuat dapat diperiksa, dan braket tidak menggantung pada anyaman tipis. Sediakan saringan yang bisa diangkat serta akses untuk membersihkan daun. Pipa tegak perlu memiliki penahan sendiri dan outlet yang terlihat; air tidak boleh merembes diam-diam ke rongga bambu atau menggenang di bawah lantai. Prinsip perlindungan atap, limpasan, penetrasi, dan pemeliharaan perlu dibaca bersama standar yang berlaku saat desain ditetapkan ([SNI 8153:2025](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=91.140.60&key=); [SNI 9374:2025](https://pesta.bsn.go.id/produk/index/461)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Overhang, Talang, dan Pembuangan Air pada Bangunan Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Curah hujan dan angin menentukan apakah satu outlet cukup atau justru mudah meluap. Lokasi dengan hujan singkat tetapi deras, atap luas, atau banyak pohon memerlukan kapasitas dan jadwal pembersihan yang berbeda. Tanah miring dapat membawa air ke bangunan tetangga; tanah datar dapat menahan genangan. Ukur dan catat arah aliran aktual di lahan sebelum menetapkan titik buang.
+
+Geometri bambu juga penting. Ujung culm, takikan, baut, dan pelat yang menembus dinding dapat menjadi kantong air. Beri detail penutup dan jalur tetes yang dapat dikeringkan. Jangan mengebor bambu untuk talang tanpa memeriksa pengurangan penampang dan jalur beban. Struktur bambu skala bangunan memerlukan data material, sambungan, beban, dan penilaian teknik; diameter besar atau label “ringan” tidak membuktikan kapasitas ([ISO 22156:2021](https://www.iso.org/standard/73831.html?browse=tc)).
+
+Fungsi bangunan mengubah toleransi risiko. Warung yang ramai, ruang tidur, area listrik, dan jalur akses membutuhkan pemeriksaan kebocoran serta lantai yang lebih disiplin daripada gudang terbuka. Aturan bangunan, beban, cuaca, fondasi, dan serah terima harus dikonfirmasi untuk fungsi dan lokasi tertentu; material bambu atau bangunan kecil tidak otomatis mengecualikan persetujuan ([PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-)).
+
+Sobat Tukang.co.id, pisahkan tiga pertanyaan saat menilai hasil: apakah air tertangkap, apakah air mengalir tanpa bocor, dan apakah titik buang aman bagi tanah serta pengguna? Satu jawaban “ya” tidak menutup dua kegagalan lainnya.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Overhang, Talang, dan Pembuangan Air pada Bangunan Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan skenario bersyarat berikut sebagai alat diskusi, bukan ukuran final:
+
+| Kondisi yang terlihat | Keputusan awal | Bukti yang masih wajib |
+|---|---|---|
+| Tepi atap pendek, dinding bambu terbuka, hujan datang dari samping | Perpanjang overhang atau tambah talang dengan outlet yang terlihat | Gambar detail, beban angin, dan verifikasi sambungan |
+| Talang sering penuh daun | Tambahkan saringan yang dapat dilepas dan akses kerja aman | Jadwal pembersihan dan pemeriksaan setelah hujan deras |
+| Outlet jatuh dekat kaki kolom | Alihkan ke saluran permukaan atau pipa lanjutan | Kondisi tanah, kemiringan, dan penerimaan jaringan pembuangan |
+| Ada lembah atap atau dua bidang bertemu | Buat titik kumpul dan pembuangan khusus | Kapasitas limpasan serta detail kedap pada pertemuan |
+| Air masuk melalui baut atau ujung bambu | Hentikan pekerjaan penutup dan buka detail untuk inspeksi | Foto lapangan, kondisi material, dan persetujuan tenaga teknis |
+
+Jika data hujan, luas atap, atau tanah belum tersedia, tandai keputusan sebagai sementara. Jangan mengubah tabel ini menjadi klaim bahwa bangunan sudah aman atau kedap.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Overhang, Talang, dan Pembuangan Air pada Bangunan Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menyamakan overhang dengan waterproofing. Periksa dinding setelah hujan dari sisi datangnya angin; cari jalur basah di bawah tepi atap dan di belakang talang. Kesalahan kedua adalah membuat talang tanpa rencana pembuangan. Ikuti pipa sampai outlet dan pastikan tidak berakhir di fondasi, lubang kolom, atau area licin.
 
-## Objection or shortcut to address
+Kesalahan ketiga ialah menutup sambungan dengan bahan yang tidak dapat diperiksa. Buka akses pada outlet, saringan, dan pertemuan talang; dokumentasikan kondisi sebelum ditutup. Kesalahan keempat adalah memakai detail produk luar ruang pada produk atau sistem bambu berbeda. Bukti untuk lantai luar tidak otomatis membuktikan kinerja dinding, gazebo, atau lapisan tertentu ([ISO 21629-2:2022](https://www.iso.org/standard/79460.html)).
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Saat inspeksi, gunakan daftar singkat: aliran terlihat dari tepi ke outlet; tidak ada genangan setelah hujan; braket tidak melintir; ujung bambu terlindung dari tampias; pipa terikat dan tidak membebani rangka; akses pembersihan tersedia; dan perubahan lapangan tercatat. Teman Tukang.co.id, bila salah satu jawaban belum dapat dibuktikan, tahan penutupan akhir dan minta pemeriksaan teknis.
 
-## Required conclusion
+## Jalan pintas yang perlu dihindari
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+“Cukup beri coating pada bambu; talang bisa menyusul.” Shortcut ini gagal karena coating tidak mengubah arah limpasan, tidak menghilangkan air yang tertahan di sambungan, dan tidak melindungi titik buang yang menggerus tanah. Alternatif yang lebih dapat diaudit adalah menyelesaikan jalur air terlebih dahulu, menguji aliran secara terkendali, lalu memilih perlindungan material yang sesuai dengan produk, paparan, dan instruksi pemeliharaannya. Tidak ada dasar di paket ini untuk menjanjikan waterproofing atau umur layanan tertentu.
 
-## Draft completion checklist
+## Kesimpulan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Tukang.co.id!` and uses friendly `Tukang.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Overhang, talang, dan pembuangan pada bangunan bambu harus diputuskan sebagai satu rangkaian: jauhkan hujan dari dinding, tangkap limpasan, bawa air melalui outlet yang dapat diperiksa, dan lepaskan di tempat yang tidak merusak fondasi atau mengganggu pengguna. Sebelum pekerjaan ditutup, minta gambar detail, data atap dan hujan setempat, rencana titik buang, serta catatan inspeksi. Untuk membandingkan kebutuhan ruang usaha, lihat juga [fungsi warung](/warung) dan [fungsi gazebo](/gazebo); keduanya adalah rujukan fungsi, bukan spesifikasi detail drainase proyek Anda.
+
+Untuk proyek nyata, [NEEDS TECHNICAL REVIEW: verifikasi kapasitas limpasan, detail sambungan, kondisi tanah, persyaratan setempat, dan penerimaan profesional sebelum konstruksi atau serah terima]. Aturan operasionalnya sederhana: bila jalur air tidak bisa diikuti dan dibersihkan, detail itu belum selesai.

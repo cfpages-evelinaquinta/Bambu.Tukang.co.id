@@ -2,8 +2,9 @@
 article_id: BTK-02-06
 title: "Checklist Penerimaan Batang Bambu di Lokasi"
 slug: "checklist-penerimaan-bambu"
-description: "Identify suitable bamboo and request traceable material evidence"
-status: outline
+description: "Checklist praktis untuk memeriksa batang bambu yang tiba dan meminta bukti material yang dapat ditelusuri"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-08-23"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -18,53 +19,20 @@ sources:
   - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html"
   - "https://www.iso.org/standard/65528.html?browse=tc"
   - "https://www.iso.org/standard/73831.html?browse=tc"
-  - "https://www.iso.org/standard/82086.html"
-  - "https://www.iso.org/standard/83076.html"
-  - "https://www.iso.org/standard/79460.html"
-  - "https://www.iso.org/standard/79459.html"
-  - "https://www.iso.org/standard/73866.html"
-  - "https://www.iso.org/standard/76864.html"
-  - "https://www.iso.org/standard/73590.html"
-  - "https://www.iso.org/standard/66310.html"
-  - "https://www.iso.org/standard/13773.html"
-  - "https://www.iso.org/standard/13774.html"
-  - "https://www.iso.org/standard/76831.html"
-  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/03/56/35608.html?browse=tc"
-  - "https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0"
   - "https://www.ilo.org/publications/safety-and-health-wood-workshop"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Checklist Penerimaan Batang Bambu di Lokasi
 
-## Assignment lock
+Halo, Teman Tukang.co.id! Batang bambu yang tiba di lokasi jangan langsung dianggap “sudah sesuai” hanya karena jumlah ikatannya benar atau diameternya tampak seragam. Penerimaan yang aman berarti mencocokkan identitas dan jumlah kiriman, memeriksa kondisi yang terlihat, menyimpan bukti asal dan spesifikasi, lalu memisahkan material yang belum dapat dipastikan.
 
-- **Writer task:** Expand this file into one complete article answering: “Checklist Penerimaan Batang Bambu di Lokasi”
-- **Reader and situation:** Identify suitable bamboo and request traceable material evidence
-- **Reader outcome:** Identify suitable bamboo and request traceable material evidence
-- **Primary intent:** Inspect delivered culms
-- **Reader community:** `Tukang.co.id`
-- **Primary friendly address:** `Teman Tukang.co.id`
-- **Natural variants:** `Sobat Tukang.co.id` and `Kawan Tukang.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Receiving only; treatment verification is BTK-03-04
-- **Final public route:** `/artikel/checklist-penerimaan-bambu.html`
-- **Appointed CMS date:** `2025-08-23` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: terima secara bersyarat hanya batang yang dapat ditelusuri ke pesanan atau gambar kerja, lolos pemeriksaan visual dan pengukuran yang disepakati, serta memiliki dokumen pendamping yang konsisten. Bambu yang basah, retak, berlubang, salah jenis atau ukuran, tercampur tanpa label, atau tidak punya bukti lot harus diberi status tahan (hold), bukan dicampur ke stok siap pakai. Pemeriksaan ini belum membuktikan pengawetan, kadar air target, kekuatan, atau kelayakan struktur; hal-hal itu memerlukan bukti dan keputusan pada tahap lain.
 
-## Opening instructions
+![Ilustrasi Pondok Wisata Bambu](/wp-content/uploads/2024/08/Pondok-Wisata-Bambu.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Tukang.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Checklist Penerimaan Batang Bambu di Lokasi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Tukang.co.id`, `Sobat Tukang.co.id`, or `Kawan Tukang.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Ilustrasi umum dari aset lokal bambu.tukang.co.id; bukan dokumentasi proyek tertentu.*
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -75,192 +43,57 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Pondok Wisata Bambu` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bambu.tukang.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A defensible article distinguishes material, processed product, tested specimen, installed assembly, company offer, and legal/compliance claim.
-- **Limits:** Recheck the repository and live commercial evidence before any claim about stock, capacity, certification, warranty, price, or completed work.
-
-### KR-32
-
-- **Original sources:** [ISO 21625:2020 official record](https://www.iso.org/standard/71279.html).
-- **Purpose for this article:** Ground material naming, product taxonomy, trade descriptions, comparisons, and specifications.
-- **Safe grounded facts:** A culm, strip, sliver, mat, panel, laminated product, engineered product, and completed furniture or structure are not interchangeable evidence objects.
-- **Limits:** Obtain the full current vocabulary, Indonesian/local names, botanical identity, processing history, product construction, and supplier documentation under G-23.
-
-### KR-33
-
-- **Original sources:** [ISO 22157:2019 official record](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html) and [ISO 19624:2018 official record](https://www.iso.org/standard/65528.html?browse=tc).
-- **Purpose for this article:** Ground moisture, density, dimensions, defects, grading, mechanical properties, and lot acceptance.
-- **Safe grounded facts:** Species, age, diameter, colour, seller grade, or one test result does not establish a lot’s characteristic values, furniture strength, joint behavior, or project acceptance.
-- **Limits:** Both records show revision activity in 2026. Obtain current complete editions, representative sampling, identity/maturity/location, seasoned condition, geometry/defects, test reports, grading/acceptance basis, and qualified interpretation under G-01/G-23.
-
-### KR-34
-
-- **Original sources:** [ISO 22156:2021 official record](https://www.iso.org/standard/73831.html?browse=tc).
-- **Purpose for this article:** Ground bamboo load paths, stability, joints, durability, occupied structures, and engineering boundaries.
-- **Safe grounded facts:** A bamboo furniture test, traditional precedent, culm diameter, lashing detail, or “light structure” label does not establish building-scale capacity or Indonesian acceptance.
-- **Limits:** ISO 22156 is under review in 2026 and is not Indonesian law. Obtain current full text, Indonesian load/design basis, exact system, material properties, connections, site/exposure, calculations, drawings, and engineer acceptance under G-01/G-23/G-25.
-
-### KR-35
-
-- **Original sources:** [ISO 6128:2023 official record](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Ground laminated furniture stock, construction, requirements/tests, handling, storage, packaging, and marking.
-- **Safe grounded facts:** An ISO 6128 scope match does not prove a specific product complies, and indoor furniture material evidence cannot be transferred to outdoor, structural, food-contact, or electrical use.
-- **Limits:** Obtain the current full standard, product construction/adhesive/finish, intended indoor use, reports, production equivalence, handling/storage history, and acceptance evidence under G-01/G-04/G-07/G-23.
-
-### KR-36
-
-- **Original sources:** [ISO 7567:2024 official record](https://www.iso.org/standard/83076.html) and [ISO 6128:2023](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Bound engineered bamboo, glulam, panel, furniture-stock, and structural-product claims.
-- **Safe grounded facts:** Similar appearance or the word “laminated” does not establish common scope, bond/exposure class, structural role, test evidence, or substitution acceptability.
-- **Limits:** Obtain exact product family, construction, adhesive, intended use/exposure, full standard, test reports, production control, design/acceptance basis, and change control under G-01/G-04/G-07/G-23/G-25.
-
-### KR-37
-
-- **Original sources:** [ISO 21629-2:2022 official record](https://www.iso.org/standard/79460.html) and [ISO 21629-1:2021 indoor counterpart](https://www.iso.org/standard/79459.html).
-- **Purpose for this article:** Ground exterior exposure, laminated/scrimber products, handling, drainage, maintenance, and indoor/outdoor boundaries.
-- **Safe grounded facts:** Outdoor flooring evidence does not prove a fence, gazebo, furniture item, coating, or other bamboo product, but it refutes generic indoor-to-outdoor transfer.
-- **Limits:** Obtain exact exterior product/assembly, intended exposure, drainage/ground/fastener/finish interfaces, current product data/tests/instructions, installation, maintenance, and warranty under G-03/G-06/G-07/G-22/G-25.
-
-### KR-25
-
-- **Original sources:** [ISO 7173:2023 — chairs/stools](https://www.iso.org/standard/73866.html), [ISO 7170:2021 — storage units](https://www.iso.org/standard/76864.html), [ISO 19682:2023 — tables/desks](https://www.iso.org/standard/73590.html), and [ISO 19833:2018 — adult beds](https://www.iso.org/standard/66310.html).
-- **Purpose for this article:** Ground product taxonomy, strength/durability/stability, configuration, procurement, QC, diagnosis, and safety articles.
-- **Safe grounded facts:** Product family, intended user/use, complete assembled specimen, configuration, materials, joints/hardware, dimensions, loading/cycles, conditioning, failure/result, edition, and acceptance document determine applicability.
-- **Limits:** Public abstracts do not supply test values or prove a product passes. ISO 7173:2023 is already marked for revision. Resolve current full methods, exact specimen-to-offer equivalence, laboratory scope, results, and Indonesian/project acceptance under G-16.
-
-### KR-26
-
-- **Original sources:** [ISO 7174-1:1988 — upright chairs/stools](https://www.iso.org/standard/13773.html), [ISO 7174-2:1992 — reclining/rocking chairs](https://www.iso.org/standard/13774.html), and [ISO 7170:2021 — storage units](https://www.iso.org/standard/76864.html).
-- **Purpose for this article:** Support stability, anchoring, moving parts, loading, misuse, children, installation, inspection, and urgent-hazard articles.
-- **Safe grounded facts:** Open drawers/doors, extension, load location, adjustable/reclined state, floor level, wall/substrate/anchor, user behavior, damage, missing components, and installation change stability.
-- **Limits:** Do not publish a universal anchor, safe load, test force, or pass claim. Obtain the complete applicable method/requirement, product instructions/report, site/substrate survey, installation design, and competent review under G-17.
-
-### KR-27
-
-- **Original sources:** [ISO 24496:2021 — office-chair dimension methods](https://www.iso.org/standard/76831.html) and [ISO 21015:2007 — office work-chair stability/strength/durability](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/03/56/35608.html?browse=tc).
-- **Purpose for this article:** Bound anthropometry, dimensions, posture/task fit, adjustability, accessibility, and office-chair claims.
-- **Safe grounded facts:** User population, task, duration, posture changes, adjustability, reach, transfer, circulation, clothing/equipment, trial fit, and maintenance all affect usability.
-- **Limits:** No universal “ergonomic” dimension, accessibility compliance, medical benefit, or fit claim without current Indonesian requirements, user/task evidence, applicable product standard, trial, and ergonomics/accessibility review under G-18.
-
-### KR-28
-
-- **Original sources:** [ISO 7173:2023](https://www.iso.org/standard/73866.html), [ISO 7170:2021](https://www.iso.org/standard/76864.html), [ISO 19682:2023](https://www.iso.org/standard/73590.html), and [ISO 24496:2021](https://www.iso.org/standard/76831.html).
-- **Purpose for this article:** Support workplace, hospitality, healthcare, education, food-service, retail, worship, and public-use furniture briefs.
-- **Safe grounded facts:** Users, traffic/duty, activities, cleaning agents/frequency, spills, mobility, accessibility, supervision, evacuation/fire, utilities, privacy/security, replacement, and facility policy must be documented.
-- **Limits:** Resolve current Indonesian sector/building rules, owner infection-control/cleaning policy, exact products/finishes, tests, risk assessment, and relevant professional review under G-19.
-
-### KR-29
-
-- **Original sources:** [ISO/TC 136 current furniture catalogue](https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0), [ISO 7170:2021](https://www.iso.org/standard/76864.html), and [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop).
-- **Purpose for this article:** Support joints, hinges/slides/extensions, mechanisms, built-ins, anchoring, delivery, installation, relocation, adjustment, and handover.
-- **Safe grounded facts:** Hardware/product identity, declared load/use, mounting material/thickness, fastener/edge distances, alignment, travel/clearance, stops/locks, wall/floor substrate, services, access, inspection, and instructions form the evidence chain.
-- **Limits:** Obtain exact hardware/furniture instructions and reports, site/substrate survey, approved drawings/method, competent installer, safe-work plan, tests, and handover under G-20.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22, G-23, G-24, G-25, G-26, G-27; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/warung-bambu-batang.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-batang-hari.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-batang-hari` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-batang` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/toilet-bambu-batang.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/toilet-bambu-batang-hari.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BTK-02-04` → `/artikel/kadar-air-bambu-konstruksi.html` — Kadar Air Bambu dan Dampaknya pada Fabrikasi
-- `BTK-02-05` → `/artikel/traceability-material-bambu.html` — Traceability Bambu dari Kebun hingga Proyek
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
 
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Penerimaan Batang Bambu di Lokasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil yang dicari adalah keputusan tertulis untuk setiap lot: **diterima**, **diterima dengan catatan**, atau **ditahan/ditolak**. Keputusan dibuat oleh orang yang ditunjuk dalam rencana mutu atau kontrak—misalnya penanggung jawab penerimaan—bukan oleh pengantar barang seorang diri. Siapkan pesanan pembelian, daftar batang atau packing list, gambar kerja yang menyebut ukuran, alat ukur yang tersedia, kamera atau formulir, dan area karantina yang tidak mengganggu jalur kerja.
 
-## Langkah 1 — tetapkan scope
+Sebelum truk dibongkar, minta nomor pesanan, tanggal panen atau pengiriman bila memang disyaratkan, asal pemasok, jenis atau nama dagang, jumlah, panjang, diameter, dan status proses (utuh, dibelah, atau sudah dikerjakan). Istilah bahan harus jelas: culm (batang berongga), bilah, strip, anyaman, panel, dan produk laminasi adalah objek bukti yang berbeda. Taksonomi material bambu ISO 21625 membantu membedakan objek tersebut, tetapi halaman resmi standar tidak menggantikan spesifikasi proyek atau dokumen pemasok [ISO 21625:2020](https://www.iso.org/standard/71279.html).
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Penerimaan Batang Bambu di Lokasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah 1 — tetapkan batas pemeriksaan
+
+Batasi checklist ini pada penerimaan fisik batang di titik serah: identitas lot, kuantitas, dimensi yang dapat diukur, kerusakan yang terlihat, kondisi pengangkutan, dan kelengkapan dokumen. Catat siapa yang menyerahkan, siapa yang memeriksa, waktu, lokasi, serta nomor lot. Jangan mengubah pemeriksaan penerimaan menjadi persetujuan desain, pemeriksaan sambungan, atau sertifikasi treatment.
+
+Tentukan antarmuka sejak awal. Apakah batang akan disimpan dulu, langsung dipotong, atau masuk ke proses pengawetan? Tandai area dan cara penumpukan sesuai instruksi proyek. Bila batang yang diterima akan dipakai untuk elemen yang memikul beban, penerimaan visual tidak boleh dibaca sebagai persetujuan kapasitas; klasifikasi, pengujian, dan interpretasi yang sesuai diperlukan sebelum pemakaian. ISO 22156 menjelaskan konteks desain struktur bambu, namun bukan hukum Indonesia dan bukan bukti bahwa lot tertentu memenuhi desain [ISO 22156:2021](https://www.iso.org/standard/73831.html?browse=tc).
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Penerimaan Batang Bambu di Lokasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan urutan “dokumen lalu benda”. Cocokkan label pada ikatan dengan purchase order, surat jalan, dan daftar batang. Nomor lot, varietas atau nama yang dipakai pemasok, kuantitas, panjang, diameter nominal, serta status proses harus konsisten. Jika satu dokumen menyebut batang utuh sementara barang sudah dibelah, hentikan penerimaan lot itu sampai pemasok menjelaskan perubahan.
+
+Ambil sampel pemeriksaan secara konsisten sesuai rencana yang disetujui; jangan memilih hanya batang yang paling rapi. Catat nomor batang atau posisi ikatan yang diperiksa. Untuk setiap sampel, ukur panjang dan diameter pada lokasi yang disepakati, lalu tulis alat dan tanggal ukur. Periksa ujung, ruas, retak memanjang, pecah, lubang, serangan organisme, perubahan warna yang tidak dijelaskan, deformasi, dan kotoran atau air yang tertahan. Foto label dan temuan dari jarak yang membantu identifikasi, tanpa menyimpulkan penyebab yang tidak terlihat.
+
+Kadar air, densitas, cacat, dan metode grading memiliki definisi serta metode uji tertentu. ISO 22157 dan ISO 19624 dapat menjadi rujukan untuk membahas pengukuran dan karakterisasi, tetapi abstrak resminya tidak memberikan angka lulus untuk lot Anda [ISO 22157:2019](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html) dan [ISO 19624:2018](https://www.iso.org/standard/65528.html?browse=tc). Karena status kedua catatan standar menunjukkan aktivitas revisi, gunakan edisi lengkap yang berlaku dan minta laboratorium atau ahli yang berwenang menafsirkan hasil. **[NEEDS CURRENT EDITION AND PROJECT ACCEPTANCE BASIS: angka batas, metode sampling, dan status lulus lot harus disetujui sebelum dipakai.]**
 
 ## Langkah 3 — jalankan urutan kerja
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Penerimaan Batang Bambu di Lokasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+1. **Amankan dan identifikasi.** Hentikan bongkar bila label, surat jalan, atau kondisi kemasan tidak cocok. Beri tanda “menunggu pemeriksaan” pada lot yang belum dicatat.
+2. **Hitung dan petakan.** Hitung ikatan dan batang sesuai satuan pesanan. Tandai batang yang diperiksa sehingga catatan dapat dilacak kembali.
+3. **Periksa kondisi umum.** Lihat kerusakan ujung dan permukaan, lubang, retak, jamur atau noda yang tidak dijelaskan, serta kebengkokan. Jangan mengikis atau memotong batang sebelum status penerimaan dicatat.
+4. **Ukur yang disyaratkan.** Catat panjang, diameter, dan atribut lain hanya jika tercantum pada pesanan atau spesifikasi. Tulis nilai aktual, toleransi yang disetujui, dan alat ukur; jangan mengisi kolom dengan “kira-kira”.
+5. **Pisahkan keputusan.** Ikat ulang atau beri tag pada batang yang sesuai, bersyarat, dan hold. Jangan mencampur hold dengan stok yang sudah dapat dipakai.
+6. **Simpan dan komunikasikan.** Lindungi lot dari kerusakan lanjutan sesuai instruksi pemasok atau proyek, lalu kirim formulir dan foto kepada pihak yang berwenang.
 
-## Hold point dan kondisi berhenti
+Kawan Tukang.co.id, keselamatan bongkar-muat juga bagian dari penerimaan. Atur akses, posisi tubuh, pengangkatan, dan alat bantu sesuai penilaian risiko setempat; panduan ILO untuk bengkel kayu menekankan perlunya pengendalian bahaya kerja, tetapi tidak menetapkan prosedur spesifik untuk setiap lokasi [ILO, *Safety and health in wood workshops*](https://www.ilo.org/publications/safety-and-health-wood-workshop). Jangan meminta pekerja membuka ikatan yang tidak stabil atau berdiri di bawah beban yang bergerak.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Penerimaan Batang Bambu di Lokasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Titik tahan dan kondisi berhenti
 
-## Verifikasi hasil dan handover
+Tetapkan hold point bila salah satu kondisi berikut terjadi: identitas atau jumlah tidak cocok; ukuran berada di luar toleransi yang terdokumentasi; ada retak, lubang, kerusakan ujung, deformasi, atau tanda biologis yang dapat memengaruhi penggunaan; lot basah atau kotor sehingga pemeriksaan tidak representatif; dokumen treatment atau pengujian diminta tetapi tidak diserahkan; atau batang hendak dialihkan ke produk lain dari yang dipesan.
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Penerimaan Batang Bambu di Lokasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pada hold point, foto dan label saja tidak cukup untuk “meluluskan”. Minta klarifikasi tertulis, penggantian, pemeriksaan tambahan, atau keputusan teknis dari pihak yang ditunjuk. Jangan menyatakan “sudah diawetkan”, “kuat untuk struktur”, atau “sesuai standar” hanya dari warna, aroma, diameter, atau satu lembar hasil uji. **[NEEDS QUALIFIED REVIEW: setiap penyimpangan yang dapat mengubah fungsi, keselamatan, atau persetujuan proyek harus ditutup oleh penanggung jawab teknis.]**
 
-## Objection or shortcut to address
+## Verifikasi hasil dan serah-terima
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Formulir penerimaan minimal memuat nomor dokumen dan lot, pemasok, tanggal, lokasi, jumlah dipesan dan diterima, identitas batang atau ikatan, dimensi aktual dan toleransi, daftar cacat, foto, status keputusan, nama pemeriksa, serta tanda tangan pihak yang menyerahkan dan menerima. Tambahkan kolom “bukti belum tersedia” agar kekosongan tidak tertutup oleh paraf.
 
-## Required conclusion
+Untuk status **diterima dengan catatan**, tulis pembatasnya: misalnya hanya boleh disimpan atau diproses setelah dokumen tertentu masuk. Untuk status **hold**, cantumkan lokasi karantina, pemilik tindakan, dan tanggal tindak lanjut. Handover selesai ketika daftar terbuka (open items) memiliki pemilik dan tenggat, bukan ketika truk sudah kosong.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jika Anda perlu menindaklanjuti ketersediaan bahan, gunakan [halaman furnitur bambu](/furnitur) untuk menyamakan bentuk produk dan kirim nomor lot serta spesifikasi yang sama melalui [halaman kontak](/kontak-kami). Keduanya bukan pengganti pemeriksaan di lokasi; tetap cocokkan barang fisik dengan dokumen lot saat tiba.
 
-## Draft completion checklist
+## Jalan pintas yang sering menggoda
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Tukang.co.id!` and uses friendly `Tukang.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jalan pintasnya adalah menerima seluruh kiriman setelah menghitung ikatan dan melihat beberapa batang paling bagus. Cara ini gagal ketika batang dalam satu ikatan berbeda asal, ukuran, atau kondisinya; kerusakan tersembunyi baru terlihat setelah dipotong, dan dokumen yang hilang sulit dikejar setelah material tercampur. Alternatif yang lebih dapat dipertanggungjawabkan adalah menandai lot, memeriksa sampel yang ditetapkan, merekam penyimpangan, dan menahan bagian yang buktinya belum cocok.
+
+## Kesimpulan
+
+Checklist penerimaan batang bambu di lokasi adalah catatan keputusan berbasis identitas, jumlah, kondisi terlihat, ukuran yang disyaratkan, dan bukti lot—bukan vonis treatment atau kekuatan. Sebelum bongkar berikutnya, siapkan formulir dengan nomor lot, tetapkan pemeriksa, dan sepakati siapa yang menutup setiap hold point. Sobat Tukang.co.id, operasikan hanya batang berstatus jelas; jika data material, metode uji, atau dasar penerimaan proyek belum tersedia, pertahankan tanda **hold** dan minta review teknis sebelum dipakai.

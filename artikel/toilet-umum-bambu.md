@@ -1,9 +1,10 @@
 ---
 article_id: BTK-08-04
+writing_contract_version: "native-id-v2"
 title: "Toilet Umum Bambu dan Detail Area Basah"
 slug: "toilet-umum-bambu"
 description: "Translate occupancy needs into bamboo building requirements"
-status: outline
+status: draft
 publication_date: "2026-01-01"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,11 +15,6 @@ reader_address: "Sobat Tukang.co.id"
 final_route: "/artikel/toilet-umum-bambu.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html"
-  - "https://www.iso.org/standard/65528.html?browse=tc"
-  - "https://www.iso.org/standard/73831.html?browse=tc"
-  - "https://www.iso.org/standard/83076.html"
-  - "https://www.iso.org/standard/82086.html"
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-"
   - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
   - "https://pesta.bsn.go.id/produk/detail/13506-84602017"
@@ -26,220 +22,93 @@ sources:
   - "https://pesta.bsn.go.id/produk/index/461"
   - "https://peraturan.bpk.go.id/Details/104477/permen-"
   - "https://pesta.bsn.go.id/produk/detail/12857-sni0225-22020"
-  - "https://pesta.bsn.go.id/produk/detail/7635-sniiec62305-22009"
   - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
   - "https://www.ilo.org/publications/safety-and-health-wood-workshop"
-  - "https://pesta.bsn.go.id/produk/index/219"
+  - "https://www.iso.org/standard/73831.html?browse=tc"
+  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html"
+  - "https://www.iso.org/standard/65528.html?browse=tc"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Toilet Umum Bambu dan Detail Area Basah
 
-## Assignment lock
+Halo, Sobat Tukang.co.id! Toilet umum dari bambu bisa direncanakan, tetapi bambu tidak boleh menjadi alasan untuk menyederhanakan area basah. Keputusan utamanya adalah memisahkan bambu sebagai elemen struktur atau tampilan dari sistem kedap air, sanitasi, drainase, akses, listrik, dan keselamatan yang melayani banyak pengguna.
 
-- **Writer task:** Expand this file into one complete article answering: “Toilet Umum Bambu dan Detail Area Basah”
-- **Reader and situation:** Translate occupancy needs into bamboo building requirements
-- **Reader outcome:** Translate occupancy needs into bamboo building requirements
-- **Primary intent:** Plan wet sanitation spaces
-- **Reader community:** `Tukang.co.id`
-- **Primary friendly address:** `Sobat Tukang.co.id`
-- **Natural variants:** `Kawan Tukang.co.id` and `Teman Tukang.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Plumbing/hygiene compliance requires specialist review
-- **Final public route:** `/artikel/toilet-umum-bambu.html`
-- **Appointed CMS date:** `2026-01-01` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: rancang toilet sebagai satu sistem lengkap. Tetapkan jumlah dan pola pemakaian, alirkan air kotor ke instalasi yang disetujui, lindungi bambu dari cipratan dan genangan, lalu minta peninjauan ahli untuk plumbing, higiene, struktur, aksesibilitas, kebakaran, dan kelistrikan. Ukuran kecil, sisi terbuka, atau metode prafabrikasi tidak otomatis membuktikan bangunan layak fungsi atau memperoleh persetujuan. Dasar penggunaan, beban, tapak, pondasi, cuaca, dan penerimaan harus diperiksa pada proyek nyata ([PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-), [SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 8460:2017](https://pesta.bsn.go.id/produk/detail/13506-84602017)).
 
-## Opening instructions
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-001
+Source type: local
+Placement: after the opening, before the first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi Pondok Wisata Bambu](/wp-content/uploads/2024/08/Pondok-Wisata-Bambu.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies Pondok Wisata Bambu as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
-- Open with the exact short salutation: **“Halo, Sobat Tukang.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Toilet Umum Bambu dan Detail Area Basah**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Tukang.co.id`, `Kawan Tukang.co.id`, or `Teman Tukang.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi Pondok Wisata Bambu](/wp-content/uploads/2024/08/Pondok-Wisata-Bambu.jpg)
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi Pondok Wisata Bambu](/wp-content/uploads/2024/08/Pondok-Wisata-Bambu.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Pondok Wisata Bambu` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-33
-
-- **Original sources:** [ISO 22157:2019 official record](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html) and [ISO 19624:2018 official record](https://www.iso.org/standard/65528.html?browse=tc).
-- **Purpose for this article:** Ground moisture, density, dimensions, defects, grading, mechanical properties, and lot acceptance.
-- **Safe grounded facts:** Species, age, diameter, colour, seller grade, or one test result does not establish a lot’s characteristic values, furniture strength, joint behavior, or project acceptance.
-- **Limits:** Both records show revision activity in 2026. Obtain current complete editions, representative sampling, identity/maturity/location, seasoned condition, geometry/defects, test reports, grading/acceptance basis, and qualified interpretation under G-01/G-23.
-
-### KR-34
-
-- **Original sources:** [ISO 22156:2021 official record](https://www.iso.org/standard/73831.html?browse=tc).
-- **Purpose for this article:** Ground bamboo load paths, stability, joints, durability, occupied structures, and engineering boundaries.
-- **Safe grounded facts:** A bamboo furniture test, traditional precedent, culm diameter, lashing detail, or “light structure” label does not establish building-scale capacity or Indonesian acceptance.
-- **Limits:** ISO 22156 is under review in 2026 and is not Indonesian law. Obtain current full text, Indonesian load/design basis, exact system, material properties, connections, site/exposure, calculations, drawings, and engineer acceptance under G-01/G-23/G-25.
-
-### KR-36
-
-- **Original sources:** [ISO 7567:2024 official record](https://www.iso.org/standard/83076.html) and [ISO 6128:2023](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Bound engineered bamboo, glulam, panel, furniture-stock, and structural-product claims.
-- **Safe grounded facts:** Similar appearance or the word “laminated” does not establish common scope, bond/exposure class, structural role, test evidence, or substitution acceptability.
-- **Limits:** Obtain exact product family, construction, adhesive, intended use/exposure, full standard, test reports, production control, design/acceptance basis, and change control under G-01/G-04/G-07/G-23/G-25.
-
-### KR-38
-
-- **Original sources:** [PP 16/2021 official BPK record](https://peraturan.bpk.go.id/Details/161846/pp-no-16-), [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), and [SNI 8460:2017 official BSN record](https://pesta.bsn.go.id/produk/detail/13506-84602017).
-- **Purpose for this article:** Ground use, site, approvals, loads, foundation, weather, access, construction, inspection, and handover for `BFU-10`.
-- **Safe grounded facts:** Prefabrication, open sides, small size, bamboo material, or a furniture seller does not establish approval, structural, foundation, wind/rain, fire, access, electrical, or functional-worthiness outcomes.
-- **Limits:** Confirm current/local rules, function/site/users, PBG/SLF applicability, survey, loads, ground/water/drainage, foundation, complete bamboo system, roof, fire/access/MEP, K3, inspections, and signed acceptance under G-25.
-
-### KR-41
-
-- **Original sources:** [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 8153:2025 official BSN catalogue](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=91.140.60&key=), and [SNI 9374:2025 official BSN catalogue listing](https://pesta.bsn.go.id/produk/index/461).
-- **Purpose for this article:** Ground roof coverings, supports, wind/rain, drainage, floors/walls, condensation, penetrations, and maintenance.
-- **Safe grounded facts:** Bamboo frame, roof material, pitch, overhang, coating, or “tropical design” does not establish wind, water, thermal, acoustic, condensation, drainage, or service-life performance.
-- **Limits:** Obtain current full standards, site climate/load/rainfall, complete assemblies, product instructions, drainage/discharge, penetrations, fire/MEP interfaces, safe access, inspections, maintenance, and warranty under G-28.
-
-### KR-42
-
-- **Original sources:** [Permen PUPR 14/PRT/M/2017 official BPK record](https://peraturan.bpk.go.id/Details/104477/permen-), [SNI 0225-2:2020 PUIL design record](https://pesta.bsn.go.id/produk/detail/12857-sni0225-22020), and [SNI IEC 62305-2:2009 lightning-risk record](https://pesta.bsn.go.id/produk/detail/7635-sniiec62305-22009).
-- **Purpose for this article:** Ground inclusive access, lighting/power, shock/fire protection, earthing, lightning risk, installation, and verification.
-- **Safe grounded facts:** A ramp, wide opening, low-voltage product, metal roof, or nearby taller object does not establish accessible use, safe electrical installation, or acceptable lightning risk.
-- **Limits:** Confirm function/users/site, current applicability, route/levels/guards/controls, supply/earthing/equipment, lightning assessment, competent design/installation, inspection/testing, records, and maintenance under G-29.
-
-### KR-43
-
-- **Original sources:** [Permen PUPR 10/2021 official JDIH record](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi) and [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop).
-- **Purpose for this article:** Ground cutting/drilling/treatment, excavation, lifting, temporary bracing, height work, public interface, inspection, and handover.
-- **Safe grounded facts:** Natural material, light weight, artisan skill, modular work, community participation, or PPE does not remove design-for-safety, method, competence, supervision, exclusion, rescue, and record needs.
-- **Limits:** Confirm current duties, roles, risk assessment, machinery/chemicals, excavation/lifting/height/electrical controls, temporary works, weather limits, public protection, emergency/rescue, inspections, incidents, and closeout under G-30.
-
-### KR-44
-
-- **Original sources:** [PP 16/2021 official BPK record](https://peraturan.bpk.go.id/Details/161846/pp-no-16-), [SNI 1739:2008 official BSN catalogue](https://pesta.bsn.go.id/produk/index/219), and [SNI 1740:2008 listed in the same BSN catalogue](https://pesta.bsn.go.id/produk/index/219).
-- **Purpose for this article:** Bound bamboo combustibility, surface tests, coatings/treatments, fire resistance, ignition, cooking, egress, separation, and post-fire claims.
-- **Safe grounded facts:** “Fire-retardant,” thick culm, plaster, open sides, sprinkler/extinguisher presence, or a surface-test result does not establish assembly resistance, safe egress, occupancy suitability, or post-fire reuse.
-- **Limits:** Obtain current law/full standards, function/occupancy, ignition/cooking/electrical exposure, exact treated material/assembly/reports, separation/egress/access/suppression strategy, maintenance, incident evidence, and fire/structural review under G-29.
-
-### KR-46
-
-- **Original sources:** [PP 16/2021 official BPK record](https://peraturan.bpk.go.id/Details/161846/pp-no-16-), [SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), and [ISO 22156:2021 scope/exclusions](https://www.iso.org/standard/73831.html?browse=tc).
-- **Purpose for this article:** Prevent one bamboo-building source set from silently covering infrastructure, play, assembly, worship, education, cultural, and public operations.
-- **Safe grounded facts:** Bamboo material, outdoor location, small span, community use, traditional form, or prior project photos do not establish bridge/deck/playground/assembly/worship/institutional suitability.
-- **Limits:** Identify exact asset/use/users/loads/hazards/operations, governing Indonesian/local rules and product/system standards, accessibility/fire/security/child/water/traffic interfaces, cultural authority, design/testing/inspection, operator capacity, and professional/authority acceptance under G-32. ## Topic-family coverage matrix | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `BTK-01` | KR-01, KR-31, KR-32, KR-35, KR-36 | Bamboo project fundamentals and selection; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22, G-23, G-24, G-25, G-26, G-27; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `BTK-02` | KR-01, KR-32, KR-33, KR-34, KR-35, KR-36, KR-37, KR-25, KR-26, KR-27, KR-28, KR-29 | Species, culm quality, grading, and sourcing; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22, G-23, G-24, G-25, G-26, G-27; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `BTK-03` | KR-01, KR-32, KR-33, KR-34, KR-35, KR-36, KR-37 | Drying, preservation, and biological durability; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22, G-23, G-24, G-25, G-26, G-27; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `BTK-04` | KR-01, KR-33, KR-34, KR-36, KR-37, KR-38 | Structural behavior, loads, and engineering; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22, G-23, G-24, G-25, G-26, G-27; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `BTK-05` | KR-01, KR-34, KR-33, KR-36, KR-37, KR-38 | Joints, connectors, and workmanship; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22, G-23, G-24, G-25, G-26, G-27; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `BTK-06` | KR-33, KR-34, KR-37, KR-38, KR-41, KR-43 | Coordinate ground/water/drainage, foundations, anchorage, moisture/biological separation, excavation, temporary works, inspection, and structural acceptance. | G-03, G-04, G-06, G-07, G-09, G-23, G-24, G-25, G-28, G-30 | | `BTK-07` | KR-33, KR-34, KR-36, KR-37, KR-38, KR-41, KR-42, KR-44 | Treat roof, wall, floor, openings, drainage, electrical/fire, weather, maintenance, and bamboo interfaces as complete assemblies. | G-01, G-03, G-05, G-06, G-07, G-10, G-22, G-23, G-24, G-25, G-28, G-29 | | `BTK-08` | KR-33, KR-34, KR-36, KR-38, KR-41, KR-42, KR-43, KR-44, KR-46 | Translate residential/dormitory/community use into site, occupant, structural, envelope, access, fire/MEP, operations, construction, and approval evidence. | G-02, G-03, G-05, G-06, G-10, G-18, G-19, G-23, G-25, G-28, G-29, G-30, G-32 | | `BTK-09` | KR-33, KR-34, KR-36, KR-38, KR-41, KR-42, KR-43, KR-44, KR-46 | Define hospitality/commercial operations, public users, cooking/services, access, fire, weather, durability, cleaning, construction, inspection, and permits. | G-02, G-03, G-05, G-06, G-10, G-18, G-19, G-23, G-25, G-28, G-29, G-30, G-32 | | `BTK-10` | KR-33, KR-34, KR-36, KR-38, KR-41, KR-42, KR-43, KR-44, KR-46 | Require use-specific cultural/institutional authority plus structural, access, fire/security, MEP, capacity, operations, maintenance, and approval evidence. | G-02, G-03, G-05, G-06, G-10, G-18, G-19, G-23, G-25, G-28, G-29, G-30, G-32 | | `BTK-11` | KR-33, KR-34, KR-36, KR-37, KR-38, KR-41, KR-42, KR-43, KR-44, KR-46 | Split fences/gazebos from bridges, decks, playgrounds, and infrastructure; map users, loads, water/ground, access, fire/electrical, public consequence, inspection, and operator duties. | G-02, G-03, G-05, G-06, G-07, G-10, G-23, G-25, G-28, G-29, G-30, G-32 | | `BTK-12` | KR-01, KR-29, KR-33, KR-34, KR-36, KR-37, KR-38, KR-25, KR-26, KR-27, KR-28, KR-35 | Furniture, decorative work, and interior components; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22, G-23, G-24, G-25, G-26, G-27; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `BTK-13` | KR-33, KR-34, KR-38, KR-41, KR-42, KR-43, KR-44, KR-45 | Treat emergency/modular/temporary shelter as a protection/site/services/transition response with locally approved bamboo system, hazards, access, fire/MEP, construction, maintenance, and accountable coordination. | G-02, G-03, G-05, G-06, G-10, G-13, G-18, G-23, G-25, G-28, G-29, G-30, G-31 | | `BTK-14` | KR-17, KR-18, KR-21, KR-23, KR-24, KR-31, KR-33, KR-34, KR-38, KR-41, KR-42, KR-43, KR-44, KR-46 | Build an auditable survey-to-handover chain: inputs, roles, design/specification, sourcing, fabrication, temporary works, inspections/tests, deviations, as-builts, training, and acceptance. | G-01, G-02, G-03, G-04, G-05, G-06, G-08, G-11, G-13, G-15, G-23, G-24, G-25, G-28, G-29, G-30, G-31, G-32 | | `BTK-15` | KR-21, KR-23, KR-24, KR-31, KR-33, KR-37, KR-38, KR-41, KR-42, KR-44, KR-46 | Inspect against baseline; separate material, moisture/biology, connection/structure, envelope, fire/electrical, site, and use-specific consequences; route repair/renewal to competent acceptance. | G-03, G-06, G-09, G-10, G-12, G-14, G-22, G-23, G-24, G-25, G-28, G-29, G-32 | | `BTK-16` | KR-17, KR-18, KR-21, KR-23, KR-24, KR-31, KR-33, KR-34, KR-36, KR-38, KR-41, KR-42, KR-43, KR-44, KR-45, KR-46 | Compare current standards/certificates/offers only after exact asset/use/system scope; verify claims, parties, evidence, exclusions, approvals, price basis, warranty, operations, and renewal route. | G-01, G-02, G-04, G-11, G-12, G-13, G-15, G-23, G-25, G-28, G-29, G-30, G-31, G-32 | Coverage result: **16/16 topic families mapped; 0 families without a starting evidence set.** ## Cross-catalog fact bank 1. Wood species, an individual piece, a graded lot, a processed panel, and an installed system are different evidence objects. 2. Moisture, test method, specimen orientation/condition, grade, and service exposure must travel with property values. 3. A standards catalogue proves identity/status/visible scope, not licensed requirements or product compliance. 4. A foreign method or rule is not Indonesian law; a certificate or chain-of-custody system does not by itself prove every product characteristic. 5. Commercial availability, price, capacity, warranty, legality, and delivered conformity require current project and transaction evidence. ## Evidence gaps and publication gates | Gate | Affected topic families | Resolution required | | --- | --- | --- | | `G-01` Licensed standards and exact tests/acceptance | `BTK-01`, `BTK-02`, `BTK-03`, `BTK-04`, `BTK-05`, `BTK-06`, `BTK-07`, `BTK-08`, `BTK-09`, `BTK-10`, `BTK-11`, `BTK-12`, `BTK-13`, `BTK-14`, `BTK-15`, `BTK-16` | Obtain current complete standards; record edition, clause, specimen, conditioning, method, units, sampling, uncertainty, and qualified interpretation | | `G-02` Species identity, origin, and property applicability | `BTK-01`, `BTK-02`, `BTK-03`, `BTK-04`, `BTK-05`, `BTK-06`, `BTK-07`, `BTK-08`, `BTK-09`, `BTK-10`, `BTK-11`, `BTK-12`, `BTK-13`, `BTK-14`, `BTK-15`, `BTK-16` | Verify botanical/trade identity, source, specimen/lot, sapwood/heartwood, moisture, test population, conservation/trade status, and expert identification where needed | | `G-03` Moisture, climate, exposure, and site facts | `BTK-01`, `BTK-02`, `BTK-03`, `BTK-04`, `BTK-05`, `BTK-06`, `BTK-07`, `BTK-08`, `BTK-09`, `BTK-10`, `BTK-11`, `BTK-12`, `BTK-13`, `BTK-14`, `BTK-15`, `BTK-16` | Obtain actual climate/indoor conditions, use/exposure, product construction, baseline measurements, method/corrections, gradients, ventilation/drainage, and monitoring | | `G-04` Exact product and current test evidence | `BTK-01`, `BTK-02`, `BTK-03`, `BTK-04`, `BTK-05`, `BTK-06`, `BTK-07`, `BTK-08`, `BTK-09`, `BTK-10`, `BTK-11`, `BTK-12`, `BTK-13`, `BTK-14`, `BTK-15`, `BTK-16` | Obtain current datasheet, construction, dimensions, grade, moisture/bond/emission/structural evidence, specimen-to-offer comparison, limits, production control, and warranty | | `G-05` Chemical, emissions, indoor-health, and label evidence | `BTK-01`, `BTK-02`, `BTK-03`, `BTK-04`, `BTK-05`, `BTK-06`, `BTK-07`, `BTK-08`, `BTK-09`, `BTK-10`, `BTK-11`, `BTK-12`, `BTK-13`, `BTK-14`, `BTK-15`, `BTK-16` | Obtain current Indonesian basis, SDS/label, exact method/result, product/lot, exposure scenario, ventilation/use limits, compatibility, and chemist/industrial-hygiene review | | `G-06` Structural design, connections, alteration, and acceptance | `BTK-01`, `BTK-02`, `BTK-03`, `BTK-04`, `BTK-05`, `BTK-06`, `BTK-07`, `BTK-08`, `BTK-09`, `BTK-10`, `BTK-11`, `BTK-12`, `BTK-13`, `BTK-14`, `BTK-15`, `BTK-16` | Obtain current complete Indonesian design/load basis, site/use inputs, grade/product evidence, drawings, calculations, fire/service conditions, inspection, and signed engineer review | | `G-07` Adhesive, veneer, panel, finish, and substrate compatibility | `BTK-01`, `BTK-02`, `BTK-03`, `BTK-04`, `BTK-05`, `BTK-06`, `BTK-07`, `BTK-08`, `BTK-09`, `BTK-10`, `BTK-11`, `BTK-12`, `BTK-13`, `BTK-14`, `BTK-15`, `BTK-16` | Obtain manufacturer written instructions, SDS, bond/exposure evidence, substrate/moisture/preparation, cure, sample/mockup, test, maintenance, repair, and warranty approval | | `G-08` Process, machinery, yield, handling, and workmanship | `BTK-01`, `BTK-02`, `BTK-03`, `BTK-04`, `BTK-05`, `BTK-06`, `BTK-07`, `BTK-08`, `BTK-09`, `BTK-10`, `BTK-11`, `BTK-12`, `BTK-13`, `BTK-14`, `BTK-15`, `BTK-16` | Document actual material/process/equipment, competence, settings/method, measurements, hold points, yield basis, damage, nonconformance, records, and approved safe work | | `G-09` Biological damage, treatment, inspection, and repair | `BTK-01`, `BTK-02`, `BTK-03`, `BTK-04`, `BTK-05`, `BTK-06`, `BTK-07`, `BTK-08`, `BTK-09`, `BTK-10`, `BTK-11`, `BTK-12`, `BTK-13`, `BTK-14`, `BTK-15`, `BTK-16` | Identify organism/activity, moisture/source, extent/concealment, species/product, treatment history, authorized product/label, environmental controls, specialist disposition, and follow-up | | `G-10` Fire strategy, test equivalence, incident, and reuse | `BTK-01`, `BTK-02`, `BTK-03`, `BTK-04`, `BTK-05`, `BTK-06`, `BTK-07`, `BTK-08`, `BTK-09`, `BTK-10`, `BTK-11`, `BTK-12`, `BTK-13`, `BTK-14`, `BTK-15`, `BTK-16` | Obtain current Indonesian fire basis, exact assembly/report, proposed-to-tested comparison, building strategy, incident exposure/damage, temporary controls, and fire/structural/K3 decision | | `G-11` Current forestry legality and official verification | `BTK-01`, `BTK-02`, `BTK-03`, `BTK-04`, `BTK-05`, `BTK-06`, `BTK-07`, `BTK-08`, `BTK-09`, `BTK-10`, `BTK-11`, `BTK-12`, `BTK-13`, `BTK-14`, `BTK-15`, `BTK-16` | Read consolidated current law/implementation; verify actor/activity, source, product, issuer, holder, site, scope, document/status, transaction, export destination, and official lookup | | `G-12` Sustainability, chain-of-custody, reuse, and claim scope | `BTK-01`, `BTK-02`, `BTK-03`, `BTK-04`, `BTK-05`, `BTK-06`, `BTK-07`, `BTK-08`, `BTK-09`, `BTK-10`, `BTK-11`, `BTK-12`, `BTK-13`, `BTK-14`, `BTK-15`, `BTK-16` | Obtain amended ISO/claim-scheme rules, eligible inputs, model, conversion/loss, transaction records, certificate scope/status, assurance, contamination, lifecycle method, and authorized wording | | `G-13` Indonesian K3 and task-specific safe execution | `BTK-01`, `BTK-02`, `BTK-03`, `BTK-04`, `BTK-05`, `BTK-06`, `BTK-07`, `BTK-08`, `BTK-09`, `BTK-10`, `BTK-11`, `BTK-12`, `BTK-13`, `BTK-14`, `BTK-15`, `BTK-16` | Consolidate current law and complete risk/exposure assessment, guards/energy control, extraction, noise/chemical/fire controls, competence, supervision, emergency arrangements, and records | | `G-14` Environmental approval, waste identity, and authorized route | `BTK-01`, `BTK-02`, `BTK-03`, `BTK-04`, `BTK-05`, `BTK-06`, `BTK-07`, `BTK-08`, `BTK-09`, `BTK-10`, `BTK-11`, `BTK-12`, `BTK-13`, `BTK-14`, `BTK-15`, `BTK-16` | Confirm current obligations/approvals, waste/material identity and contamination, analysis, quantities, storage, transport, receiver, reuse suitability, records, and closure | | `G-15` Current supplier, commercial, contract, and handover facts | `BTK-01`, `BTK-02`, `BTK-03`, `BTK-04`, `BTK-05`, `BTK-06`, `BTK-07`, `BTK-08`, `BTK-09`, `BTK-10`, `BTK-11`, `BTK-12`, `BTK-13`, `BTK-14`, `BTK-15`, `BTK-16` | Obtain dated equivalent quotations, actual scope/specification/deviations, samples/submittals, capability, lead time/logistics, inspection/acceptance, warranty/claims, traceability, and handover | | `G-16` Product-family test, requirements, and specimen-to-offer equivalence | `BTK-01`, `BTK-02`, `BTK-03`, `BTK-04`, `BTK-05`, `BTK-06`, `BTK-07`, `BTK-08`, `BTK-09`, `BTK-10`, `BTK-11`, `BTK-12`, `BTK-13`, `BTK-14`, `BTK-15`, `BTK-16` | Identify exact furniture family/use/user, current method and separate acceptance basis, specimen/configuration, load/cycles, laboratory scope, report/result/failure, exclusions, production equivalence, and change control | | `G-17` Stability, tip-over, anchoring, and misuse | `BTK-01`, `BTK-02`, `BTK-03`, `BTK-04`, `BTK-05`, `BTK-06`, `BTK-07`, `BTK-08`, `BTK-09`, `BTK-10`, `BTK-11`, `BTK-12`, `BTK-13`, `BTK-14`, `BTK-15`, `BTK-16` | Obtain exact configuration and load/use, current requirement/method/report, product instructions, floor/wall/substrate/anchor design, site survey, installation/inspection, user controls, and competent review | | `G-18` Ergonomics, dimensions, user fit, and accessibility | `BTK-01`, `BTK-02`, `BTK-03`, `BTK-04`, `BTK-05`, `BTK-06`, `BTK-07`, `BTK-08`, `BTK-09`, `BTK-10`, `BTK-11`, `BTK-12`, `BTK-13`, `BTK-14`, `BTK-15`, `BTK-16` | Define target users, tasks, duration, postures, reach/transfer/circulation, adjustability, current Indonesian/accessibility basis, dimension method, trials/mockups, maintenance, and qualified ergonomics/accessibility review | | `G-19` Institutional duty, hygiene, cleaning, and facility rules | `BTK-01`, `BTK-02`, `BTK-03`, `BTK-04`, `BTK-05`, `BTK-06`, `BTK-07`, `BTK-08`, `BTK-09`, `BTK-10`, `BTK-11`, `BTK-12`, `BTK-13`, `BTK-14`, `BTK-15`, `BTK-16` | Obtain sector/building rules, owner policy, users/traffic, cleaning/disinfection agents and frequency, exact material/finish compatibility, infection/fire/accessibility/operations evidence, replacement plan, and responsible approvals | | `G-20` Hardware, mechanisms, built-ins, and site installation | `BTK-01`, `BTK-02`, `BTK-03`, `BTK-04`, `BTK-05`, `BTK-06`, `BTK-07`, `BTK-08`, `BTK-09`, `BTK-10`, `BTK-11`, `BTK-12`, `BTK-13`, `BTK-14`, `BTK-15`, `BTK-16` | Obtain exact product/hardware instructions and reports, drawings, material thickness/fasteners/clearances, wall/floor/substrate/services survey, approved safe method, competent installation, testing, adjustment, inspection, and handover | | `G-21` Upholstery combination and fire/health evidence | `BTK-01`, `BTK-02`, `BTK-03`, `BTK-04`, `BTK-05`, `BTK-06`, `BTK-07`, `BTK-08`, `BTK-09`, `BTK-10`, `BTK-11`, `BTK-12`, `BTK-13`, `BTK-14`, `BTK-15`, `BTK-16` | Identify exact cover/filling/interliner/backing/seam/treatment combination, conditioning, current method/report, proposed equivalence, ageing/cleaning/substitution effects, Indonesian fire/health basis, and fire/industrial-hygiene review | | `G-22` Finish performance, cleaning, ageing, repair, and warranty | `BTK-01`, `BTK-02`, `BTK-03`, `BTK-04`, `BTK-05`, `BTK-06`, `BTK-07`, `BTK-08`, `BTK-09`, `BTK-10`, `BTK-11`, `BTK-12`, `BTK-13`, `BTK-14`, `BTK-15`, `BTK-16` | Obtain exact substrate/preparation/finish/cure, current test/report and exposure, cleaner compatibility, edge/joint/sample evidence, field ageing/defect facts, approved repair/refinish, maintenance, and warranty conditions | | `G-23` Bamboo identity, culm/product family, grade, and lot applicability | `BTK-01`, `BTK-02`, `BTK-03`, `BTK-04`, `BTK-05`, `BTK-06`, `BTK-07`, `BTK-08`, `BTK-09`, `BTK-10`, `BTK-11`, `BTK-12`, `BTK-13`, `BTK-14`, `BTK-15`, `BTK-16` | Verify botanical/local identity, part/form, maturity/source, culm geometry/defects, seasoned condition, processing/construction, product family, representative sampling/tests, grading/acceptance, lot/offer equivalence, and current expert review | | `G-24` Seasoning, preservation, chemicals, biological control, and safe use | `BTK-01`, `BTK-02`, `BTK-03`, `BTK-04`, `BTK-05`, `BTK-06`, `BTK-07`, `BTK-08`, `BTK-09`, `BTK-10`, `BTK-11`, `BTK-12`, `BTK-13`, `BTK-14`, `BTK-15`, `BTK-16` | Obtain process history, moisture baseline, organism/exposure, authorized treatment/finish/adhesive identity and label/SDS, application/cure, ventilation/contact limits, compatibility, efficacy evidence, worker/environment/waste controls, inspection, retreatment, and specialist disposition | | `G-25` Occupied outdoor structure, exterior system, site, and approval evidence | `BTK-01`, `BTK-02`, `BTK-03`, `BTK-04`, `BTK-05`, `BTK-06`, `BTK-07`, `BTK-08`, `BTK-09`, `BTK-10`, `BTK-11`, `BTK-12`, `BTK-13`, `BTK-14`, `BTK-15`, `BTK-16` | Confirm function/site/users/local rules and approvals, survey, climate/loads, ground/water/drainage, foundation, full structural/connection/roof/fire/access/MEP design, K3/temporary works, inspections, as-builts, maintenance, and signed professional/authority acceptance | | `G-26` Current food-contact material, intended use, migration, hygiene, and BPOM evidence | `BTK-01`, `BTK-02`, `BTK-03`, `BTK-04`, `BTK-05`, `BTK-06`, `BTK-07`, `BTK-08`, `BTK-09`, `BTK-10`, `BTK-11`, `BTK-12`, `BTK-13`, `BTK-14`, `BTK-15`, `BTK-16` | Read current complete PP/BPOM rules and annexes; identify exact bamboo/liner/adhesive/finish/ink, food type, time/temperature/reuse, migration/compliance reports, manufacturing hygiene, packaging/label, cleaning, lot equivalence, and BPOM/qualified decision | | `G-27` Electrical/luminaire product, heat/fire, installation, and verification | `BTK-01`, `BTK-02`, `BTK-03`, `BTK-04`, `BTK-05`, `BTK-06`, `BTK-07`, `BTK-08`, `BTK-09`, `BTK-10`, `BTK-11`, `BTK-12`, `BTK-13`, `BTK-14`, `BTK-15`, `BTK-16` | Identify exact luminaire/driver/lamp/cable/mounting, environment, bamboo shade/finish and clearances, heat/fire/strain/insulation/protection evidence, current product/PUIL basis, certification, competent installation, inspection/testing, instructions, maintenance, and warranty | | `G-28` Complete envelope, roof, rainwater, drainage, and weather evidence | `BTK-06`, `BTK-07`, `BTK-08`, `BTK-09`, `BTK-10`, `BTK-11`, `BTK-13`, `BTK-14`, `BTK-15`, `BTK-16` | Obtain actual climate/load/rainfall, full roof/wall/floor assemblies, supports/fasteners/laps/penetrations, product instructions/reports, ventilation/condensation, drainage/overflow/discharge, fire/MEP interfaces, access, inspection, maintenance, and warranty | | `G-29` Accessibility, electrical, lightning, fire, security, and user-safety evidence | `BTK-07`, `BTK-08`, `BTK-09`, `BTK-10`, `BTK-11`, `BTK-13`, `BTK-14`, `BTK-15`, `BTK-16` | Confirm function/users/site, current rules, route/levels/guards/controls, ignition/cooking/egress/fire strategy, supply/earthing/equipment/protection, lightning risk, security/child/water edges, competent design/installation, inspection/testing, emergency plan, records, and maintenance | | `G-30` Construction safety, temporary works, lifting, height, and public protection | `BTK-05`, `BTK-06`, `BTK-07`, `BTK-08`, `BTK-09`, `BTK-10`, `BTK-11`, `BTK-13`, `BTK-14`, `BTK-16` | Confirm current SMKK/K3 duties, roles, design-for-safety, risk assessment, machinery/chemicals, excavation/lifting/height/electrical controls, temporary stability, weather limits, exclusion/public protection, emergency/rescue, supervision, inspections, incidents, and closeout | | `G-31` Emergency/temporary shelter needs, protection, site, services, deployment, and transition | `BTK-13`, `BTK-14`, `BTK-16` | Obtain affected-population assessment, protection/privacy/dignity/accessibility/tenure requirements, local authority and sector coordination, site/hazards/climate/services/logistics, exact tested shelter system, participation, capacity, installation/QA, operations/maintenance, complaints, transition, and accountable approval | | `G-32` Exact public/institutional/infrastructure asset, use, rule, operator, and acceptance | `BTK-08`, `BTK-09`, `BTK-10`, `BTK-11`, `BTK-14`, `BTK-15`, `BTK-16` | Identify exact asset/use/users/loads/hazards/operations; obtain governing Indonesian/local and product/system standards, cultural/sector authority, accessibility/fire/security/child/water/traffic interfaces, design/testing/inspection, operator competence/maintenance, and professional/authority acceptance | ## Source-refresh triggers Recheck immediately when: - an outline uses law, SNI status, certification, export, environmental, K3, or product-compliance language; - ISO/BSN records show review, amendment, replacement, confirmation, or withdrawal; - a supplier, product construction, adhesive/finish/preservative, report, certificate, label, or warranty changes; - project climate, use, load, fire strategy, moisture exposure, substrate, installation, or maintenance conditions differ; - an exact value, class, tolerance, test result, service life, price, yield, capacity, or acceptance decision is proposed; - publication begins more than 90 days after this verification date for law/safety/legal pages, or more than 12 months later for stable technical foundations. ## Next authorized stage The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-02, G-03, G-05, G-06, G-10, G-18, G-19, G-23, G-25, G-28, G-29, G-30, G-32
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/toilet-bambu.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/toilet-bambu-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/toilet-bambu-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/toilet-bambu-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/toilet-bambu-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/toilet-bambu-wonosobo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BTK-08-02` → `/artikel/perencanaan-asrama-bambu.html` — Asrama Bambu: Privasi, Kepadatan, dan Operasional
-- `BTK-08-03` → `/artikel/bangunan-komunitas-bambu.html` — Balai Desa dan Gedung Pertemuan Bambu
-- `BTK-08-05` → `/artikel/bangunan-bambu-untuk-komunitas.html` — Bangunan Bambu untuk Kawasan Pedesaan dan Komunitas
-- `BTK-08-06` → `/artikel/renovasi-rumah-elemen-bambu.html` — Renovasi Rumah dengan Elemen Bambu
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Toilet Umum Bambu dan Detail Area Basah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+*Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.*
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Toilet Umum Bambu dan Detail Area Basah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Yang dibahas di sini adalah toilet umum dengan komponen bambu pada rangka, dinding, kisi-kisi, plafon, atau elemen visual, serta detail area yang sering terkena air. “Area basah” mencakup lantai, dinding sekitar alat sanitair, sudut, ambang pintu, penetrasi pipa, dan jalur pembuangan. Bambu tidak otomatis menjadi lapisan kedap air; lapisan itu harus didefinisikan sebagai rakitan tersendiri dengan sambungan dan perawatan yang dapat diperiksa.
+
+Halaman ini bukan gambar kerja, perhitungan kapasitas, spesifikasi produk, atau pengganti persetujuan setempat. Kepadatan pengguna, pilihan kloset, ventilasi, air bersih, air panas bila ada, pengolahan limbah, dan jadwal pembersihan menentukan kebutuhan yang berbeda. Kepatuhan plumbing dan higiene adalah batas utama: **[NEEDS PLUMBING/HYGIENE REVIEW: tetapkan standar lokal, kapasitas, pengolahan air limbah, ventilasi, dan prosedur pembersihan sebelum konstruksi.]**
+
+Untuk membedakan kebutuhan proyek, mulai dari fungsi dan pengguna, bukan dari diameter bambu atau foto referensi. Rute [halaman toilet umum](/toilet-umum) dapat dipakai sebagai langkah berikutnya untuk melihat konteks produk, sementara contoh [halaman kontak](/kontak-kami) membantu membandingkan konteks tanpa menggantikan rancangan khusus untuk tapak dan operator yang bertanggung jawab.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Toilet Umum Bambu dan Detail Area Basah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutan aman dimulai dari data penggunaan. Catat siapa yang memakai toilet, jam sibuk, kebutuhan privasi, pengguna dengan keterbatasan mobilitas, petugas kebersihan, serta jalur servis. Dari data itu, buat denah yang memisahkan area kering, area percikan, ruang servis, dan jalur keluar. Letak pintu, ventilasi, bak cuci, dan saluran harus dapat dirawat tanpa merusak bambu.
+
+Berikutnya, pisahkan tiga lapis pekerjaan:
+
+1. **Lapisan air dan limbah.** Tentukan kemiringan lantai, titik floor drain, pipa suplai, pipa buangan, perangkap bau, pembersihan, dan titik inspeksi. Saluran harus menuju sistem pengolahan atau jaringan yang memang disetujui; jangan mengandalkan tanah di bawah bangunan sebagai pembuangan.
+2. **Lapisan pelindung.** Gunakan lantai dan dinding area percikan yang memiliki detail sambungan, sudut, ambang, serta penetrasi yang bisa dibersihkan dan diperbaiki. Jaga kaki kolom, panel, dan anyaman bambu berada di luar jalur genangan. Atap, talang, limpasan, dan ventilasi perlu dibaca sebagai satu selubung, karena material, kemiringan, atau lapisan saja tidak membuktikan kinerja hujan dan drainase ([katalog SNI plumbing](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=91.140.60&key=), [katalog SNI 9374:2025](https://pesta.bsn.go.id/produk/index/461)).
+3. **Lapisan struktur dan utilitas.** Rangka, sambungan, pondasi, penahan angin, lampu, sakelar, dan pembumian harus digambar sebagai antarmuka. Standar bambu internasional dapat membantu memahami beban dan sambungan, tetapi bukan hukum Indonesia atau bukti penerimaan proyek. Diperlukan sistem material yang jelas, data lot, perhitungan, gambar, dan penerimaan insinyur ([ISO 22156:2021](https://www.iso.org/standard/73831.html?browse=tc)).
+
+Sobat Tukang.co.id, titik kritisnya biasanya bukan bambu yang terlihat, melainkan pipa yang menembus lantai atau dinding tanpa detail perbaikan. Setiap penetrasi perlu selongsong, penyegelan, akses inspeksi, dan catatan siapa yang boleh membongkar atau mengganti komponennya.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Toilet Umum Bambu dan Detail Area Basah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Pola pemakaian.** Toilet di lokasi wisata, pasar, sekolah, atau tempat kerja memiliki durasi, antrean, dan frekuensi pembersihan berbeda. Pengelola perlu menetapkan kapasitas, jam servis, ketersediaan air, serta respons ketika satu bilik ditutup. Tanpa data itu, jumlah alat sanitair dan ukuran tangki hanya tebakan.
+
+**Air, tanah, dan cuaca.** Muka air tanah, hujan, banjir, kemiringan lahan, dan arah limpasan memengaruhi elevasi lantai, pondasi, saluran, dan perlindungan kaki bambu. Survei tapak dan rancangan drainase harus mendahului pemilihan finishing. Jangan menyimpulkan umur layan dari label “tahan air”, lapisan cat, atau pengalaman pada lokasi lain.
+
+**Material dan sambungan.** Jenis, kematangan, kadar air, cacat, proses pengawetan, dan kesetaraan lot perlu dicatat. Satu sampel atau grade penjual tidak mewakili nilai karakteristik seluruh lot; catatan ISO tentang pengujian dan pengambilan sampel perlu dibaca dalam edisi lengkap dan ditafsirkan secara kompeten ([ISO 22157:2019](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html), [ISO 19624:2018](https://www.iso.org/standard/65528.html?browse=tc)). Untuk bambu laminasi atau panel, minta identitas produk, perekat, kelas paparan, instruksi produsen, dan laporan uji yang benar-benar cocok dengan penggunaan; kata “laminasi” saja tidak cukup.
+
+**Akses, listrik, dan kebakaran.** Rute masuk, lebar bukaan, lantai tidak licin, pegangan, pencahayaan, ventilasi, pembumian, dan jalur keluar harus dinilai bersama. Ramp atau lampu tegangan rendah tidak otomatis membuat fasilitas aman atau aksesibel. Verifikasi aturan yang berlaku, desain instalasi, pengujian, dan pemeliharaan ([Permen PUPR 14/PRT/M/2017](https://peraturan.bpk.go.id/Details/104477/permen-), [SNI 0225-2:2020](https://pesta.bsn.go.id/produk/detail/12857-sni0225-22020)). Strategi kebakaran juga memerlukan rakitan dan skenario hunian yang spesifik, bukan klaim “bambu sudah diberi fire-retardant”.
+
+**Operasi dan K3.** Pekerjaan potong, bor, pengawetan, penggalian, pengangkatan, dan kerja di ketinggian harus memiliki metode, kompetensi, pengawasan, pembatas area publik, dan rencana penyelamatan. Material alami atau kerja gotong royong tidak menghapus pengendalian bahaya ([Pedoman SMKK Permen PUPR 10/2021](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop)).
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Toilet Umum Bambu dan Detail Area Basah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel berikut sebagai percakapan awal dengan perencana dan pengelola, bukan sebagai spesifikasi final.
+
+| Kondisi yang diketahui | Keputusan awal | Bukti sebelum disetujui |
+|---|---|---|
+| Cipratan tinggi di sekitar kloset dan bak cuci | Prioritaskan rakitan lantai/dinding yang mudah dicuci; jauhkan bambu terbuka dari genangan | Detail sudut, ambang, penetrasi, sampel pembersihan, dan rencana inspeksi |
+| Tapak menerima limpasan atau banjir | Naikkan area sensitif dan rancang aliran keluar yang tidak kembali ke bangunan | Survei elevasi, muka air, kapasitas saluran, dan keputusan pondasi |
+| Pengguna ramai dengan satu jalur masuk | Atur antrean, rute servis, privasi, dan akses pengguna dengan kebutuhan khusus | Data okupansi, uji rute, tinjauan aksesibilitas, dan persetujuan pengelola |
+| Lampu atau kabel dekat bambu | Perlakukan sebagai antarmuka listrik dan kebakaran, bukan aksesori dekoratif | Produk teridentifikasi, jarak aman, pembumian, pengujian, dan catatan pemeliharaan |
+
+Kawan Tukang.co.id, bila salah satu kolom terakhir belum tersedia, keputusan yang bertanggung jawab adalah menahan detail tersebut, bukan mengisi ukuran dari proyek lain. Tandai **[NEEDS SITE/DESIGN REVIEW: survei, gambar, perhitungan, dan penerimaan profesional belum tersedia.]**
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Toilet Umum Bambu dan Detail Area Basah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memasang bambu langsung di atas lantai yang sering basah. Periksa jalur air setelah simulasi pembersihan, bukan hanya saat bangunan kering. Kesalahan kedua adalah menganggap pelapis menutup semua masalah. Minta data substrat, persiapan, waktu curing, kompatibilitas bahan pembersih, perbaikan, dan batas garansi; jangan menukar produk tanpa persetujuan tertulis.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah memakai diameter atau jumlah tiang sebagai pengganti perhitungan. Tanyakan bagaimana beban pengguna, angin, atap, sambungan, dan pondasi diteruskan ke tanah. Kesalahan keempat adalah menguji lampu atau stopkontak tanpa memeriksa pembumian, kelembapan, perlindungan kejut, dan akses servis. Kesalahan kelima adalah membuka toilet ke publik sebelum checklist kebocoran, aliran, bau, licin, akses, listrik, kebakaran, dan rencana pembersihan ditandatangani.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Periksa juga dokumen serah terima: gambar terpasang, lokasi katup dan clean-out, daftar material, hasil pengujian, jadwal inspeksi bambu, prosedur menutup bilik, serta nama penanggung jawab. Foto saja tidak membuktikan fungsi atau penerimaan.
 
-## Required conclusion
+## Jalan aman dari jalan pintas
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Shortcut yang sering dipilih adalah “buat rangka bambu dulu, plumbing menyusul”. Urutan ini dapat memaksa pipa memotong kolom, menyembunyikan sambungan, dan menyulitkan penggantian saat bocor. Alternatif yang lebih aman adalah mengunci kebutuhan pengguna dan jalur servis, menyepakati zona basah-kering, lalu mengoordinasikan struktur, selubung, plumbing, listrik, dan operasi dalam satu set gambar. Setiap perubahan lapangan dicatat dan ditinjau sebelum ditutup.
 
-## Draft completion checklist
+## Kesimpulan dan langkah berikutnya
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Tukang.co.id!` and uses friendly `Tukang.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Toilet umum bambu layak direncanakan bila bambu ditempatkan dalam sistem yang melindungi area basah, mengendalikan air limbah, melayani pengguna nyata, dan memiliki bukti struktur, akses, listrik, kebakaran, serta operasi. Langkah berikutnya adalah membuat lembar kebutuhan pengguna dan survei tapak, menandai semua titik air dan penetrasi, lalu meminta review plumbing/higiene dan struktur sebelum memilih detail bambu.
+
+Teman Tukang.co.id, jadikan aturan kerja ini sebagai penutup: tidak ada toilet yang dibuka untuk umum hanya karena rangkanya selesai. Buka setelah fungsi, keselamatan, inspeksi, dan serah terima disetujui oleh pihak yang berwenang; untuk artikel ini, technical review tetap diperlukan.

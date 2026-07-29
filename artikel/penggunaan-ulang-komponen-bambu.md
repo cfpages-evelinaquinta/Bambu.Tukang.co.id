@@ -3,7 +3,8 @@ article_id: BTK-13-06
 title: "Checklist Pembongkaran dan Penggunaan Ulang Komponen Bambu"
 slug: "penggunaan-ulang-komponen-bambu"
 description: "Plan rapid, demountable, or temporary shelter responsibly"
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-05-11"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -19,51 +20,78 @@ sources:
   - "https://www.iso.org/standard/73831.html?browse=tc"
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-"
   - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
-  - "https://pesta.bsn.go.id/produk/detail/13506-84602017"
-  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=91.140.60&key="
-  - "https://pesta.bsn.go.id/produk/index/461"
-  - "https://peraturan.bpk.go.id/Details/104477/permen-"
-  - "https://pesta.bsn.go.id/produk/detail/12857-sni0225-22020"
-  - "https://pesta.bsn.go.id/produk/detail/7635-sniiec62305-22009"
   - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
   - "https://www.ilo.org/publications/safety-and-health-wood-workshop"
-  - "https://pesta.bsn.go.id/produk/index/219"
   - "https://emergency.unhcr.org/emergency-assistance/shelter-camp-and-settlement/shelter-and-housing/emergency-shelter-solutions-and-standards"
   - "https://emergency.unhcr.org/emergency-assistance/settlement-and-shelter/guidance-settlements/safe-and-secure-settlements"
   - "https://emergency.unhcr.org/emergency-assistance/shelter-camp-and-settlement/shelter-and-housing/shelter-needs-assessment"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Checklist Pembongkaran dan Penggunaan Ulang Komponen Bambu
 
-## Assignment lock
+Halo, Sobat Tukang.co.id! Komponen bambu bekas bongkaran tidak otomatis layak dipasang lagi. Keputusan yang aman adalah memisahkan, memeriksa, mencatat, lalu menerima setiap komponen sebelum dirancang untuk tempat lain. Jika asal-usul, kondisi, atau kecocokan bebannya tidak dapat dibuktikan, komponen itu turun kelas menjadi bahan non-struktural atau dihentikan penggunaannya.
 
-- **Writer task:** Expand this file into one complete article answering: “Checklist Pembongkaran dan Penggunaan Ulang Komponen Bambu”
-- **Reader and situation:** Plan rapid, demountable, or temporary shelter responsibly
-- **Reader outcome:** Plan rapid, demountable, or temporary shelter responsibly
-- **Primary intent:** Evaluate reuse after dismantling
-- **Reader community:** `Tukang.co.id`
-- **Primary friendly address:** `Sobat Tukang.co.id`
-- **Natural variants:** `Kawan Tukang.co.id` and `Teman Tukang.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Reuse requires condition inspection and acceptance
-- **Final public route:** `/artikel/penggunaan-ulang-komponen-bambu.html`
-- **Appointed CMS date:** `2026-05-11` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Checklist ini membantu merencanakan shelter cepat, bongkar-pasang, atau sementara tanpa menyamakan “masih terlihat utuh” dengan “aman dipakai”. Jawaban akhirnya berubah menurut kadar lembap, retak dan lubang, riwayat beban atau kebakaran, jenis sambungan, paparan lokasi baru, serta persetujuan perancang dan pemilik. Untuk bangunan yang akan dihuni, siapkan [NEEDS DATA: identitas komponen, lokasi baru, fungsi, beban, dan penanggung jawab penerimaan] sebelum pekerjaan dimulai.
 
-## Opening instructions
+![Ilustrasi Pondok Wisata Bambu](/wp-content/uploads/2024/08/Pondok-Wisata-Bambu.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Tukang.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Checklist Pembongkaran dan Penggunaan Ulang Komponen Bambu**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Tukang.co.id`, `Kawan Tukang.co.id`, or `Teman Tukang.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Ilustrasi umum dari aset lokal Tukang.co.id; bukan dokumentasi proyek tertentu.*
 
+## Hasil akhir dan prasyarat
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+Hasil yang dicari bukan tumpukan bambu yang berhasil dipindahkan, melainkan daftar komponen yang punya identitas, kondisi, tujuan penggunaan, dan keputusan penerimaan yang dapat ditelusuri. Tetapkan satu orang berwenang menahan komponen dan satu pihak yang menyetujui desain pemakaian ulang. Untuk shelter darurat, kebutuhan penghuni, perlindungan, lokasi, layanan dasar, akses, dan rencana transisi perlu dinilai bersama pihak setempat; label “rapid” atau “modular” sendiri tidak membuktikan kesiapan. Lihat kerangka asesmen kebutuhan dan koordinasi [UNHCR](https://emergency.unhcr.org/emergency-assistance/shelter-camp-and-settlement/shelter-and-housing/shelter-needs-assessment).
+
+Siapkan gambar atau foto penandaan awal, daftar ukuran, riwayat perawatan, formulir inspeksi, alat ukur yang sesuai, area karantina, sarung tangan dan perlindungan mata, serta rencana pengangkatan. Tanpa data ini, tulis keputusan sebagai “belum diterima”, bukan sebagai asumsi bahwa semua batang dari satu pemasok memiliki mutu sama.
+
+Jika data asal material belum lengkap, gunakan [warung](/warung) hanya untuk mengumpulkan pertanyaan tentang identitas dan penanganan material, bukan sebagai bukti otomatis bahwa komponen bekas telah diterima.
+
+## Langkah 1 — tetapkan cakupan
+
+Mulai dengan peta elemen: culm (batang), balok, panel, lantai, atap, pengikat, pelat dasar, dan komponen non-bambu. Tandai mana yang dibongkar utuh, dipotong, diperbaiki, atau dibuang. Lingkup ini juga harus menyebut antarmuka fondasi, penutup atap, drainase, listrik, akses, dan perlindungan kebakaran. Komponen yang tampak ringan tetap dapat memengaruhi jalur beban dan kestabilan; ISO 22156 mengaitkan struktur bambu dengan jalur beban, sambungan, stabilitas, dan kondisi paparan, tetapi catatan resminya bukan hukum Indonesia dan sedang ditinjau. Gunakan [rekaman ISO 22156](https://www.iso.org/standard/73831.html?browse=tc) sebagai rujukan teknis untuk meminta verifikasi, bukan sebagai surat penerimaan.
+
+Tentukan pula penggunaan ulang yang diizinkan: struktur utama, elemen sekunder, furnitur, atau material pelindung. Jangan menaikkan fungsi dari panel dekoratif menjadi penahan beban hanya karena ukuran serupa. Sobat Tukang.co.id, bila proyek baru belum memiliki fungsi, pengguna, masa pakai, dan kondisi cuaca yang jelas, hentikan penetapan kelas komponen pada tahap ini.
+
+## Langkah 2 — kumpulkan dan cocokkan bukti
+
+Buat satu kartu untuk setiap komponen atau kelompok yang benar-benar homogen. Catat kode, asal posisi, dimensi terukur, jenis bambu bila diketahui, usia atau riwayat pemakaian bila tersedia, sambungan, perlakuan, kerusakan, dan foto. Pisahkan kartu berdasarkan diameter, panjang, orientasi serat, dan riwayat paparan; jangan menggabungkan lot hanya karena warna sama.
+
+Periksa ujung dan sepanjang batang untuk retak memanjang, penyok, lubang serangga, pelapukan, perubahan bentuk, noda lembap, sisa bahan kimia, dan kerusakan di sekitar baut atau ikatan. Ukur atau dokumentasikan kondisi lembap dengan metode yang disetujui pemeriksa. ISO 22157 membahas pengukuran sifat fisik dan mekanis bambu, sedangkan ISO 19624 membahas pengambilan sampel dan pengelompokan; keduanya tidak menjadikan satu pengukuran atau label penjual sebagai nilai karakteristik seluruh lot. Rujuk [ISO 22157](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html) dan [ISO 19624](https://www.iso.org/standard/65528.html?browse=tc), lalu minta edisi lengkap dan interpretasi yang sesuai.
+
+**Karantina bila:** ada retak yang belum dinilai, pelapukan aktif, bekas kebakaran, bahan pengawet tidak diketahui, sambungan tercabut, atau identitas komponen hilang. Komponen boleh dibersihkan untuk inspeksi, tetapi jangan diamplas, dibor, atau dipotong sebelum pemeriksa menetapkan bahwa tindakan itu tidak menghapus bukti kerusakan.
+
+Cocokkan bukti dengan desain dan lokasi baru. Beban, angin, hujan, tanah, fondasi, atap, drainase, dan cara penggunaan harus ditentukan ulang; persyaratan bangunan dan beban tidak gugur karena struktur dipindahkan. [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-) dan catatan [SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020) dapat menjadi titik mulai untuk meminta pemeriksaan aturan dan beban yang berlaku. [NEEDS REVIEW: kecocokan struktural, fondasi, PBG/SLF, dan penerimaan lokal belum dapat dipastikan dari paket ini.]
+
+## Langkah 3 — jalankan urutan kerja
+
+Urutannya sederhana tetapi disiplin. Pertama, amankan area, dokumentasikan kondisi sebelum dibongkar, dan beri label pada setiap sambungan. Kedua, lepaskan penutup dan pengikat secara terkendali sambil menyediakan penyangga sementara; jangan menarik batang yang masih menahan elemen lain. Ketiga, angkat dengan metode yang dinilai kompeten, lindungi ujung dari benturan, dan simpan di tempat kering, berventilasi, tidak menyentuh tanah, serta terlindung dari hujan langsung.
+
+Keempat, lakukan inspeksi penerimaan awal di area karantina. Kelompokkan menjadi “siap dinilai”, “perlu pemeriksaan atau perbaikan”, dan “tidak digunakan”. Kelima, cocokkan kelas yang diterima dengan gambar pemakaian ulang; lubang lama, potongan baru, dan perubahan sambungan harus masuk perhitungan, bukan disembunyikan oleh pelapis. Keenam, lakukan pemasangan percobaan atau pilot terbatas bila sistem baru belum pernah diverifikasi. Untuk pekerjaan potong, bor, pengangkatan, ketinggian, dan interaksi publik, susun metode kerja, pengawasan, dan penyelamatan sesuai [Permen PUPR 10/2021](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi). Panduan keselamatan bengkel [ILO](https://www.ilo.org/publications/safety-and-health-wood-workshop) mengingatkan bahwa alat dan proses pemotongan tetap memerlukan pengendalian bahaya; bahan alami atau kerja gotong royong bukan pengganti kompetensi dan pengamanan.
+
+Untuk shelter cepat, koordinasikan logistik, air, sanitasi, akses, perlindungan, dan penerimaan penghuni. UNHCR menekankan penilaian lokasi serta koordinasi otoritas; satu prototipe atau target luas generik tidak cukup untuk menyatakan siap dihuni. Baca [panduan solusi shelter UNHCR](https://emergency.unhcr.org/emergency-assistance/shelter-camp-and-settlement/shelter-and-housing/emergency-shelter-solutions-and-standards) dan [settlement yang aman](https://emergency.unhcr.org/emergency-assistance/settlement-and-shelter/guidance-settlements/safe-and-secure-settlements) untuk daftar pertanyaan koordinasi.
+
+## Titik henti dan kondisi berhenti
+
+Pekerjaan berhenti sebelum pemakaian ulang jika pemeriksa tidak dapat memastikan kondisi, sumber, atau kelas komponen; jika kerusakan menyentuh sambungan dan jalur beban; atau jika desain baru belum memiliki beban, fondasi, perlindungan cuaca, akses, dan rencana kebakaran yang disetujui. Hentikan juga saat terjadi cuaca yang membuat pengangkatan atau pekerjaan tinggi tidak aman, ada paparan bahan kimia yang belum diidentifikasi, atau area kerja beririsan dengan penghuni dan publik tanpa pemisahan.
+
+Kawan Tukang.co.id, jangan melompati hold point dengan menambah baut, mengecat, atau memasang penyangga “sementara” lalu menganggap masalah selesai. Perbaikan hanya mengubah kondisi setelah metode dan penerimaannya disetujui. [NEEDS REVIEW: laporan inspeksi, perhitungan sambungan, rencana kebakaran, dan izin atau persetujuan fungsi harus tersedia sebelum komponen masuk struktur yang dihuni.]
+
+## Verifikasi hasil dan serah terima
+
+Sebelum serah terima, periksa silang empat berkas: daftar komponen dan jejak asalnya; lembar kondisi serta foto sebelum-sesudah; gambar dan perhitungan pemakaian ulang; dan catatan inspeksi, perbaikan, pengujian, serta persetujuan. Di lapangan, cocokkan kode pada batang dengan gambar, pastikan tidak ada komponen karantina yang tertukar, periksa kestabilan dan drainase, lalu catat sisa pekerjaan dan jadwal pemeriksaan ulang.
+
+Serah terima harus menyatakan batas penggunaan: lokasi, fungsi, beban, paparan, larangan memodifikasi, dan siapa yang dihubungi bila retak, lembap, perubahan bentuk, atau sambungan longgar muncul. Untuk shelter sementara, tambahkan rencana pembongkaran berikutnya dan penanganan akhir agar siklus pemakaian ulang tidak mengulang risiko yang sama. Jika satu dokumen atau pemeriksaan kunci hilang, statusnya tetap “ditahan”.
+
+Untuk tindak lanjut lapangan, Anda dapat membandingkan kebutuhan pencatatan dengan tujuan material pada [gazebo](/gazebo), sambil tetap meminta pemeriksaan proyek dan penerimaan tertulis yang spesifik.
+
+## Jalan pintas yang sering menggoda
+
+Jalan pintasnya adalah memakai semua batang yang “masih keras” dan mengandalkan pengalaman tukang. Kekerasan saat diketuk tidak menggambarkan retak tersembunyi, kehilangan penampang, mutu lot, atau perilaku sambungan. Demikian pula, uji furnitur, diameter besar, atau label “ringan” tidak membuktikan kapasitas bangunan. Alternatif yang lebih andal ialah inspeksi per kelompok, bukti pengukuran yang dapat ditelusuri, desain untuk lokasi baru, dan penerimaan tertulis dari pihak berwenang.
+
+## Kesimpulan
+
+Checklist pembongkaran dan penggunaan ulang komponen bambu berakhir pada keputusan berbasis bukti: identifikasi, inspeksi kondisi, cocokkan dengan fungsi dan lokasi baru, pasang dengan metode aman, lalu serahkan dengan catatan dan batas penggunaan. Langkah berikutnya adalah menunjuk pemeriksa dan perancang, membuat kartu komponen, serta mengumpulkan data lokasi sebelum satu batang dipotong atau dipasang kembali. Tanpa [NEEDS DATA: bukti kondisi, desain, dan persetujuan proyek], gunakan komponen hanya pada fungsi yang tidak menambah risiko dan jangan nyatakan shelter siap dihuni.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -74,164 +102,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Pondok Wisata Bambu` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-33
-
-- **Original sources:** [ISO 22157:2019 official record](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html) and [ISO 19624:2018 official record](https://www.iso.org/standard/65528.html?browse=tc).
-- **Purpose for this article:** Ground moisture, density, dimensions, defects, grading, mechanical properties, and lot acceptance.
-- **Safe grounded facts:** Species, age, diameter, colour, seller grade, or one test result does not establish a lot’s characteristic values, furniture strength, joint behavior, or project acceptance.
-- **Limits:** Both records show revision activity in 2026. Obtain current complete editions, representative sampling, identity/maturity/location, seasoned condition, geometry/defects, test reports, grading/acceptance basis, and qualified interpretation under G-01/G-23.
-
-### KR-34
-
-- **Original sources:** [ISO 22156:2021 official record](https://www.iso.org/standard/73831.html?browse=tc).
-- **Purpose for this article:** Ground bamboo load paths, stability, joints, durability, occupied structures, and engineering boundaries.
-- **Safe grounded facts:** A bamboo furniture test, traditional precedent, culm diameter, lashing detail, or “light structure” label does not establish building-scale capacity or Indonesian acceptance.
-- **Limits:** ISO 22156 is under review in 2026 and is not Indonesian law. Obtain current full text, Indonesian load/design basis, exact system, material properties, connections, site/exposure, calculations, drawings, and engineer acceptance under G-01/G-23/G-25.
-
-### KR-38
-
-- **Original sources:** [PP 16/2021 official BPK record](https://peraturan.bpk.go.id/Details/161846/pp-no-16-), [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), and [SNI 8460:2017 official BSN record](https://pesta.bsn.go.id/produk/detail/13506-84602017).
-- **Purpose for this article:** Ground use, site, approvals, loads, foundation, weather, access, construction, inspection, and handover for `BFU-10`.
-- **Safe grounded facts:** Prefabrication, open sides, small size, bamboo material, or a furniture seller does not establish approval, structural, foundation, wind/rain, fire, access, electrical, or functional-worthiness outcomes.
-- **Limits:** Confirm current/local rules, function/site/users, PBG/SLF applicability, survey, loads, ground/water/drainage, foundation, complete bamboo system, roof, fire/access/MEP, K3, inspections, and signed acceptance under G-25.
-
-### KR-41
-
-- **Original sources:** [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 8153:2025 official BSN catalogue](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=91.140.60&key=), and [SNI 9374:2025 official BSN catalogue listing](https://pesta.bsn.go.id/produk/index/461).
-- **Purpose for this article:** Ground roof coverings, supports, wind/rain, drainage, floors/walls, condensation, penetrations, and maintenance.
-- **Safe grounded facts:** Bamboo frame, roof material, pitch, overhang, coating, or “tropical design” does not establish wind, water, thermal, acoustic, condensation, drainage, or service-life performance.
-- **Limits:** Obtain current full standards, site climate/load/rainfall, complete assemblies, product instructions, drainage/discharge, penetrations, fire/MEP interfaces, safe access, inspections, maintenance, and warranty under G-28.
-
-### KR-42
-
-- **Original sources:** [Permen PUPR 14/PRT/M/2017 official BPK record](https://peraturan.bpk.go.id/Details/104477/permen-), [SNI 0225-2:2020 PUIL design record](https://pesta.bsn.go.id/produk/detail/12857-sni0225-22020), and [SNI IEC 62305-2:2009 lightning-risk record](https://pesta.bsn.go.id/produk/detail/7635-sniiec62305-22009).
-- **Purpose for this article:** Ground inclusive access, lighting/power, shock/fire protection, earthing, lightning risk, installation, and verification.
-- **Safe grounded facts:** A ramp, wide opening, low-voltage product, metal roof, or nearby taller object does not establish accessible use, safe electrical installation, or acceptable lightning risk.
-- **Limits:** Confirm function/users/site, current applicability, route/levels/guards/controls, supply/earthing/equipment, lightning assessment, competent design/installation, inspection/testing, records, and maintenance under G-29.
-
-### KR-43
-
-- **Original sources:** [Permen PUPR 10/2021 official JDIH record](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi) and [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop).
-- **Purpose for this article:** Ground cutting/drilling/treatment, excavation, lifting, temporary bracing, height work, public interface, inspection, and handover.
-- **Safe grounded facts:** Natural material, light weight, artisan skill, modular work, community participation, or PPE does not remove design-for-safety, method, competence, supervision, exclusion, rescue, and record needs.
-- **Limits:** Confirm current duties, roles, risk assessment, machinery/chemicals, excavation/lifting/height/electrical controls, temporary works, weather limits, public protection, emergency/rescue, inspections, incidents, and closeout under G-30.
-
-### KR-44
-
-- **Original sources:** [PP 16/2021 official BPK record](https://peraturan.bpk.go.id/Details/161846/pp-no-16-), [SNI 1739:2008 official BSN catalogue](https://pesta.bsn.go.id/produk/index/219), and [SNI 1740:2008 listed in the same BSN catalogue](https://pesta.bsn.go.id/produk/index/219).
-- **Purpose for this article:** Bound bamboo combustibility, surface tests, coatings/treatments, fire resistance, ignition, cooking, egress, separation, and post-fire claims.
-- **Safe grounded facts:** “Fire-retardant,” thick culm, plaster, open sides, sprinkler/extinguisher presence, or a surface-test result does not establish assembly resistance, safe egress, occupancy suitability, or post-fire reuse.
-- **Limits:** Obtain current law/full standards, function/occupancy, ignition/cooking/electrical exposure, exact treated material/assembly/reports, separation/egress/access/suppression strategy, maintenance, incident evidence, and fire/structural review under G-29.
-
-### KR-45
-
-- **Original sources:** [UNHCR Emergency Shelter Solutions and Standards, updated 2026](https://emergency.unhcr.org/emergency-assistance/shelter-camp-and-settlement/shelter-and-housing/emergency-shelter-solutions-and-standards), [UNHCR Safe and Secure Settlements](https://emergency.unhcr.org/emergency-assistance/settlement-and-shelter/guidance-settlements/safe-and-secure-settlements), and [UNHCR shelter-needs assessment](https://emergency.unhcr.org/emergency-assistance/shelter-camp-and-settlement/shelter-and-housing/shelter-needs-assessment).
-- **Purpose for this article:** Ground emergency/modular shelter needs, protection, site, climate, culture, services, accessibility, participation, transition, and local-authority coordination.
-- **Safe grounded facts:** “Rapid,” “modular,” local bamboo, low price, one prototype, or a generic area target does not prove suitability, capacity, safety, dignity, durability, logistics, services, acceptance, or deployment readiness.
-- **Limits:** UNHCR flags some entries as under revision. Obtain affected-population assessment, protection/tenure/site/hazard/service/logistics facts, local/national rules, exact shelter system, participatory design, authority/sector coordination, testing/pilot, operations, maintenance, transition, and accountable review under G-31.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-02, G-03, G-05, G-06, G-10, G-13, G-18, G-23, G-25, G-28, G-29, G-30, G-31
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/warung-bambu.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-wonosobo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BTK-13-04` → `/artikel/logistik-kit-bambu.html` — Logistik Kit Bambu untuk Lokasi Sulit
-- `BTK-13-05` → `/artikel/fondasi-reversibel-bambu.html` — Fondasi Reversibel untuk Struktur Bambu Sementara
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Hasil akhir dan prasyarat
-
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Pembongkaran dan Penggunaan Ulang Komponen Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 1 — tetapkan scope
-
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Pembongkaran dan Penggunaan Ulang Komponen Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 2 — kumpulkan dan cocokkan bukti
-
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Pembongkaran dan Penggunaan Ulang Komponen Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 3 — jalankan urutan kerja
-
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Pembongkaran dan Penggunaan Ulang Komponen Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Pembongkaran dan Penggunaan Ulang Komponen Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Pembongkaran dan Penggunaan Ulang Komponen Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Tukang.co.id!` and uses friendly `Tukang.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

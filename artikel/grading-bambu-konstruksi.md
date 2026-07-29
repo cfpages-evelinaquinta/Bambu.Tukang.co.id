@@ -2,8 +2,9 @@
 article_id: BTK-02-03
 title: "Grading Bambu: Cacat Apa yang Harus Dicatat"
 slug: "grading-bambu-konstruksi"
-description: "Identify suitable bamboo and request traceable material evidence"
-status: outline
+description: "Panduan mencatat cacat bambu, memeriksa kondisi bahan, dan meminta bukti material yang dapat ditelusuri."
+writing_contract_version: "native-id-v2"
+status: draft
 publication_date: "2025-08-13"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -18,53 +19,87 @@ sources:
   - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html"
   - "https://www.iso.org/standard/65528.html?browse=tc"
   - "https://www.iso.org/standard/73831.html?browse=tc"
-  - "https://www.iso.org/standard/82086.html"
-  - "https://www.iso.org/standard/83076.html"
-  - "https://www.iso.org/standard/79460.html"
-  - "https://www.iso.org/standard/79459.html"
-  - "https://www.iso.org/standard/73866.html"
-  - "https://www.iso.org/standard/76864.html"
-  - "https://www.iso.org/standard/73590.html"
-  - "https://www.iso.org/standard/66310.html"
-  - "https://www.iso.org/standard/13773.html"
-  - "https://www.iso.org/standard/13774.html"
-  - "https://www.iso.org/standard/76831.html"
-  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/03/56/35608.html?browse=tc"
-  - "https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0"
   - "https://www.ilo.org/publications/safety-and-health-wood-workshop"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Grading Bambu: Cacat Apa yang Harus Dicatat
 
-## Assignment lock
+Halo, Sobat Tukang.co.id! Batang yang tampak lurus dan kering belum otomatis layak dipakai. Grading bambu yang berguna adalah catatan identitas, kondisi, cacat, dan keputusan sementara untuk setiap batang atau lot—bukan sekadar cap “bagus” atau “jelek”. Keputusan penerimaan akhir tetap mengikuti fungsi, sambungan, paparan, dan kriteria proyek yang disetujui tenaga kompeten.
 
-- **Writer task:** Expand this file into one complete article answering: “Grading Bambu: Cacat Apa yang Harus Dicatat”
-- **Reader and situation:** Identify suitable bamboo and request traceable material evidence
-- **Reader outcome:** Identify suitable bamboo and request traceable material evidence
-- **Primary intent:** Build a material grading record
-- **Reader community:** `Tukang.co.id`
-- **Primary friendly address:** `Sobat Tukang.co.id`
-- **Natural variants:** `Kawan Tukang.co.id` and `Teman Tukang.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Inspection method; structural acceptance is project-specific
-- **Final public route:** `/artikel/grading-bambu-konstruksi.html`
-- **Appointed CMS date:** `2025-08-13` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Mulailah dari gejala yang bisa dilihat atau diukur: retak di ujung atau sepanjang ruas, lubang serangga, perubahan warna, jamur, penyok, kelengkungan, dinding menipis, atau kadar air yang belum diketahui. Tulis lokasinya, ukurannya dengan alat yang tersedia, kapan ditemukan, dan apakah berubah setelah penyimpanan. Nama jenis, umur tebang, atau satu hasil uji tidak cukup untuk mewakili seluruh lot. ISO 21625 membedakan objek seperti culm (batang), strip, bilah, panel, dan produk jadi; ISO 22157 dan ISO 19624 membahas pengukuran serta pengujian bambu, tetapi catatan publiknya tidak menggantikan edisi lengkap dan kriteria proyek. ([ISO 21625:2020](https://www.iso.org/standard/71279.html); [ISO 22157:2019](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html); [ISO 19624:2018](https://www.iso.org/standard/65528.html?browse=tc))
 
-## Opening instructions
+![Ilustrasi Pondok Wisata Bambu](/wp-content/uploads/2024/08/Pondok-Wisata-Bambu.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Tukang.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Grading Bambu: Cacat Apa yang Harus Dicatat**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Tukang.co.id`, `Kawan Tukang.co.id`, or `Teman Tukang.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Ilustrasi umum dari aset lokal bambu.tukang.co.id; bukan dokumentasi proyek tertentu.*
 
+## Mulai dari gejala, bukan tebakan penyebab
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+Pisahkan “yang terlihat” dari “dugaan penyebab”. Pada lembar grading, buat satu baris untuk satu batang (atau beri nomor lot bila batang diterima sebagai kelompok). Isi minimal:
+
+| Kolom | Cara mengisinya |
+|---|---|
+| Identitas | Nomor batang/lot, pemasok, tanggal tiba, lokasi penyimpanan |
+| Bentuk dan ukuran | Panjang yang diperiksa, diameter, ketebalan dinding bila diukur, kelurusan |
+| Kondisi | Kering/basah menurut metode yang dipakai, permukaan, ujung, ruas |
+| Cacat | Jenis, posisi (ruas ke berapa atau jarak dari ujung), panjang/lebar/kedalaman yang terukur |
+| Bukti | Foto dengan nomor yang sama, alat dan tanggal ukur, dokumen asal |
+| Keputusan sementara | Tahan, perlu uji, alihkan ke penggunaan non-struktural, atau usulkan ditolak |
+
+Retak ujung jangan ditulis hanya “ada”. Catat apakah retak mengikuti serat, melintasi ruas, menjalar setelah pemotongan, atau disertai pecah. Untuk lubang, catat jumlah, diameter perkiraan, serbuk, dan apakah lubang menembus. Perubahan warna atau noda dicatat sebagai gejala; jangan menyebutnya pasti jamur atau serangan aktif tanpa pemeriksaan yang mendukung. Kawan Tukang.co.id, foto yang diberi skala dan nomor batang sering lebih dapat ditindaklanjuti daripada foto estetis tanpa konteks.
+
+## Saringan risiko langsung
+
+Batasi akses dan hentikan pemakaian sementara bila ada batang patah, retak yang terus memanjang, bagian yang rapuh saat disentuh, lubang besar atau serbuk baru, atau kondisi basah yang menimbulkan risiko saat dipotong. Simpan batang berstatus “tahan” terpisah dan beri tanda fisik; jangan mencampurnya kembali ke lot yang belum diperiksa.
+
+Jika batang akan memikul beban, jangan memutuskan aman hanya dari tampilan. ISO 22156 membahas sistem bambu untuk struktur, termasuk jalur beban, stabilitas, sambungan, dan kondisi lingkungan, namun standar itu bukan hukum Indonesia dan tidak memberi persetujuan otomatis untuk proyek Anda. ([ISO 22156:2021](https://www.iso.org/standard/73831.html?browse=tc)) **[NEEDS PROJECT REVIEW: kriteria penerimaan, beban, sambungan, dan paparan belum tersedia.]** Minta pemeriksaan kompeten sebelum batang berisiko dipasang atau dibebani.
+
+## Kemungkinan mekanisme
+
+Satu gejala dapat memiliki beberapa kemungkinan mekanisme. Retak bisa berkaitan dengan penyusutan saat pengeringan, ujung yang tidak terlindungi, benturan, atau konsentrasi tegangan di sekitar lubang. Kelengkungan dapat berasal dari bentuk awal, penyimpanan, atau perubahan kadar air. Lubang dan serbuk dapat menunjukkan kerusakan lama atau aktivitas yang masih berlangsung. Jangan mengubah kemungkinan menjadi diagnosis.
+
+Tulis hipotesis sebagai pertanyaan yang dapat diperiksa: “Apakah retak bertambah setelah tujuh hari di tempat teduh?”, “Apakah serbuk baru muncul di bawah lubang?”, atau “Apakah perubahan warna hanya di permukaan?”. Catat kondisi penyimpanan, ventilasi, kontak dengan tanah/air, serta apakah ujung baru dipotong. Untuk bambu olahan, bedakan cacat bahan asal dari cacat perekatan, lapisan, atau sambungan; kata “laminasi” saja tidak membuktikan konstruksi dan paparan yang sama dengan produk lain.
+
+## Urutan pemeriksaan dan pengujian
+
+Gunakan urutan yang mengurangi pemborosan dan menjaga bukti:
+
+1. **Identifikasi dan karantina.** Cocokkan nomor batang, asal, tanggal tiba, bentuk produk (culm, bilah, atau panel), dan tujuan penggunaannya. Minta dokumen pemasok yang dapat ditelusuri; bila identitas atau riwayat proses hilang, tandai sebagai data tidak lengkap.
+2. **Pemeriksaan visual 360 derajat.** Bersihkan debu tanpa menghapus bukti. Tandai setiap cacat pada sketsa sederhana dan foto dari jarak dekat serta keseluruhan batang.
+3. **Pengukuran yang konsisten.** Pakai alat dan titik ukur yang sama untuk diameter, ketebalan, kelurusan, dan dimensi cacat. Catat resolusi alat, kondisi bambu, serta siapa yang mengukur. Jangan menyamakan satu angka dengan nilai karakteristik seluruh lot.
+4. **Sampel dan uji.** Bila hasilnya menentukan penggunaan struktural atau spesifikasi, susun rencana sampel yang mewakili lot dan gunakan metode yang berlaku. ISO 22157 dan ISO 19624 adalah rujukan identitas metode, bukan pengganti laporan laboratorium atau interpretasi ahli. Periksa edisi terkini karena catatan keduanya menunjukkan aktivitas revisi.
+5. **Kaitkan dengan produk dan lokasi.** Batang untuk rangka, furnitur, panel, atau area luar memiliki tuntutan berbeda. Untuk struktur, sambungan, beban, drainase, dan paparan harus masuk ke pemeriksaan tersendiri; hasil pada spesimen tidak otomatis menjadi kinerja rakitan terpasang.
+
+## Cara membaca hasil tanpa melompat ke kesimpulan
+
+Baca lembar grading dalam empat lapis: fakta (misalnya retak 120 mm pada ruas kedua), metode (bagaimana panjang diukur), kriteria (batas proyek atau spesifikasi yang disetujui), lalu keputusan (tahan, uji lanjut, atau usulan alih fungsi). Jika salah satu lapis hilang, tulis “belum dapat diputuskan”, bukan “lulus”.
+
+Jangan memindahkan label pemasok, warna, diameter, atau satu nilai uji menjadi jaminan kekuatan. Demikian pula, batang yang lolos pemeriksaan visual belum membuktikan perilaku sambungan atau kapasitas bangunan. Simpan laporan uji bersama nomor lot dan versi metode; minta penjelasan bila spesimen, kondisi pengujian, atau edisi standar tidak cocok dengan produk yang akan dipasang. Teman Tukang.co.id, pertanyaan paling penting kepada pemasok adalah: “Bukti ini berlaku untuk batang/lot mana, dalam kondisi apa, dan siapa yang menyetujui penggunaannya?”
+
+## Pilihan tindakan dan titik eskalasi
+
+Gunakan status yang mudah dipahami di lapangan:
+
+- **Tahan:** cacat atau identitas belum jelas; pisahkan dan jangan dipotong untuk produksi.
+- **Uji lanjut:** gejala terukur tetapi keputusan memerlukan sampel, kadar air, atau pemeriksaan ahli.
+- **Alih fungsi bersyarat:** hanya setelah kriteria non-struktural tertulis dan tidak bertentangan dengan rancangan.
+- **Usulkan ditolak:** kerusakan berat, bukti asal tidak dapat ditelusuri, atau tidak memenuhi kriteria yang telah disetujui.
+- **Diterima untuk tujuan tertentu:** hanya jika identitas, hasil pemeriksaan, kriteria, dan otoritas penerima terdokumentasi.
+
+Perubahan status harus menyebut siapa yang mengubah, tanggal, bukti baru, dan alasan. Bila ada pekerjaan pemotongan atau pengamplasan, terapkan pengendalian debu, alat pelindung, dan prosedur kerja aman yang sesuai; panduan keselamatan kerja bengkel kayu ILO dapat menjadi titik awal, tetapi bukan pengganti penilaian bahaya di lokasi. ([ILO, *Safety and health in the wood-processing workshop*](https://www.ilo.org/publications/safety-and-health-wood-workshop))
+
+Untuk menguji apakah kriteria Anda sudah sesuai dengan tujuan pemakaian, bandingkan konteks bangunan pada [warung](/warung) dan [gazebo](/gazebo). Keduanya hanya rujukan konteks penggunaan; bukan bukti bahwa lot Anda memenuhi kriteria struktur.
+
+## Jalan pintas yang sering gagal
+
+Jalan pintas yang umum adalah memilih semua batang berdasarkan diameter dan warna, lalu menganggapnya satu mutu. Cara itu gagal karena cacat dapat tersembunyi di ujung, berbeda antar-ruas, atau muncul setelah kadar air berubah. Alternatif yang lebih aman adalah memberi nomor, memeriksa seluruh permukaan, mengambil sampel yang disepakati, dan menyimpan bukti asal serta kondisi penyimpanan. Jika pekerjaan menyangkut struktur atau keselamatan pengguna, serahkan keputusan akhir kepada penanggung jawab teknis yang memiliki data proyek lengkap.
+
+## Kesimpulan: catat cacat sebagai jejak keputusan
+
+Grading bambu yang dapat dipertanggungjawabkan mencatat gejala, lokasi, ukuran, kondisi, identitas lot, bukti foto/dokumen, metode uji, dan status keputusan. Catatan itu membantu memilih bahan yang sesuai dan meminta bukti yang dapat ditelusuri; catatan itu sendiri bukan sertifikat kelayakan atau persetujuan struktur.
+
+Langkah berikutnya: buat lembar bernomor untuk lot yang akan dipakai, minta pemasok melengkapi asal dan riwayat proses, lalu cocokkan hasil pemeriksaan dengan kriteria proyek. **[NEEDS TECHNICAL REVIEW: edisi standar, rencana sampel, dan keputusan penerimaan harus diverifikasi sebelum fabrikasi atau pemasangan.]** Operasikan aturan sederhana: tidak ada nomor dan bukti yang cocok, tidak ada keputusan penerimaan.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -75,194 +110,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Pondok Wisata Bambu` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bambu.tukang.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A defensible article distinguishes material, processed product, tested specimen, installed assembly, company offer, and legal/compliance claim.
-- **Limits:** Recheck the repository and live commercial evidence before any claim about stock, capacity, certification, warranty, price, or completed work.
-
-### KR-32
-
-- **Original sources:** [ISO 21625:2020 official record](https://www.iso.org/standard/71279.html).
-- **Purpose for this article:** Ground material naming, product taxonomy, trade descriptions, comparisons, and specifications.
-- **Safe grounded facts:** A culm, strip, sliver, mat, panel, laminated product, engineered product, and completed furniture or structure are not interchangeable evidence objects.
-- **Limits:** Obtain the full current vocabulary, Indonesian/local names, botanical identity, processing history, product construction, and supplier documentation under G-23.
-
-### KR-33
-
-- **Original sources:** [ISO 22157:2019 official record](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html) and [ISO 19624:2018 official record](https://www.iso.org/standard/65528.html?browse=tc).
-- **Purpose for this article:** Ground moisture, density, dimensions, defects, grading, mechanical properties, and lot acceptance.
-- **Safe grounded facts:** Species, age, diameter, colour, seller grade, or one test result does not establish a lot’s characteristic values, furniture strength, joint behavior, or project acceptance.
-- **Limits:** Both records show revision activity in 2026. Obtain current complete editions, representative sampling, identity/maturity/location, seasoned condition, geometry/defects, test reports, grading/acceptance basis, and qualified interpretation under G-01/G-23.
-
-### KR-34
-
-- **Original sources:** [ISO 22156:2021 official record](https://www.iso.org/standard/73831.html?browse=tc).
-- **Purpose for this article:** Ground bamboo load paths, stability, joints, durability, occupied structures, and engineering boundaries.
-- **Safe grounded facts:** A bamboo furniture test, traditional precedent, culm diameter, lashing detail, or “light structure” label does not establish building-scale capacity or Indonesian acceptance.
-- **Limits:** ISO 22156 is under review in 2026 and is not Indonesian law. Obtain current full text, Indonesian load/design basis, exact system, material properties, connections, site/exposure, calculations, drawings, and engineer acceptance under G-01/G-23/G-25.
-
-### KR-35
-
-- **Original sources:** [ISO 6128:2023 official record](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Ground laminated furniture stock, construction, requirements/tests, handling, storage, packaging, and marking.
-- **Safe grounded facts:** An ISO 6128 scope match does not prove a specific product complies, and indoor furniture material evidence cannot be transferred to outdoor, structural, food-contact, or electrical use.
-- **Limits:** Obtain the current full standard, product construction/adhesive/finish, intended indoor use, reports, production equivalence, handling/storage history, and acceptance evidence under G-01/G-04/G-07/G-23.
-
-### KR-36
-
-- **Original sources:** [ISO 7567:2024 official record](https://www.iso.org/standard/83076.html) and [ISO 6128:2023](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Bound engineered bamboo, glulam, panel, furniture-stock, and structural-product claims.
-- **Safe grounded facts:** Similar appearance or the word “laminated” does not establish common scope, bond/exposure class, structural role, test evidence, or substitution acceptability.
-- **Limits:** Obtain exact product family, construction, adhesive, intended use/exposure, full standard, test reports, production control, design/acceptance basis, and change control under G-01/G-04/G-07/G-23/G-25.
-
-### KR-37
-
-- **Original sources:** [ISO 21629-2:2022 official record](https://www.iso.org/standard/79460.html) and [ISO 21629-1:2021 indoor counterpart](https://www.iso.org/standard/79459.html).
-- **Purpose for this article:** Ground exterior exposure, laminated/scrimber products, handling, drainage, maintenance, and indoor/outdoor boundaries.
-- **Safe grounded facts:** Outdoor flooring evidence does not prove a fence, gazebo, furniture item, coating, or other bamboo product, but it refutes generic indoor-to-outdoor transfer.
-- **Limits:** Obtain exact exterior product/assembly, intended exposure, drainage/ground/fastener/finish interfaces, current product data/tests/instructions, installation, maintenance, and warranty under G-03/G-06/G-07/G-22/G-25.
-
-### KR-25
-
-- **Original sources:** [ISO 7173:2023 — chairs/stools](https://www.iso.org/standard/73866.html), [ISO 7170:2021 — storage units](https://www.iso.org/standard/76864.html), [ISO 19682:2023 — tables/desks](https://www.iso.org/standard/73590.html), and [ISO 19833:2018 — adult beds](https://www.iso.org/standard/66310.html).
-- **Purpose for this article:** Ground product taxonomy, strength/durability/stability, configuration, procurement, QC, diagnosis, and safety articles.
-- **Safe grounded facts:** Product family, intended user/use, complete assembled specimen, configuration, materials, joints/hardware, dimensions, loading/cycles, conditioning, failure/result, edition, and acceptance document determine applicability.
-- **Limits:** Public abstracts do not supply test values or prove a product passes. ISO 7173:2023 is already marked for revision. Resolve current full methods, exact specimen-to-offer equivalence, laboratory scope, results, and Indonesian/project acceptance under G-16.
-
-### KR-26
-
-- **Original sources:** [ISO 7174-1:1988 — upright chairs/stools](https://www.iso.org/standard/13773.html), [ISO 7174-2:1992 — reclining/rocking chairs](https://www.iso.org/standard/13774.html), and [ISO 7170:2021 — storage units](https://www.iso.org/standard/76864.html).
-- **Purpose for this article:** Support stability, anchoring, moving parts, loading, misuse, children, installation, inspection, and urgent-hazard articles.
-- **Safe grounded facts:** Open drawers/doors, extension, load location, adjustable/reclined state, floor level, wall/substrate/anchor, user behavior, damage, missing components, and installation change stability.
-- **Limits:** Do not publish a universal anchor, safe load, test force, or pass claim. Obtain the complete applicable method/requirement, product instructions/report, site/substrate survey, installation design, and competent review under G-17.
-
-### KR-27
-
-- **Original sources:** [ISO 24496:2021 — office-chair dimension methods](https://www.iso.org/standard/76831.html) and [ISO 21015:2007 — office work-chair stability/strength/durability](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/03/56/35608.html?browse=tc).
-- **Purpose for this article:** Bound anthropometry, dimensions, posture/task fit, adjustability, accessibility, and office-chair claims.
-- **Safe grounded facts:** User population, task, duration, posture changes, adjustability, reach, transfer, circulation, clothing/equipment, trial fit, and maintenance all affect usability.
-- **Limits:** No universal “ergonomic” dimension, accessibility compliance, medical benefit, or fit claim without current Indonesian requirements, user/task evidence, applicable product standard, trial, and ergonomics/accessibility review under G-18.
-
-### KR-28
-
-- **Original sources:** [ISO 7173:2023](https://www.iso.org/standard/73866.html), [ISO 7170:2021](https://www.iso.org/standard/76864.html), [ISO 19682:2023](https://www.iso.org/standard/73590.html), and [ISO 24496:2021](https://www.iso.org/standard/76831.html).
-- **Purpose for this article:** Support workplace, hospitality, healthcare, education, food-service, retail, worship, and public-use furniture briefs.
-- **Safe grounded facts:** Users, traffic/duty, activities, cleaning agents/frequency, spills, mobility, accessibility, supervision, evacuation/fire, utilities, privacy/security, replacement, and facility policy must be documented.
-- **Limits:** Resolve current Indonesian sector/building rules, owner infection-control/cleaning policy, exact products/finishes, tests, risk assessment, and relevant professional review under G-19.
-
-### KR-29
-
-- **Original sources:** [ISO/TC 136 current furniture catalogue](https://www.iso.org/committee/52448/x/catalogue/p/1/u/0/w/0/d/0), [ISO 7170:2021](https://www.iso.org/standard/76864.html), and [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop).
-- **Purpose for this article:** Support joints, hinges/slides/extensions, mechanisms, built-ins, anchoring, delivery, installation, relocation, adjustment, and handover.
-- **Safe grounded facts:** Hardware/product identity, declared load/use, mounting material/thickness, fastener/edge distances, alignment, travel/clearance, stops/locks, wall/floor substrate, services, access, inspection, and instructions form the evidence chain.
-- **Limits:** Obtain exact hardware/furniture instructions and reports, site/substrate survey, approved drawings/method, competent installer, safe-work plan, tests, and handover under G-20.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22, G-23, G-24, G-25, G-26, G-27; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/warung-bambu.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-wonosobo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BTK-02-01` → `/artikel/memilih-jenis-bambu-konstruksi.html` — Cara Memilih Jenis Bambu untuk Konstruksi
-- `BTK-02-02` → `/artikel/kualitas-batang-bambu-konstruksi.html` — Umur, Diameter, Ketebalan Dinding, dan Kelurusan Batang
-- `BTK-02-04` → `/artikel/kadar-air-bambu-konstruksi.html` — Kadar Air Bambu dan Dampaknya pada Fabrikasi
-- `BTK-02-05` → `/artikel/traceability-material-bambu.html` — Traceability Bambu dari Kebun hingga Proyek
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Mulai dari gejala, bukan tebakan penyebab
-
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Grading Bambu: Cacat Apa yang Harus Dicatat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Saringan risiko langsung
-
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Grading Bambu: Cacat Apa yang Harus Dicatat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kemungkinan mekanisme
-
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Grading Bambu: Cacat Apa yang Harus Dicatat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Urutan pemeriksaan dan pengujian
-
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Grading Bambu: Cacat Apa yang Harus Dicatat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara membaca hasil tanpa melompat ke kesimpulan
-
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Grading Bambu: Cacat Apa yang Harus Dicatat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Pilihan tindakan dan titik eskalasi
-
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Grading Bambu: Cacat Apa yang Harus Dicatat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Tukang.co.id!` and uses friendly `Tukang.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

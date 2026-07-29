@@ -3,7 +3,8 @@ article_id: BTK-05-02
 title: "Baut, Dowel, dan Risiko Pecah pada Batang Bambu"
 slug: "baut-dowel-sambungan-bambu"
 description: "Choose and inspect lashing, bolts, dowels, plates, and hybrid joints"
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-10-19"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,47 +17,27 @@ technical_review: required
 sources:
   - "https://www.iso.org/standard/73831.html?browse=tc"
   - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html"
-  - "https://www.iso.org/standard/65528.html?browse=tc"
-  - "https://www.iso.org/standard/83076.html"
-  - "https://www.iso.org/standard/82086.html"
+  - "https://www.iso.org/standard/65528.html"
   - "https://www.iso.org/standard/79460.html"
-  - "https://www.iso.org/standard/79459.html"
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-"
   - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
-  - "https://pesta.bsn.go.id/produk/detail/13506-84602017"
+  - "https://www.iso.org/standard/83076.html"
+  - "https://www.iso.org/standard/82086.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Baut, Dowel, dan Risiko Pecah pada Batang Bambu
 
-## Assignment lock
+Halo, Sobat Tukang.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Baut, Dowel, dan Risiko Pecah pada Batang Bambu”
-- **Reader and situation:** Choose and inspect lashing, bolts, dowels, plates, and hybrid joints
-- **Reader outcome:** Choose and inspect lashing, bolts, dowels, plates, and hybrid joints
-- **Primary intent:** Understand mechanical-fastener risks
-- **Reader community:** `Tukang.co.id`
-- **Primary friendly address:** `Sobat Tukang.co.id`
-- **Natural variants:** `Kawan Tukang.co.id` and `Teman Tukang.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No spacing or capacity rule without design evidence
-- **Final public route:** `/artikel/baut-dowel-sambungan-bambu.html`
-- **Appointed CMS date:** `2025-10-19` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Baut atau dowel bukan otomatis membuat sambungan bambu kuat. Pengikat mekanis memusatkan gaya pada area kecil; bila dinding batang tipis, lubang terlalu dekat ujung, atau bambu belum stabil kadar airnya, retak dapat menjalar dari lubang lalu membelah batang. Ikatan tali, pelat, atau sambungan hybrid (gabungan bambu dan baja) kadang lebih sesuai, tetapi pilihan itu tetap bergantung pada jalur beban, paparan cuaca, dan bukti material yang benar-benar tersedia.
 
-## Opening instructions
+Jawaban praktisnya: jangan memilih diameter baut, jarak lubang, atau kapasitas hanya dari kebiasaan tukang. Mulai dengan mengenali jenis batang dan beban, periksa cacat serta kondisi keringnya, lalu minta detail sambungan dan perhitungan untuk pekerjaan yang menahan orang, atap, angin, atau beban tetap. ISO 22156 menempatkan desain struktur bambu, stabilitas, sambungan, dan kondisi penggunaan dalam satu sistem; catatan standar itu juga bukan pengganti aturan dan persetujuan proyek di Indonesia ([ISO 22156:2021](https://www.iso.org/standard/73831.html?browse=tc)). **[NEEDS DESIGN EVIDENCE: ukuran, jarak, dan kapasitas sambungan untuk proyek tertentu belum tersedia.]**
 
-- Open with the exact short salutation: **“Halo, Sobat Tukang.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Baut, Dowel, dan Risiko Pecah pada Batang Bambu**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Tukang.co.id`, `Kawan Tukang.co.id`, or `Teman Tukang.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi Pondok Wisata Bambu](/wp-content/uploads/2024/08/Pondok-Wisata-Bambu.jpg)
 
+Ilustrasi umum dari aset lokal Tukang.co.id; bukan dokumentasi proyek tertentu.
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -67,151 +48,58 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Pondok Wisata Bambu` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bambu.tukang.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A defensible article distinguishes material, processed product, tested specimen, installed assembly, company offer, and legal/compliance claim.
-- **Limits:** Recheck the repository and live commercial evidence before any claim about stock, capacity, certification, warranty, price, or completed work.
-
-### KR-34
-
-- **Original sources:** [ISO 22156:2021 official record](https://www.iso.org/standard/73831.html?browse=tc).
-- **Purpose for this article:** Ground bamboo load paths, stability, joints, durability, occupied structures, and engineering boundaries.
-- **Safe grounded facts:** A bamboo furniture test, traditional precedent, culm diameter, lashing detail, or “light structure” label does not establish building-scale capacity or Indonesian acceptance.
-- **Limits:** ISO 22156 is under review in 2026 and is not Indonesian law. Obtain current full text, Indonesian load/design basis, exact system, material properties, connections, site/exposure, calculations, drawings, and engineer acceptance under G-01/G-23/G-25.
-
-### KR-33
-
-- **Original sources:** [ISO 22157:2019 official record](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html) and [ISO 19624:2018 official record](https://www.iso.org/standard/65528.html?browse=tc).
-- **Purpose for this article:** Ground moisture, density, dimensions, defects, grading, mechanical properties, and lot acceptance.
-- **Safe grounded facts:** Species, age, diameter, colour, seller grade, or one test result does not establish a lot’s characteristic values, furniture strength, joint behavior, or project acceptance.
-- **Limits:** Both records show revision activity in 2026. Obtain current complete editions, representative sampling, identity/maturity/location, seasoned condition, geometry/defects, test reports, grading/acceptance basis, and qualified interpretation under G-01/G-23.
-
-### KR-36
-
-- **Original sources:** [ISO 7567:2024 official record](https://www.iso.org/standard/83076.html) and [ISO 6128:2023](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Bound engineered bamboo, glulam, panel, furniture-stock, and structural-product claims.
-- **Safe grounded facts:** Similar appearance or the word “laminated” does not establish common scope, bond/exposure class, structural role, test evidence, or substitution acceptability.
-- **Limits:** Obtain exact product family, construction, adhesive, intended use/exposure, full standard, test reports, production control, design/acceptance basis, and change control under G-01/G-04/G-07/G-23/G-25.
-
-### KR-37
-
-- **Original sources:** [ISO 21629-2:2022 official record](https://www.iso.org/standard/79460.html) and [ISO 21629-1:2021 indoor counterpart](https://www.iso.org/standard/79459.html).
-- **Purpose for this article:** Ground exterior exposure, laminated/scrimber products, handling, drainage, maintenance, and indoor/outdoor boundaries.
-- **Safe grounded facts:** Outdoor flooring evidence does not prove a fence, gazebo, furniture item, coating, or other bamboo product, but it refutes generic indoor-to-outdoor transfer.
-- **Limits:** Obtain exact exterior product/assembly, intended exposure, drainage/ground/fastener/finish interfaces, current product data/tests/instructions, installation, maintenance, and warranty under G-03/G-06/G-07/G-22/G-25.
-
-### KR-38
-
-- **Original sources:** [PP 16/2021 official BPK record](https://peraturan.bpk.go.id/Details/161846/pp-no-16-), [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), and [SNI 8460:2017 official BSN record](https://pesta.bsn.go.id/produk/detail/13506-84602017).
-- **Purpose for this article:** Ground use, site, approvals, loads, foundation, weather, access, construction, inspection, and handover for `BFU-10`.
-- **Safe grounded facts:** Prefabrication, open sides, small size, bamboo material, or a furniture seller does not establish approval, structural, foundation, wind/rain, fire, access, electrical, or functional-worthiness outcomes.
-- **Limits:** Confirm current/local rules, function/site/users, PBG/SLF applicability, survey, loads, ground/water/drainage, foundation, complete bamboo system, roof, fire/access/MEP, K3, inspections, and signed acceptance under G-25.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22, G-23, G-24, G-25, G-26, G-27; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/warung-bambu-batang.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-batang-hari.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-batang-hari` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-batang` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/toilet-bambu-batang.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/toilet-bambu-batang-hari.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BTK-05-01` → `/artikel/jenis-sambungan-bambu.html` — Jenis Sambungan Bambu dan Kapan Digunakan
-- `BTK-05-03` → `/artikel/ikatan-tali-struktur-bambu.html` — Ikatan Tali pada Bambu: Fungsi dan Batasnya
-- `BTK-05-04` → `/artikel/sambungan-hybrid-bambu-baja.html` — Pelat Baja dan Sambungan Hybrid pada Struktur Bambu
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Baut, Dowel, dan Risiko Pecah pada Batang Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+END MANAGED IMAGE PLAN -->
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Baut, Dowel, dan Risiko Pecah pada Batang Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Dalam artikel ini, baut adalah batang berulir dengan mur atau sistem pengunci yang menekan komponen; dowel adalah pin yang bekerja terutama melalui kontak dan geser di dalam lubang. Pelat membagi atau mengalihkan gaya ke area lain, sedangkan ikatan tali mengikat tanpa membuat lubang besar. Sambungan hybrid menggabungkan pengikat baja dengan elemen bambu atau kayu.
+
+Yang dibahas adalah risiko pecah di sekitar lubang, selip, remuk lokal, korosi pada pengikat, dan perubahan akibat air. Ini bukan tabel kapasitas atau resep jarak lubang. Diameter culm, ketebalan dinding, arah serat, jenis bambu, mutu pengeringan, dan cara beban masuk harus diketahui sebelum angka desain diputuskan. Data satu batang atau satu uji tidak otomatis mewakili satu lot atau rakitan terpasang; pengujian dan pengukuran bambu perlu mengikuti metode yang tepat serta sampel yang mewakili ([ISO 22157:2019](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html), [ISO 19624:2018](https://www.iso.org/standard/65528.html)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Baut, Dowel, dan Risiko Pecah pada Batang Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Saat mur dikencangkan, washer menekan permukaan dan gaya tarik baut masuk ke dinding batang. Gaya itu lalu menyebar melalui serat menuju simpul, pelat, atau batang pasangan. Jika tekanan terkumpul di satu sisi, dinding dapat remuk; jika lubang berada dekat ujung, bidang retak menuju ujung menjadi pendek sehingga batang mudah terbelah. Dowel yang dipukul terlalu rapat dapat bertindak seperti baji. Baut yang terlalu longgar memberi gerak berulang, sementara terlalu kencang merusak serat sebelum sambungan menerima beban kerja.
+
+Urutan pemeriksaan penting. Tandai sumbu gaya, cari posisi ruas dan buku, ukur diameter luar serta tebal dinding di area sambungan, kemudian cek retak rambut, lubang serangga, perubahan warna, dan kebasahan. Setelah lubang dibuat, gunakan washer atau pelat yang sesuai detail desain, kencangkan bertahap, dan amati apakah dinding mulai penyok atau serat terangkat. Pada rakitan yang menerima siklus beban, periksa kembali setelah digunakan; gerak kecil yang berulang dapat memperbesar lubang.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Baut, Dowel, dan Risiko Pecah pada Batang Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kondisi material adalah faktor pertama. Bambu dengan kadar air berubah akan menyusut atau mengembang; celah di sekitar baut ikut berubah. Simpul yang padat dapat merespons berbeda dari ruas berongga. Arah serat, ovalitas, dan ketebalan dinding tidak boleh diasumsikan seragam. Catatan ISO tentang pengukuran dan sifat mekanis menuntut identitas, kondisi, geometri, cacat, serta prosedur uji yang jelas sebelum nilai dipakai untuk keputusan ([ISO 22157:2019](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html)).
+
+Faktor kedua adalah lingkungan dan rakitan. Sambungan di luar ruang menghadapi hujan, pengeringan berulang, genangan, dan korosi. Detail harus menyediakan drainase dan mencegah air terperangkap di sekitar pelat. Bukti untuk lantai bambu luar ruang tidak otomatis berlaku untuk gazebo, pagar, atau furnitur lain; produk dan paparan harus cocok dengan data uji serta petunjuk pemasangan yang sebenarnya ([ISO 21629-2:2022](https://www.iso.org/standard/79460.html)).
+
+Faktor ketiga adalah jalur beban dan konsekuensi kegagalan. Rak dekoratif yang mudah diinspeksi berbeda dari balok atap, tangga, atau bangunan yang dipakai orang. Beban angin, hujan, getaran, dan beban terpusat harus masuk ke pemeriksaan struktur. Untuk bangunan, persyaratan fungsi, lokasi, beban, fondasi, inspeksi, dan serah-terima mengikuti basis proyek serta regulasi yang berlaku; material bambu atau ukuran kecil tidak menghapus kebutuhan itu ([PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-), [SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020)).
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Baut, Dowel, dan Risiko Pecah pada Batang Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan pertanyaan berikut sebelum menentukan pengikat:
+
+| Situasi yang terlihat | Pilihan awal yang masuk akal | Bukti yang masih wajib |
+| --- | --- | --- |
+| Elemen ringan, tidak menahan orang, dan perlu dilepas | Ikatan tali atau pelat dengan baut yang dapat diinspeksi | Detail gaya, kondisi batang, dan cara mencegah selip |
+| Gaya harus dipindahkan di antara dua batang | Pelat/washer lebar atau sambungan hybrid | Gambar kerja, pemeriksaan remuk dan belah, serta spesifikasi baja |
+| Dowel dipakai pada batang berongga | Hentikan pemasangan bila pin hanya mengganjal satu sisi | Detail pengisi, toleransi lubang, dan verifikasi perancang |
+| Sambungan berada di area hujan atau dekat tanah | Prioritaskan drainase, jarak dari genangan, dan perlindungan pengikat | Data paparan, finishing, inspeksi, dan rencana pemeliharaan |
+| Atap, lantai, tangga, atau area publik | Jangan mengandalkan ukuran lapangan | Perhitungan lengkap dan persetujuan profesional **[NEEDS PROFESSIONAL REVIEW]** |
+
+Contoh ini adalah alur keputusan, bukan ukuran siap pakai. Kawan Tukang.co.id dapat menolak komponen yang tampak bagus bila tidak ada catatan asal batang, kondisi pengeringan, dan detail sambungan yang dapat ditelusuri.
+
+Untuk menilai konteks pemakaian sebelum menggambar detail, bandingkan fungsi elemen pada [gazebo](/gazebo) dan [toilet umum](/toilet-umum). Tautan itu hanya membantu mengenali jenis penggunaan; keduanya bukan bukti kapasitas sambungan proyek Anda.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Baut, Dowel, dan Risiko Pecah pada Batang Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan paling sering adalah mengebor lubang lalu mengencangkan mur sampai batang “terasa kaku”. Periksa tanda remuk berbentuk cincin, retak memanjang dari tepi lubang, washer yang menekan tidak rata, dan mur yang kembali longgar. Jangan menutup retak dengan lapisan akhir sebelum sumber gerak ditemukan.
 
-## Objection or shortcut to address
+Kesalahan berikutnya adalah menyamakan bambu laminasi, panel, dan batang bulat hanya karena sama-sama berwarna bambu. Produk rekayasa memiliki susunan, perekat, kelas paparan, dan pengendalian produksi yang spesifik; klaim kinerja harus memakai dokumen produk dan pengujian yang tepat ([ISO 7567:2024](https://www.iso.org/standard/83076.html), [ISO 6128:2023](https://www.iso.org/standard/82086.html)).
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Gunakan checklist lapangan singkat: (1) identitas dan kondisi batang tercatat; (2) retak, buku, dan tebal dinding diperiksa; (3) arah gaya digambar; (4) washer/pelat dan perlindungan air cocok dengan detail; (5) pengencangan serta inspeksi ulang dicatat; (6) pekerjaan yang berisiko pada keselamatan dihentikan sampai perhitungan dan persetujuan tersedia.
 
-## Required conclusion
+## Jalan pintas yang sebaiknya ditolak
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Shortcut yang sering dipilih adalah memakai baut panjang dengan mur besar agar semua sambungan terlihat “lebih kuat”. Panjang tambahan tidak memperbaiki dinding yang tipis atau serat yang sudah retak; justru lubang lebih panjang, tekanan washer lebih tinggi, dan air dapat masuk melalui lebih banyak antarmuka. Alternatif yang lebih aman adalah mengembalikan detail ke jalur beban: pilih area batang yang layak, gunakan distribusi tekanan yang dirancang, dan dokumentasikan pemeriksaan sebelum ditutup.
 
-## Draft completion checklist
+## Kesimpulan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Tukang.co.id!` and uses friendly `Tukang.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Baut dan dowel dapat dipakai pada bambu hanya bila gaya, kondisi batang, geometri lubang, distribusi tekanan, serta lingkungan sambungan dipahami bersama. Ikatan tali atau pelat bukan jaminan otomatis, dan tidak ada jarak atau kapasitas universal yang boleh ditebak dari diameter batang.
+
+Sebelum membeli pengikat, buat foto dan catatan kondisi setiap batang, gambar arah gaya, lalu minta detail sambungan serta perhitungan untuk fungsi yang menahan beban atau orang. Teman Tukang.co.id, bila bukti itu belum ada, tandai pekerjaan sebagai **[NEEDS DESIGN EVIDENCE]** dan jangan menutup sambungan. Aturan operasionalnya sederhana: lubang boleh dibuat setelah jalur beban dan pemeriksaan profesional disetujui.

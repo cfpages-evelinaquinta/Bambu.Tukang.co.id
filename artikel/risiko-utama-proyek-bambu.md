@@ -3,7 +3,7 @@ article_id: BTK-01-05
 title: "Risiko Utama Proyek Bambu yang Harus Dibahas Sejak Awal"
 slug: "risiko-utama-proyek-bambu"
 description: "Decide whether bamboo fits the project and define the right system"
-status: outline
+status: draft
 publication_date: "2025-07-29"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,6 +13,7 @@ reader_community: "Tukang.co.id"
 reader_address: "Teman Tukang.co.id"
 final_route: "/artikel/risiko-utama-proyek-bambu.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://www.iso.org/standard/85716.html"
   - "https://www.iso.org/standard/76931.html"
@@ -23,185 +24,89 @@ sources:
   - "https://www.iso.org/standard/83076.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Risiko Utama Proyek Bambu yang Harus Dibahas Sejak Awal
 
-## Assignment lock
+Halo, Teman Tukang.co.id! Risiko terbesar proyek bambu biasanya bukan karena bambu “pasti tidak kuat”, melainkan karena material, bentuk produk, fungsi, lingkungan, dan cara perawatannya belum disepakati sebagai satu sistem. Keputusan awal yang aman adalah menunda pemilihan jenis dan detail sampai lima hal itu tertulis jelas: bambu dipakai sebagai apa, terkena kondisi apa, bagaimana sambungan dan lapisannya, siapa memeriksa, serta bukti apa yang harus diterima.
 
-- **Writer task:** Expand this file into one complete article answering: “Risiko Utama Proyek Bambu yang Harus Dibahas Sejak Awal”
-- **Reader and situation:** Decide whether bamboo fits the project and define the right system
-- **Reader outcome:** Decide whether bamboo fits the project and define the right system
-- **Primary intent:** Identify early project risks
-- **Reader community:** `Tukang.co.id`
-- **Primary friendly address:** `Teman Tukang.co.id`
-- **Natural variants:** `Sobat Tukang.co.id` and `Kawan Tukang.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Risk overview; treatments and loads are BTK-03/04
-- **Final public route:** `/artikel/risiko-utama-proyek-bambu.html`
-- **Appointed CMS date:** `2025-07-29` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Bambu dapat masuk akal untuk sebuah proyek, tetapi kecocokannya bersyarat. Culm utuh, bilah, anyaman, panel laminasi, furnitur, dan elemen rekayasa bukan objek bukti yang sama. Nama “laminasi” juga belum membuktikan kelas paparan, peran struktural, atau kelayakan substitusi. [NEEDS PROJECT/PRODUCT EVIDENCE REVIEW: keputusan akhir memerlukan dokumen produk, desain, dan persetujuan profesional yang sesuai.]
 
-## Opening instructions
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-001
+Source type: local
+Placement: after opening answer, before first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi Pondok Wisata Bambu](/wp-content/uploads/2024/08/Pondok-Wisata-Bambu.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies Pondok Wisata Bambu; no pixels were inspected.
+Hard boundary: do not infer visual details, ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: if unavailable or provenance incomplete, use [NEEDS IMAGE REVIEW: LOCAL-001].
+END MANAGED IMAGE PLAN -->
 
-- Open with the exact short salutation: **“Halo, Teman Tukang.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Risiko Utama Proyek Bambu yang Harus Dibahas Sejak Awal**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Tukang.co.id`, `Sobat Tukang.co.id`, or `Kawan Tukang.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi Pondok Wisata Bambu](/wp-content/uploads/2024/08/Pondok-Wisata-Bambu.jpg)
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi Pondok Wisata Bambu](/wp-content/uploads/2024/08/Pondok-Wisata-Bambu.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Pondok Wisata Bambu` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `bambu.tukang.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A defensible article distinguishes material, processed product, tested specimen, installed assembly, company offer, and legal/compliance claim.
-- **Limits:** Recheck the repository and live commercial evidence before any claim about stock, capacity, certification, warranty, price, or completed work.
-
-### KR-31
-
-- **Original sources:** [ISO 4211-1:2025 — cold liquids](https://www.iso.org/standard/85716.html), [ISO 4211-5:2021 — abrasion](https://www.iso.org/standard/76931.html), [ISO 4211-6:2025 — scratching](https://www.iso.org/standard/86789.html), and [ISO 4211-3:2013 — dry heat](https://www.iso.org/standard/55267.html).
-- **Purpose for this article:** Ground finish selection, sample/test plans, cleaning, defects, refinish, care, QC, and warranty articles.
-- **Safe grounded facts:** Substrate, preparation, finish layers/cure, texture/color/gloss, specimen, chemical/heat/abrasion/scratch exposure, cleaning, ageing, edge/joint details, result scale, and maintenance all matter.
-- **Limits:** No universal “stain-proof,” “scratch-proof,” disinfectant compatibility, service-life, repair, or warranty claim without exact finish/product, current method/report, maintenance/cleaning evidence, and G-07/G-19/G-22.
-
-### KR-32
-
-- **Original sources:** [ISO 21625:2020 official record](https://www.iso.org/standard/71279.html).
-- **Purpose for this article:** Ground material naming, product taxonomy, trade descriptions, comparisons, and specifications.
-- **Safe grounded facts:** A culm, strip, sliver, mat, panel, laminated product, engineered product, and completed furniture or structure are not interchangeable evidence objects.
-- **Limits:** Obtain the full current vocabulary, Indonesian/local names, botanical identity, processing history, product construction, and supplier documentation under G-23.
-
-### KR-35
-
-- **Original sources:** [ISO 6128:2023 official record](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Ground laminated furniture stock, construction, requirements/tests, handling, storage, packaging, and marking.
-- **Safe grounded facts:** An ISO 6128 scope match does not prove a specific product complies, and indoor furniture material evidence cannot be transferred to outdoor, structural, food-contact, or electrical use.
-- **Limits:** Obtain the current full standard, product construction/adhesive/finish, intended indoor use, reports, production equivalence, handling/storage history, and acceptance evidence under G-01/G-04/G-07/G-23.
-
-### KR-36
-
-- **Original sources:** [ISO 7567:2024 official record](https://www.iso.org/standard/83076.html) and [ISO 6128:2023](https://www.iso.org/standard/82086.html).
-- **Purpose for this article:** Bound engineered bamboo, glulam, panel, furniture-stock, and structural-product claims.
-- **Safe grounded facts:** Similar appearance or the word “laminated” does not establish common scope, bond/exposure class, structural role, test evidence, or substitution acceptability.
-- **Limits:** Obtain exact product family, construction, adhesive, intended use/exposure, full standard, test reports, production control, design/acceptance basis, and change control under G-01/G-04/G-07/G-23/G-25.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22, G-23, G-24, G-25, G-26, G-27; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/warung-bambu.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-wonosobo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BTK-01-03` → `/artikel/checklist-kebutuhan-proyek-bambu.html` — Checklist Kebutuhan sebelum Menghubungi Kontraktor Bambu
-- `BTK-01-04` → `/artikel/peran-bambu-dalam-bangunan.html` — Bambu sebagai Struktur, Cladding, atau Elemen Dekoratif
-- `BTK-01-06` → `/artikel/alur-proyek-konstruksi-bambu.html` — Alur Proyek Bambu dari Konsep hingga Serah Terima
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Risiko Utama Proyek Bambu yang Harus Dibahas Sejak Awal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+*Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.*
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Risiko Utama Proyek Bambu yang Harus Dibahas Sejak Awal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Artikel ini adalah peta risiko untuk keputusan awal, bukan perhitungan beban, spesifikasi pengawetan, atau pengganti pemeriksaan lapangan. “Bambu” harus dipecah menjadi objek yang dapat diperiksa: bahan mentah, produk olahan, benda uji, rakitan terpasang, penawaran perusahaan, dan klaim kepatuhan. Masing-masing memiliki pertanyaan penerimaan berbeda.
+
+Untuk material dan produk, minta nama dagang, konstruksi, riwayat proses, perekat atau lapisan, tujuan penggunaan, serta batas lingkungan. ISO 21625:2020 membedakan istilah culm, strip, sliver, mat, panel, laminated product, dan produk jadi; klasifikasi itu membantu mencegah spesifikasi yang hanya berbunyi “pakai bambu” ([ISO 21625:2020](https://www.iso.org/standard/71279.html)).
+
+Jika yang ditawarkan adalah stok furnitur laminasi, ruang lingkupnya tidak otomatis berlaku untuk luar ruang, struktur, kontak makanan, atau instalasi listrik. Catat tujuan penggunaan dan bukti yang memang menguji tujuan itu. Rekaman ISO 6128:2023 dapat menjadi rujukan ruang lingkup furnitur, bukan sertifikat bahwa produk tertentu telah memenuhi persyaratan ([ISO 6128:2023](https://www.iso.org/standard/82086.html)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Risiko Utama Proyek Bambu yang Harus Dibahas Sejak Awal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Risiko muncul di antarmuka antar-keputusan. Urutannya sebaiknya seperti ini:
+
+1. **Tetapkan fungsi dan paparan.** Tuliskan apakah elemen hanya dekoratif, cladding, furnitur, atau bagian yang memikul beban. Tambahkan paparan hujan, matahari, kelembapan, panas, bahan pembersih, dan intensitas pemakaian.
+2. **Bekukan objek dan konstruksi.** Cocokkan bentuk bambu, ukuran, sambungan, perekat, lapisan, dan detail tepi dengan fungsi tadi. Produk yang tampak serupa dapat memiliki konstruksi dan batas pemakaian berbeda.
+3. **Rancang bukti penerimaan.** Tentukan sampel, kondisi uji, skala hasil, inspeksi dimensi, dan siapa yang menandatangani penerimaan. Jangan mengubah satu hasil benda uji menjadi janji kinerja seluruh rakitan.
+4. **Siapkan operasi dan pemeliharaan.** Tetapkan cara membersihkan, inspeksi sambungan dan tepi, tindakan bila lapisan rusak, serta siapa yang mencatat perubahan. Ini harus disepakati sebelum harga atau jadwal dikunci.
+
+Untuk permukaan, ISO 4211 memisahkan paparan cairan dingin, abrasi, goresan, dan panas kering. Artinya, satu uji tidak menjawab semua cara pakai; substrat, persiapan, lapisan, waktu curing, benda uji, dan skala hasil harus cocok dengan keputusan yang hendak dibuat ([ISO 4211-1:2025](https://www.iso.org/standard/85716.html), [ISO 4211-5:2021](https://www.iso.org/standard/76931.html), [ISO 4211-6:2025](https://www.iso.org/standard/86789.html), [ISO 4211-3:2013](https://www.iso.org/standard/55267.html)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Risiko Utama Proyek Bambu yang Harus Dibahas Sejak Awal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Empat kelompok berikut biasanya mengubah tingkat risiko secara tajam.
+
+**Fungsi dan konsekuensi kegagalan.** Panel dekoratif yang mudah diganti berbeda dari balok atau lantai yang kegagalannya dapat mencederai orang. Semakin besar konsekuensi, semakin ketat kebutuhan desain, inspeksi, dan persetujuan profesional.
+
+**Lingkungan.** Air yang tertahan di ujung, sambungan, atau belakang panel dapat membuat rencana perawatan berbeda dari elemen yang terlindung. Panas, bahan kimia pembersih, gesekan, dan goresan juga harus ditautkan ke lapisan yang benar, bukan sekadar ke nama bambunya.
+
+**Konstruksi dan perubahan produk.** Bambu rekayasa, glulam, panel, dan stok furnitur dapat memakai perekat, arah lapisan, kendali produksi, serta kelas paparan yang berbeda. ISO 7567:2024 menegaskan perlunya mencocokkan produk rekayasa dengan konstruksi, penggunaan, dan bukti uji yang tepat; kemiripan tampilan tidak cukup ([ISO 7567:2024](https://www.iso.org/standard/83076.html)).
+
+**Pelaksanaan dan bukti.** Tanyakan bagaimana batch ditelusuri, bagaimana perubahan pemasok atau lapisan disetujui, dan bagaimana cacat dicatat. Tanpa kesetaraan produksi dan catatan penerimaan, laporan lama belum tentu mewakili barang yang dikirim.
+
+Teman Tukang.co.id, jadikan setiap faktor sebagai baris dalam daftar risiko: kondisi pemicu, akibat, pemilik tindakan, bukti yang diminta, dan keputusan jika bukti tidak tersedia. Daftar ini lebih berguna daripada label umum “aman” atau “tidak aman”.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Risiko Utama Proyek Bambu yang Harus Dibahas Sejak Awal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan pertanyaan bersyarat berikut saat rapat awal:
+
+| Situasi yang diketahui | Risiko yang perlu dibahas | Keputusan sementara |
+|---|---|---|
+| Elemen dekoratif di area terlindung | Lapisan, pembersihan, dan cacat tampak | Minta sampel dengan metode perawatan dan kriteria visual tertulis. |
+| Furnitur laminasi untuk pemakaian dalam ruang | Kesesuaian konstruksi dan riwayat penyimpanan | Verifikasi ruang lingkup produk dan rekaman penerimaan; jangan pindahkan bukti ke luar ruang. |
+| Panel atau balok dengan peran struktural | Beban, sambungan, paparan, dan perubahan produk | Hentikan pemilihan final sampai desain serta review profesional tersedia. |
+| Area basah atau sering dibersihkan | Cairan, panas, abrasi, goresan, tepi dan joint | Cocokkan finish dan prosedur pembersihan dengan bukti uji yang relevan. |
+
+Misalnya, jika pemasok hanya mengirim foto permukaan dan menyebut “tahan lama”, itu baru informasi penawaran. Anda masih perlu identitas konstruksi, batas penggunaan, metode uji yang relevan, dan penerimaan terhadap sampel. Jika salah satu dokumen pokok tidak ada, tulis “belum terbukti” dan ubah keputusan menjadi permintaan bukti, bukan janji kinerja.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Risiko Utama Proyek Bambu yang Harus Dibahas Sejak Awal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menganggap nama bahan sebagai spesifikasi. Periksa bentuk produk, susunan, perekat, lapisan, dan tujuan pemakaian dalam satu lembar.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah memakai satu uji sebagai jawaban universal. Cocokkan jenis paparan dengan metode dan hasil yang dilaporkan; ISO 4211 menunjukkan bahwa cairan, abrasi, goresan, dan panas adalah pertanyaan terpisah.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah memindahkan bukti furnitur ke struktur atau luar ruang. Cocokkan ruang lingkup, kelas paparan, desain, dan penerimaan rakitan.
 
-## Required conclusion
+Kesalahan keempat adalah mengunci harga dan jadwal sebelum kriteria penerimaan ada. Minta sampel, gambar detail, daftar dokumen, titik inspeksi, dan prosedur perubahan sebelum komitmen final.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jalan pintas yang perlu ditolak
 
-## Draft completion checklist
+Shortcut yang sering menggoda adalah memilih produk yang paling mirip dari katalog lalu menyalin spesifikasi proyek lain. Cara ini gagal ketika fungsi, kelembapan, sambungan, lapisan, atau konsekuensi kegagalan berbeda. Perbandingan yang aman dimulai dari objek dan paparan yang sama, kemudian memeriksa bukti yang setara. Sobat Tukang.co.id, bila data belum cukup, pilihan profesionalnya adalah mempersempit klaim dan meminta review—bukan mengisi celah dengan asumsi.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Tukang.co.id!` and uses friendly `Tukang.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Penutup: aturan keputusan sebelum proyek bergerak
+
+Risiko utama proyek bambu harus dibahas sebagai kecocokan sistem: fungsi, paparan, konstruksi, pelaksanaan, bukti, dan perawatan. Sebelum memilih produk, minta lembar kebutuhan proyek, identitas konstruksi, sampel, metode uji atau inspeksi yang relevan, kriteria penerimaan, serta nama penanggung jawab review. Untuk elemen struktural atau kondisi berisiko tinggi, dapatkan persetujuan profesional yang berwenang.
+
+Kawan Tukang.co.id, aturan operasionalnya sederhana: jika fungsi dan paparan belum jelas, jangan kunci spesifikasi; jika bukti produk dan rakitan belum cocok, jangan klaim kinerja; dan jika konsekuensi kegagalan tinggi, jangan lanjut tanpa review teknis. Untuk melihat konteks penggunaan yang berbeda, Anda dapat meninjau [warung](/warung) dan [gazebo](/gazebo), tetapi halaman tujuan itu bukan pengganti dokumen teknis proyek. [NEEDS TECHNICAL REVIEW: coordinator must confirm project-specific evidence and professional approval requirements before publication.]

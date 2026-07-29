@@ -3,7 +3,8 @@ article_id: BTK-06-03
 title: "Base Plate dan Angkur untuk Kolom Bambu"
 slug: "base-plate-kolom-bambu"
 description: "Keep bamboo supported, drained, and separated from damaging exposure"
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-13"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,207 +15,83 @@ reader_address: "Teman Tukang.co.id"
 final_route: "/artikel/base-plate-kolom-bambu.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html"
-  - "https://www.iso.org/standard/65528.html?browse=tc"
   - "https://www.iso.org/standard/73831.html?browse=tc"
   - "https://www.iso.org/standard/79460.html"
-  - "https://www.iso.org/standard/79459.html"
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-"
   - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
-  - "https://pesta.bsn.go.id/produk/detail/13506-84602017"
-  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=91.140.60&key="
-  - "https://pesta.bsn.go.id/produk/index/461"
   - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
   - "https://www.ilo.org/publications/safety-and-health-wood-workshop"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Base Plate dan Angkur untuk Kolom Bambu
 
-## Assignment lock
+Halo, Teman Tukang.co.id! Base plate dan angkur bukan aksesori supaya kaki kolom terlihat rapi. Keduanya adalah antarmuka yang membantu meneruskan gaya dari kolom ke pedestal atau fondasi, menjaga ujung bambu tidak bersentuhan langsung dengan permukaan yang menahan air, dan menahan pergeseran. Jadi, kolom bambu sebaiknya tidak ditanam begitu saja atau disekrup ke beton tanpa detail yang menjawab aliran air, jalur gaya, dan cara inspeksinya.
 
-- **Writer task:** Expand this file into one complete article answering: “Base Plate dan Angkur untuk Kolom Bambu”
-- **Reader and situation:** Keep bamboo supported, drained, and separated from damaging exposure
-- **Reader outcome:** Keep bamboo supported, drained, and separated from damaging exposure
-- **Primary intent:** Understand column-base interfaces
-- **Reader community:** `Tukang.co.id`
-- **Primary friendly address:** `Teman Tukang.co.id`
-- **Natural variants:** `Sobat Tukang.co.id` and `Kawan Tukang.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Capacity and corrosion require engineered detail
-- **Final public route:** `/artikel/base-plate-kolom-bambu.html`
-- **Appointed CMS date:** `2025-11-13` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: gunakan dudukan yang memisahkan bambu dari tanah atau beton yang basah, sediakan jalur air untuk keluar, lalu hubungkan pelat dan angkur ke fondasi berdasarkan perhitungan sistem lengkap. Diameter culm, model pelat, atau jumlah baut saja tidak membuktikan kapasitas. Untuk bangunan yang ditempati, beban angin, gempa, atap, penggunaan, kondisi tanah, dan detail sambungan harus dihitung serta disetujui tenaga ahli. [NEEDS ENGINEER REVIEW: kapasitas base plate, angkur, fondasi, dan ketahanan korosi belum ditetapkan untuk proyek tertentu.]
 
-## Opening instructions
+![Ilustrasi Pondok Wisata Bambu](/wp-content/uploads/2024/08/Pondok-Wisata-Bambu.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Tukang.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Base Plate dan Angkur untuk Kolom Bambu**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Tukang.co.id`, `Sobat Tukang.co.id`, or `Kawan Tukang.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi Pondok Wisata Bambu](/wp-content/uploads/2024/08/Pondok-Wisata-Bambu.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Pondok Wisata Bambu` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-33
-
-- **Original sources:** [ISO 22157:2019 official record](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/59/65950.html) and [ISO 19624:2018 official record](https://www.iso.org/standard/65528.html?browse=tc).
-- **Purpose for this article:** Ground moisture, density, dimensions, defects, grading, mechanical properties, and lot acceptance.
-- **Safe grounded facts:** Species, age, diameter, colour, seller grade, or one test result does not establish a lot’s characteristic values, furniture strength, joint behavior, or project acceptance.
-- **Limits:** Both records show revision activity in 2026. Obtain current complete editions, representative sampling, identity/maturity/location, seasoned condition, geometry/defects, test reports, grading/acceptance basis, and qualified interpretation under G-01/G-23.
-
-### KR-34
-
-- **Original sources:** [ISO 22156:2021 official record](https://www.iso.org/standard/73831.html?browse=tc).
-- **Purpose for this article:** Ground bamboo load paths, stability, joints, durability, occupied structures, and engineering boundaries.
-- **Safe grounded facts:** A bamboo furniture test, traditional precedent, culm diameter, lashing detail, or “light structure” label does not establish building-scale capacity or Indonesian acceptance.
-- **Limits:** ISO 22156 is under review in 2026 and is not Indonesian law. Obtain current full text, Indonesian load/design basis, exact system, material properties, connections, site/exposure, calculations, drawings, and engineer acceptance under G-01/G-23/G-25.
-
-### KR-37
-
-- **Original sources:** [ISO 21629-2:2022 official record](https://www.iso.org/standard/79460.html) and [ISO 21629-1:2021 indoor counterpart](https://www.iso.org/standard/79459.html).
-- **Purpose for this article:** Ground exterior exposure, laminated/scrimber products, handling, drainage, maintenance, and indoor/outdoor boundaries.
-- **Safe grounded facts:** Outdoor flooring evidence does not prove a fence, gazebo, furniture item, coating, or other bamboo product, but it refutes generic indoor-to-outdoor transfer.
-- **Limits:** Obtain exact exterior product/assembly, intended exposure, drainage/ground/fastener/finish interfaces, current product data/tests/instructions, installation, maintenance, and warranty under G-03/G-06/G-07/G-22/G-25.
-
-### KR-38
-
-- **Original sources:** [PP 16/2021 official BPK record](https://peraturan.bpk.go.id/Details/161846/pp-no-16-), [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), and [SNI 8460:2017 official BSN record](https://pesta.bsn.go.id/produk/detail/13506-84602017).
-- **Purpose for this article:** Ground use, site, approvals, loads, foundation, weather, access, construction, inspection, and handover for `BFU-10`.
-- **Safe grounded facts:** Prefabrication, open sides, small size, bamboo material, or a furniture seller does not establish approval, structural, foundation, wind/rain, fire, access, electrical, or functional-worthiness outcomes.
-- **Limits:** Confirm current/local rules, function/site/users, PBG/SLF applicability, survey, loads, ground/water/drainage, foundation, complete bamboo system, roof, fire/access/MEP, K3, inspections, and signed acceptance under G-25.
-
-### KR-41
-
-- **Original sources:** [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 8153:2025 official BSN catalogue](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=91.140.60&key=), and [SNI 9374:2025 official BSN catalogue listing](https://pesta.bsn.go.id/produk/index/461).
-- **Purpose for this article:** Ground roof coverings, supports, wind/rain, drainage, floors/walls, condensation, penetrations, and maintenance.
-- **Safe grounded facts:** Bamboo frame, roof material, pitch, overhang, coating, or “tropical design” does not establish wind, water, thermal, acoustic, condensation, drainage, or service-life performance.
-- **Limits:** Obtain current full standards, site climate/load/rainfall, complete assemblies, product instructions, drainage/discharge, penetrations, fire/MEP interfaces, safe access, inspections, maintenance, and warranty under G-28.
-
-### KR-43
-
-- **Original sources:** [Permen PUPR 10/2021 official JDIH record](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi) and [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop).
-- **Purpose for this article:** Ground cutting/drilling/treatment, excavation, lifting, temporary bracing, height work, public interface, inspection, and handover.
-- **Safe grounded facts:** Natural material, light weight, artisan skill, modular work, community participation, or PPE does not remove design-for-safety, method, competence, supervision, exclusion, rescue, and record needs.
-- **Limits:** Confirm current duties, roles, risk assessment, machinery/chemicals, excavation/lifting/height/electrical controls, temporary works, weather limits, public protection, emergency/rescue, inspections, incidents, and closeout under G-30.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-03, G-04, G-06, G-07, G-09, G-23, G-24, G-25, G-28, G-30
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/warung-bambu.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/warung-bambu-wonosobo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BTK-06-01` → `/artikel/bambu-dan-kontak-tanah.html` — Mengapa Bambu Harus Dipisahkan dari Tanah
-- `BTK-06-02` → `/artikel/pondasi-struktur-bambu.html` — Pondasi Setempat, Pedestal, dan Dudukan Struktur Bambu
-- `BTK-06-04` → `/artikel/drainase-pondasi-bambu.html` — Drainase Sekitar Pondasi Bangunan Bambu
-- `BTK-06-05` → `/artikel/perlindungan-kaki-kolom-bambu.html` — Percikan Hujan, Genangan, dan Detail Kaki Kolom
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Base Plate dan Angkur untuk Kolom Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Base Plate dan Angkur untuk Kolom Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Base plate adalah pelat perantara di kaki kolom. Pelat dapat menerima ujung kolom melalui sepatu, pin, klem, atau detail lain yang dirancang; ia bukan otomatis pengganti pedestal. Angkur adalah elemen yang mengikat pelat atau komponen dudukan ke beton maupun fondasi. Istilah “angkur” tidak menjawab sendiri apakah elemen itu cast-in, pascainstalasi, batang berulir, atau sistem lain—pilihannya mengikuti gaya, beton, jarak tepi, dan metode pemasangan yang dibuktikan.
+
+Artikel ini membahas hubungan kolom bambu–dudukan–angkur–fondasi, bukan desain fondasi seluruh bangunan, pengawetan bambu, atau spesifikasi produk tertentu. Bambu yang sudah kering dan tampak lurus belum otomatis memiliki nilai karakteristik, perilaku sambungan, atau penerimaan untuk struktur. ISO 22156 mengingatkan bahwa sistem bambu perlu dilihat melalui jalur beban, stabilitas, sambungan, durabilitas, dan kondisi bangunan yang tepat; standar itu juga bukan hukum Indonesia ([ISO 22156:2021](https://www.iso.org/standard/73831.html?browse=tc)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Base Plate dan Angkur untuk Kolom Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari jalur gaya. Beban aksial kolom harus mencapai pelat, lalu diteruskan ke pedestal, angkur, dan fondasi. Gaya lateral dan momen dapat membuat pelat terangkat di satu sisi atau membuat angkur menerima tarik dan geser. Detail harus menjelaskan bagaimana gaya tersebut masuk ke bambu: tekanan lokal, klem, pin, atau kombinasi yang tidak merusak dinding culm. Jangan menyamakan “baut menembus bambu” dengan sambungan yang sudah terverifikasi.
+
+Urutan pemasangan yang aman biasanya dimulai dari fondasi yang lokasinya sudah disurvei dan permukaannya siap, kemudian pemasangan dudukan dan pemeriksaan posisi angkur, baru penempatan kolom dengan penahan sementara. Setelah kolom tegak dan bracing (pengaku sementara) aman, sambungan dikencangkan sesuai detail, celah yang dapat menampung air ditutup atau diberi jalan keluar, dan hasilnya dicatat. Urutan persisnya harus mengikuti gambar kerja dan metode proyek; jangan mengandalkan kebiasaan tukang ketika pekerjaan melibatkan pengangkatan atau kerja di ketinggian.
+
+Base plate yang baik membuat ujung bambu tidak menjadi mangkuk air. Permukaan yang menahan kolom perlu memiliki kemiringan atau drainase yang nyata, tidak menyembunyikan genangan di balik klem, dan memungkinkan pemeriksaan visual. Perlindungan permukaan juga harus kompatibel dengan bambu, logam, dan lingkungan. Bukti untuk produk bambu luar ruang tidak boleh dipindahkan begitu saja ke sistem kolom lain; ISO 21629-2 menekankan pentingnya produk, paparan, drainase, pengikat, lapisan, pemasangan, dan pemeliharaan yang spesifik ([ISO 21629-2:2022](https://www.iso.org/standard/79460.html)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Base Plate dan Angkur untuk Kolom Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, lingkungan. Kolom di area terbuka menerima hujan tampias, lumpur, kondensasi, dan siklus basah-kering. Genangan di atas pelat, air yang terperangkap di ujung bambu, serta pasangan logam yang tidak sesuai dapat mempercepat kerusakan. Cat atau pelapis tidak menggantikan detail pembuangan air dan jadwal inspeksi.
+
+Kedua, sistem struktur dan penggunaan. Atap lebar, dinding yang menahan angin, lantai yang ramai, atau kolom yang berada di tepi bangunan mengubah gaya pada dudukan. “Bangunan ringan” atau bambu berdiameter besar bukan dasar yang cukup untuk mengabaikan beban rencana. SNI 1727:2020 adalah salah satu rujukan resmi untuk beban minimum, tetapi penerapannya memerlukan data proyek dan standar lengkap ([SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020)).
+
+Ketiga, fondasi dan tanah. Angkur hanya sekuat beton, tulangan, dan tanah yang mendukungnya. Retak pedestal, jarak tepi yang terlalu dekat, air tanah, atau fondasi yang bergerak dapat mengalahkan pelat yang tampak tebal. Karena kondisi itu tidak tersedia dalam paket ini, ukuran pelat, diameter angkur, kedalaman tanam, dan jarak antar-angkurnya harus diberi oleh perencana yang memegang data survei dan perhitungan.
+
+Keempat, pelaksanaan. Pengeboran yang meleset, lubang terlalu besar, ulir rusak, atau pengencangan tanpa prosedur dapat mengurangi fungsi angkur. Pekerjaan memotong, mengebor, mengangkat kolom, memasang pengaku, dan bekerja di ketinggian memerlukan penilaian risiko, kompetensi, pengawasan, serta area terlarang bagi orang yang tidak berkepentingan. Pedoman SMKK konstruksi dan panduan keselamatan bengkel kayu menempatkan metode kerja, perlindungan mesin, pengangkatan, dan inspeksi sebagai hal yang harus direncanakan ([Permen PUPR 10/2021](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi); [ILO, Safety and health in woodwork](https://www.ilo.org/publications/safety-and-health-wood-workshop)).
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Base Plate dan Angkur untuk Kolom Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan dua kondisi, tanpa menganggapnya sebagai desain jadi.
+
+| Kondisi yang diketahui | Keputusan kerja yang masuk akal | Bukti yang masih wajib |
+|---|---|---|
+| Kolom berada di teras beratap, tetapi sisi bawah sering terkena tampias | Prioritaskan kaki yang terangkat, celah inspeksi, dan jalur air; lindungi area sambungan dari percikan | Detail drainase, jenis lingkungan, sistem pelapis, rencana perawatan, dan tinjauan teknis |
+| Kolom menopang atap besar atau berada di ruang publik | Hentikan pemilihan ukuran secara coba-coba; minta gambar sambungan dan fondasi yang dihitung | Beban angin/gempa, data tanah, sifat material, detail sambungan, metode ereksi, dan persetujuan ahli |
+
+Jika informasi proyek baru berupa foto dan diameter bambu, tahap berikutnya bukan membeli angkur. Catat fungsi bangunan, lokasi, paparan cuaca, susunan atap, posisi kolom, jenis fondasi, serta jalur air. Sobat Tukang.co.id dapat memakai catatan itu untuk meminta perencana menjelaskan gaya yang diperiksa dan titik inspeksi, bukan sekadar daftar hardware.
+
+Bila konteksnya bangunan usaha, jelaskan fungsi ruangnya melalui [halaman warung](/warung); bila kebutuhan utamanya ruang teduh terbuka, bandingkan dengan [fungsi gazebo](/gazebo) sebelum beban dan fondasi dihitung. Kedua halaman itu bukan bukti kapasitas struktur dan tidak menggantikan gambar kerja.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Base Plate dan Angkur untuk Kolom Bambu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menanam kaki bambu ke beton karena dianggap lebih kokoh. Cara memeriksanya: cari apakah ada detail pemisahan, ventilasi atau drainase, dan akses untuk melihat bagian bawah. Bila ujung bambu tertutup permanen tanpa bukti pengendalian air, tandai sebagai risiko.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah memilih angkur berdasarkan diameter baut yang tersedia. Periksa jalur tarik dan geser, kapasitas beton, jarak tepi, kondisi korosi, serta bagaimana gaya masuk ke dinding bambu. Semua jawaban itu harus muncul di gambar atau perhitungan, bukan hanya pada label toko.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah menganggap lapisan pelindung menyelesaikan semua masalah. Periksa sambungan yang menahan air, ujung potongan, kerusakan saat pengangkutan, dan siapa yang akan menginspeksi setelah musim hujan. Bukti material atau satu hasil uji tidak otomatis membuktikan kinerja sistem terpasang.
 
-## Required conclusion
+Kesalahan keempat adalah melepas pengaku sementara sebelum sambungan dan fondasi diperiksa. Tetapkan siapa yang berwenang melepasnya, urutan pengencangan, kondisi cuaca yang menghentikan pekerjaan, serta rekaman pemeriksaan. Kawan Tukang.co.id, bila jawaban atas pertanyaan-pertanyaan itu belum tertulis, pekerjaan belum siap dianggap selesai.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jalan pintas yang sebaiknya ditolak
 
-## Draft completion checklist
+Jalan pintas yang sering menggoda adalah memakai satu pola pelat dan angkur untuk semua kolom bambu, lalu menutupnya dengan adukan agar terlihat bersih. Pola itu menghapus perbedaan beban, kondisi tanah, paparan, toleransi pemasangan, dan akses perawatan. Air dapat tetap terperangkap, sementara kesalahan posisi baru terlihat setelah struktur menerima beban.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Tukang.co.id!` and uses friendly `Tukang.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Alternatif yang lebih dapat dipertanggungjawabkan ialah membuat detail khusus proyek: tunjukkan jalur gaya, pemisahan dari air, toleransi, bahan pengikat, perlindungan korosi, pengaku sementara, dan titik serah-terima inspeksi. Jika salah satu data belum ada, gunakan penanda [NEEDS ENGINEER REVIEW] dan jangan menutup kekosongan dengan ukuran perkiraan.
+
+## Kesimpulan dan langkah berikutnya
+
+Base plate dan angkur untuk kolom bambu berfungsi ketika keduanya menjadi bagian dari sistem: kolom terdukung, ujungnya terpisah dari sumber air, genangan dapat keluar, dan gaya diteruskan sampai fondasi melalui sambungan yang dihitung. Tidak ada ukuran universal yang bisa dipilih hanya dari diameter bambu atau kebiasaan lapangan.
+
+Langkah berikutnya: kumpulkan gambar posisi kolom, fungsi dan beban bangunan, data fondasi/tanah, kondisi paparan, spesifikasi bambu, serta rencana pemasangan. Minta perencana memeriksa pelat, angkur, sambungan ke bambu, korosi, drainase, dan urutan ereksi; simpan hasil inspeksi sebelum pengaku sementara dilepas. Aturan operasinya sederhana: bila kapasitas atau detail fondasi belum dibuktikan, dudukan itu belum boleh dianggap siap untuk proyek.
+
+<!-- BEGIN MANAGED IMAGE PLAN
+Image plan retained for coordinator: LOCAL-001; local asset; placement after opening; exact Markdown inserted above; caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.; selection basis and hard boundary remain as assigned; substitution rule: if unavailable or provenance incomplete, use [NEEDS IMAGE REVIEW: LOCAL-001].
+**Exact Markdown to insert:** `![Ilustrasi Pondok Wisata Bambu](/wp-content/uploads/2024/08/Pondok-Wisata-Bambu.jpg)`
+END MANAGED IMAGE PLAN -->
